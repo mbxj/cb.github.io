@@ -1,66 +1,47 @@
-#EXTINF:-1 tvg-logo="" group-title="亚冠联",9月19日18:00 蒙通联-VS-雪州（英）
-rtmp://hls.zb.ssports.com/ssports/eh4199344_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="亚冠联",9月19日18:00 广岛三箭-VS-卡雅FC（英）
-rtmp://hls.zb.ssports.com/ssports/eh4199324_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="亚冠联",9月19日18:00 悉尼FC-VS-东方（英）
-rtmp://hls.zb.ssports.com/ssports/eh4199327_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="亚冠联",9月19日18:00 宿务-VS-全北现代（英）
-rtmp://hls.zb.ssports.com/ssports/eh4199346_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="亚冠联",9月19日19:45 狮城水手-VS-浙江队（中）
-https://qncdnct.inter.71edge.com/tslive/l1/c68_ssports_20240919_ne23ldye_hevc_1080p50_chst2_t4/rNF7plB1Pt9EjXcftGDuCAyMLTSvpgpou9gn2TW7Rx-xFryZCzPe1DMPHnpzLPrNMyYMah-Lud4kpw3YLQ2Udbew1-qMzavBldCowy_zNf349ZaLuWQBQ57rD8MeliU6o-vY_WGI2HOD8mH4k4WDWK1nUuFTUoF0iQc-3d108z2Dtb7ZJgcjd3QldilNaqOaope6CQwMi8RDuHUZ6VK_ZmK_Kl7jxQd3ngSH416CdJ7xX9ZPQL7gWTSUw7HieaklTCnFRJPfEYTCS1pZqIg6GCjVJ7g-g25L7F3kKOZFOzQ/12c41b8d903ce94179b5df55dd6a08aad/c68_ssports_20240919_ne23ldye_hevc_1080p50_chst2_t4.m3u8?key=0550812372b1a6c685f197072798688bd&dis_t=1726749981&uuid=7166ed7a-66ec1d1d-2ac&qdpv=3&qd_bid=610&qd_sft=0&mss=1&ssl=1&pv=0.1&uid=1819704654&random=1726750010
-
-#EXTINF:-1 tvg-logo="" group-title="亚冠联",9月19日20:00 万隆-VS-泰港（英）
-rtmp://hls.zb.ssports.com/ssports/eh4199357_xinying1080.flv
-
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日00:30 贝尔格莱德红星-VS-本菲卡（中）
-rtmp://hls.zb.ssports.com/ssports/ch4205497_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日00:30 贝尔格莱德红星-VS-本菲卡（英）
-rtmp://hls.zb.ssports.com/ssports/en4205497_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日00:30 费耶诺德-VS-勒沃库森（中）
-rtmp://hls.zb.ssports.com/ssports/ch4205508_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日00:30 费耶诺德-VS-勒沃库森（英）
-rtmp://hls.zb.ssports.com/ssports/en4205508_xinying1080.flv
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="西甲",9月20日01:00 莱加内斯-VS-毕尔巴鄂（中）
-rtmp://hls.zb.ssports.com/ssports/ch4140253_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="西甲",9月20日01:00 莱加内斯-VS-毕尔巴鄂（英）
-rtmp://hls.zb.ssports.com/ssports/en4140253_xinying1080.flv
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:45 亚特兰大-VS-阿森纳（中）
-rtmp://hls.zb.ssports.com/ssports/ch4205456_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:45 亚特兰大-VS-阿森纳（英）
-rtmp://hls.zb.ssports.com/ssports/en4205456_xinying1080.flv
-
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:45 马竞-VS-RB莱比锡（中）
-rtmp://hls.zb.ssports.com/ssports/ch4205462_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:45 马竞-VS-RB莱比锡（英）
-rtmp://hls.zb.ssports.com/ssports/en4205462_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:50 布雷斯特-VS-格拉茨风暴（中）
-rtmp://hls.zb.ssports.com/ssports/ch4205487_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:50 布雷斯特-VS-格拉茨风暴（英）
-rtmp://hls.zb.ssports.com/ssports/en4205487_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:50 摩纳哥-VS-巴萨（中）
-rtmp://hls.zb.ssports.com/ssports/ch4205539_xinying1080.flv
-
-#EXTINF:-1 tvg-logo="" group-title="欧冠",9月20日02:50 摩纳哥-VS-巴萨（英）
-rtmp://hls.zb.ssports.com/ssports/en4205539_xinying1080.flv
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="亚冠二级",09/19 18:00 亚冠二级 第1轮 蒙通联vs雪州
+https://livednow.com/iqiyi/replay/68851089?sign=gAAAAABm7Qc7TLjhL1Auxt0r5VF3HgNiVMsJYvtiewTDKzouuiTdFJ7Mz_n1G741iRhYGW3PoaBPlpIwM5f6_oXs5pStFaTy6Nb4aXo8y3irAKTicLC8HQVg9JWR2ZvZfZrTmT87tf8eCc5LTMa9XT6eiB2WSddXzB5QqrXoDfjWhE9Dk7KGJ1z3crzcGLVZ1yJIpkM-nrurpse3SXyU17ShYQj3Rs5TI6nkGTcCII9uN9IZBr5_CcI4RZyN6rLkyl6UtOJS83SiBxQdBQjh4Ca38pwWZBope7dBZjkRWj0kbQYOUn2uAs2FLzKIfcHkJ68Ho_VUZDd9XdqI61apTX1qQk8wp5ZxiQ%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="亚冠二级",09/19 18:00 亚冠二级 第1轮 广岛三箭vs卡雅FC
+https://livednow.com/iqiyi/replay/68851051?sign=gAAAAABm7Qc7h4qk0IOlip2Fk-bjIeA5OrB2Yj7kSo0mfvBlvSFCUQ8SxgzpCB9kN6KkOlQ-E9na5C4oWhjDQnpGOK7jGM71eY5rxjuC_Gtwdsw9klCrXk5TWGB4CHfP38DOPpthgwkj0aYT2xYBbwGqbZWnfGrW8RoIbWc_X9bXV7sEyYEXIQ-HYMp489Nlx2xFAlcsHpXk-epd38DIr8JA9zAVSDXjoIf06DxPxu0pEWg5wmiAu1w9uJGJ0WxlE6SghB7WQEySz3szBi2cmXVf3pw3ATLVChuX9O9lB5AmDZXfcT-nTnOCdjEVX7RLqlQw4dzEgExKREp6KFkfv-GX-chIb4Kjqw%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="亚冠二级",09/19 18:00 亚冠二级 第1轮 悉尼FCvs东方
+https://livednow.com/iqiyi/replay/68851027?sign=gAAAAABm7Qc7881dIdX-54ZMuv6rRbbmjiP-xnfOZNihEkeecnQElGY1WUFB3w1MreDSu35J7N1323v1wPjf-VHeqH6FZBljVEoWOf565IoNkV6S-Nj7Xby6PRojEEHBaR4XCSUdXXOmCI0Xw5a8SvKTkZk_s1qJAregUJ9Jrqtp8foGqt-k_20TUP-ABfJb5JppnMCbSKI8N21XyFSwpg84UYNxkEtBdWMSKV99EWVh0Xl-1vuQbRmNr2qTx4vN65IGoQO-Rk2R5eayBiZ2HbjSh8e8QKut8qnb_kdw9IlURsVZoM62SnlAOYPwFhSOnFJ0vEXtYdXRo_q0-Jo4zWZOwdHKOp2W8A%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="亚冠二级",09/19 19:45 亚冠二级 第1轮 狮城水手vs浙江队
+https://livednow.com/iqiyi/replay/68851148?sign=gAAAAABm7Qc7Snpx5kHW2Qe5q_bkFK2vd_MipzKjIpZQz0LYEIzugMZl2Rb9OPmneBMPz4TyE7FMoqKb5hWCCQEjJC5wi_Jjic3iSG1AQ_m82TMF1atDLg4tSmbcpfQ3UP1zNrwWim0YqaQn_CfYIBnunYe2QopggbE5Yx0NPZ5GNNw3QpTPlqVGaVDPI1GCjKxyvFRxSTpEEFhkEO6zZ3Xp7LM90PI-dD4ZEySydCYL9rzmSiPlwdv3wnABa2RajbpBdBQYCBcqGP_B7-kdvN4cumCQyS0glShQwakiA0Q8VPRMkBrh_JCncsewZrcmeqy6PMgQ4B4cXzBhwa5fQKo1gFM8Dsg3PQ%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="亚冠二级",09/19 20:00 亚冠二级 第1轮 宿务vs全北现代
+https://livednow.com/iqiyi/replay/68851190?sign=gAAAAABm7Qc7tDNM4tiw5PhGdkaERoeCjJj_otMM5l6pKcO4J3J3523kEJWEdIFCtMA-N5JL5xc4WeCfmlfEbALtqgjUPjtpFM-jj8wEjI8L48RtW92nJB2j5O-DHQ6uoCUwex7_uEGIfpsSEcfPnUUFP0cu6iTpMMyoXeeJw32PFxxZUsL4XR6xTWAanDICWRvGhFk49HimRfhRi7Twhem0y65WgCdCWOn4YtoXOG4YL_EOimc31cySpJqFbNvVsCaPPfqJRWKosRAdo6tsXnFDckQGJzfulvsbY1LvX-Mtr_DyqH-bAe2ZJ0bHCKohWeeutNjSOVoACyTx9IN570USI1V1kN0zSg%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="亚冠二级",09/19 20:00 亚冠二级 第1轮 万隆vs泰港
+https://livednow.com/iqiyi/replay/68851150?sign=gAAAAABm7Qc7c-EXG0dQkibBSxw1eSC0l2O8ySDo77Kdk3YcukLzyH74l_CIre3WXmUhhYPQFN5gnQfl5b30NJ4GrPJqlhcZo-P3Zb-ADr_SJcQX0QnVH1--DoSLSBqlDA9riXEnUlggxwVj1OsJSrEkNcH5Fj3ArDli0lzmrXTC3iJ1Vtbul0B1ves-cZRP2C30m2Y9eGag7iHQEUmJGjvfVK_wbrPGULqkfGFyfYRl4WbAPErZYPmvHVMFL5mF7WOa5y1WESdd7mLMZoy9T8WWvg8wrSp7V3mazdxResUw1jnZhe7ePyEH3ZY9tavrA7e6rsQLizf8k-hNQs9IHEEkMY6eOt453g%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="欧冠杯",09/20 00:30 欧冠 第1轮 贝尔格莱德红星vs本菲卡
+https://livednow.com/iqiyi/replay/68851277?sign=gAAAAABm7Qc78e0K877WSPxPDHhTYI5L3H3gnZdzo0l4pa9kzkTRVYPvelBOOy8-eJkEGcqSyIW4SLyS7nzXKUJaaNCi3UVDEHQJ26ZFKLKZgUh8pSqzm9z4l0cIzvQ97kKDSwtW8j74vMWe0H_H1trCWLRe-k3Jqrx0WGOUH8jn9Sr0ahVcwNBrMYMJ14WO_tGxqEE9e_fX5LUKRLp8eBoxUX8iJHC8ccaCOoli9orM8sILu7v2h2uBlLgNsxGGWrD9he9XiP9JFi-4ku6Shs9VTR-_b7kXskOzay0RzmdmAVlvlwhvrK3W-YRtsJh-ExjtPwDGpbuQOdXIXuptnEnnMfvWWX0DaA%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="欧冠杯",09/20 00:30 欧冠 第1轮 费耶诺德vs勒沃库森
+https://livednow.com/iqiyi/replay/68851269?sign=gAAAAABm7Qc7XXySEZjRu17nutK3l96SwrTwh21MFJzSxDNuUbcfZ81MLR5yPXbUDbn-Z2xEm3uTA-_oTWdyk76SlSyuI4NcTAA3Sqnjzrpr3QZ9WtEzwqN2PcE69Ks7YbsXqtctg1qDHXOYbEw2n0ViVTeLKPQfvJJmJ3uFmjlgFG81TMwsokru7iYsU2Q6xJj-BQmupDdzwC7SP7RCSDHBMQ1tQSAbnZvZ0PSAiTzws9PzlEVW0b_IJWzdNenhme0pjn-xEvTVvPWKaPYplEd2ys8TiiCe7x-x8pP8yJQw7Rf9mM_MyA7dSDouktISp_U6z92mfGUynKo-lBQxM6JyUgPbPFD32g%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="西甲",09/20 01:00 西甲 第7轮 莱加内斯vs毕尔巴鄂
+https://livednow.com/iqiyi/replay/68851290?sign=gAAAAABm7Qc7OTpT0zobItsRecDVyZVi_AUDSvc3G9PTojX9xFkWmoi-zmme_EtIuYJYX6KQWZLNa3tZsMO_IlXOiKOWJwLPP7dTMJECPhdnHvtfZq1fY7kIRAiVfB_jx9nf_jfCm6aUOkzlsUei1aWJValIpS8k3F0I5sL9FJ9xoGs90aFrBKGRTTDNUKqAa3Pa9-pQT48cstwyGrq1S61dLDDPppvzi9XZV8R4LY69A2cPrCeyDaGvvCEZG14wrGvGaz7OigPnM71uTF4h70KstL80-Jdf9otgc8qH3C2q9HkiBh9pfKui0Aut7F4Xc4IjE-wMBsgMVZai0rbV--f7PsaL8qxsPg%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="欧冠杯",09/20 02:45 欧冠 第1轮 亚特兰大vs阿森纳
+https://livednow.com/iqiyi/replay/68851351?sign=gAAAAABm7Qc7f-Wd-gXeP2vKO3UnuPY1Xiox717dpWmcuFzn3Q1V4UISg7SzQeEkA9RXda9CBS4QcW6PUwH4jm_BXwhGv5ZLuvmFhS70nwmTneSvSMYe31gxV4n9JGDoQJqPx0RG9BAxN2cpzhiK9zvgMMP4rmquDXzivCeMWu5-lJjUOEGd4n6xK3viSWBeOdWsaV3-CfVRM6rxhOfVlF69GXgsUG7hLoK-28oH5L-qiAy3Ru2CnxTD91rapL1ff3usmqtnMqI3-cBAx3MxWLw9zOpcigT8yPaubLSUnWHzAMjkLGVCekKOB7mVldJKD9kNVXOZUrhh8JJTGBidq9Sr7nwDsl8ndQ%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="欧冠杯",09/20 02:45 欧冠 第1轮 马竞vsRB莱比锡
+https://livednow.com/iqiyi/replay/68851369?sign=gAAAAABm7Qc70L4Q75SuqD8Dg5VAyq8BSNVNR4CgsUZRn6Oc2D_wpBPAstrVsEUvVur8TZtDJNBiaod-i25qNjVFNufSs4VrvOLnlvEZ1w3mVFvTCzdMHaR7W5ciTCYyby_6P_-FL7gk9PnKp_mZ99IRxpU0FX_ZAWAWytbhDoWYipDQmig07twYfu-MzHWQ9OPum5dj2wJ0XWrlv4BqEHV_e9N_C1fNskbFhfMciE_0PvpBjp_u4ic7edoT4qK281Tuhp9oMr90vwYWUf--qfZu2w0X2Chjs93FvS6P_nnHPRwEbIjxMEpAzMpTQELOfgRN5Zi7pyRbGo7yWrjAngOjShtaU8r8Ng%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="欧冠杯",09/20 02:50 欧冠 第1轮 布雷斯特vs格拉茨风暴
+https://livednow.com/iqiyi/replay/68851359?sign=gAAAAABm7Qc75PDKawkMnrajAkbxYm1MXJNRxmxVgZqiKL20navSrIAx49vOMHwk92cUNhVJM5FYcTGdA8qcAwzgLQqLZ1DBtRp_P2amlfDdI1-XmnYDh-AkURkYf3xUMhxa7Yp-5iA8Glp8X8b3fNKiPLvNt0syXe64BZdmqx5jpQ2FNYHEb5pDTwmlsPRIZCNZsGX3-LjmfBD_zkZkRWzK49zpVQnf2fsd0FQXh5ilpNQbmV9lsOhYS65jBT-U3xUes4BMK8K06TMXAHNfOlgPxWFksYcBF2zqBZ6AlUPRMeFG8eTRPff4FTxtvoOMhMQJr3EyYs_poZYUzYAK4f1K_yGTOzXb9A%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/欧冠.png" group-title="欧冠杯",09/20 02:50 欧冠 第1轮 摩纳哥vs巴萨
+https://livednow.com/iqiyi/replay/68851360?sign=gAAAAABm7Qc7vhTbndxyVwYL2ZBflgGh6Z62-Jz3QyWEZ7TcIFpdQuAbgArQI1NMswvct8NEFwpCtBi5KKKpcSJ9afTtpCzmK5xggbebQD20s3SL8KIn_W2imd2J0B_myB6m9rM1jbXGh_Ldq0SdTTUhvSPyL76BQHJmZmLE8m3b_07Ktpi0UPiz9wzlEglhfVVigT2-ote3oVeKq9hhXS1AZ0HTwMS6NM2Lo8QSm6C9zNdtUuOqjKmvadE02zHBXxGavA8pmT8YzlUzrvVTWbNFsNSJcXdhisquQD1JN0FmyjiQtAOIdQ654Pri8WTRUilY13PhYa3pAYr22dfVTkZE1Z060DTStQ%3D%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/20 18:30 网球 拉沃尔杯第1日-鲁德vs塞伦多洛（中文） 胡力涛
+https://livednow.com/iqiyi/live/4061064875061123?sign=gAAAAABm7Qc75uZ3d54iICo1VF74XCcdCTzeDiVBkN-_TmgMxH6oruqwwLknaEf5YkPsioZJju1pVdAzgz_wHzEAJb8ew-EOcQ1wVGUDANacxEH5WrFL54O8l4cbSlIWUA_ZwfzYIpNW0PgYzqQ7I-1joFL10lTij0gKYBcou4I5U42cGG0Xek-ddMTnTZ2xIr8ZUXSb_nT8a4qg_HeGD6PbAthI0ie6j2FSG1pE02aYmVZUEwi-uf518KjabL6I2FE6R1nOUMFYSBZNZJ7T32ukVHdrAxQ5Vw76x408Pndw9dA4qCMtdMtJHsBVYh40rhfyIw-LLuDNPBr7wO7VCpPLyowjYrLxrsJwP_qXM9p5KH12OH1EZ0g%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/20 18:30 网球 拉沃尔杯第1日-鲁德vs塞伦多洛（中文） 现场原声
+https://livednow.com/iqiyi/live/4891306527420923?sign=gAAAAABm7Qc7zypFqcOlDVyjZyp9zPzj_brgRMfx1z2yQ-pI61qU147sn-c_ASARPcg_v9wSA_aP-guum7nosCWc0gbxPMChHAq3xyaqEHXwp0m2-P9FHhE1q9TTq1o0tgAsZCVyj4vFszxioIyowmD6Jd_YChpmytnnXdTM4xEKyDbYZg9mzzA6lWoSILSVLExsbjUaNnQnql-vPCvqciZYYmBODjfEZwdxiAPgZch8jK1Mp8QcKMUp4GXx3D4yg4dUm1_57UVejjXe9Xj3C8NsdgN_b7AUhs3yHhpiAJ9LnF9ICyRtqo0JjbB4iS4S2THm5NDwpF4gBEhD3192QvyMwdeogxh8g_eDPybkoGi7aVN7JeAMAv0%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/20 21:00 网球 拉沃尔杯第1日-西西帕斯vs科基纳基斯（中文） 胡力涛
+https://livednow.com/iqiyi/live/6438684447647923?sign=gAAAAABm7Qc7zYnXmBVHHcBI8JTPgXzDP71ctZlI1ayVEwL6nN6HOj6MFLpjOmJ_K8RKl_bz6kBGGUG1x0Iq2HOvlAhM0PKYKTjP5Uj482CQ5AGK8-28SPJ08OLptnTgGG_PPYHnbhXWL1NT55v0tX3yy2HygeCvVI-iLfjfYDJ4XC8mNYdw9HXhSJ7zB-HPy_7k2-nZ7lGgxcQJxNOHSnYfMWvPYlM4Eur8r61cDXVJLLCsswmglb0EaLKLARksh_dVMSdwStkdUdbC-qOR86-BOrCdRxctzxqwYTv2mob8cAgqvl0Gvd_OsQXCitdimTLFsXDqLtbC4rzP69BbqBjDEmfSiRlCPsNE4vxiTyXuoTDkjaxdz-c%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/20 21:00 网球 拉沃尔杯第1日-西西帕斯vs科基纳基斯（中文） 现场原声
+https://livednow.com/iqiyi/live/2243357064172523?sign=gAAAAABm7Qc7G18Rr7sEhc4Qg0f8HKf0Eokwi-SAmUAfSKqIM7NipoDCUN4l11UEl4KQpPVi_Dc3FzYoKxZBaPkwqxAZ1COuZKciWYnpZQLNddDxnjNsZEjO2YFw9KGMR1hcETW5qlg8MN6d6Tp78eHY7OFFs7OF-Q0f-OjgYr29e2y_4J_HLu66pU7FL7LDtd4-mdMzdpipmF6pZu6-vS65bT98-sm-yL1_74lxQTnjXHM_KPX8lJFPtecH1o7DRZsnxGn3DMX96S0EdSHHXK8BTnDlyYmqO2_yyqKdt679KRCqmvBrmLI1dUXqmEE9uNH_RjtKBom9s1S2o1Sf6iup4Jl1d0Ts_IK72eSp6cQuD5Ci7w4pg-Q%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/21 01:00 网球 拉沃尔杯第1日-迪米vs塔比洛（中文） 胡力涛
+https://livednow.com/iqiyi/live/2435876867622023?sign=gAAAAABm7Qc7gRC5OOBw9qUYdhF5xIwngxZn9LN9CuSYefwXQVLLB04BO_pEAXaumya-kWdHpnb_B64FVZWe2FwrCJ9f7jMeKOw4sV-UQYA4Ag2KrgcBAE-2MpSKskqB_vOx10QZ2iFxjwvjKFOrJjaoTwI4DGhEGgxHBqu22i4rTPfBzUO8YY1AoVZAXnG6uCqxqNjmRz55OAQabGODFxZzfeZ-OLI8CnfYarkalSGo2s8CElrVJUOu30veB6vFBsvEA_K9Tqy_JqlUEn7M1fLmr7zCiKFrCIMyAluQhstNJHQDrto-JBE6ipbWiwRCFdEC9JAjJYqyP5hA_GQhCTOJrs-9odCBU4bYyaqDajlVHRQBEcHWi_c%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/21 01:00 网球 拉沃尔杯第1日-迪米vs塔比洛（中文） 现场原声
+https://livednow.com/iqiyi/live/1435576055546323?sign=gAAAAABm7Qc7TiPvb19jJFTMfeq7yRA2UxsoIr_8S8chXW9ww2qjBaw8uTvsmcp1UPKIgrYrYZrVwO9buMg5AKCNP3nvK1ZQZc9fPFomjI0S4NcjrfvDPTjMkChjaSdbnjo7JT0fVCAKYzTEFvuf7IP0EVhRx7-mOzA4x9wgpr6c9JkeL38kmd7XVhTM6vBxsfnq4JFPj6XZfHqjZNw60wSt43o7uoI1wcaH9Ieyo815_ZRlN3KrXk-IAjwtp64NxIv5L5nWIX2G6XIHSjlZseuZ6d5BC1upra19LqS73vSFZJ2IrvECuiJICXJZ4t49AAd3pjZZV3skVpcl5eQGWN5-7xhFZtAC5edakWCz39rb6SoWFQ7_jmQ%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/21 03:00 网球 拉沃尔杯第1日-阿卡/兹维列夫出战（中文） 胡力涛
+https://livednow.com/iqiyi/live/1799759350389423?sign=gAAAAABm7Qc7OodZsUv0lfELD0CLO1CLX_gNwVs5jh7IPeQhucWwwcZIcD2w_3MYOR1a2xyLGbumBFYa12629V8yPgcp3OzP8nk9UQFI3xdNggYwvUBugfxAD93QCuBGQwhT-Vp7SbOrEGkhtNyvsf9_FlNb7s-zDpOKZivFrizDEErgDzLBEVNx_1hAc9n4FUEYRKIo0upyUe0ni1GKs7JlYPH5VYLyBfq76MqM9xLHgVY8yrjo2oKPQ8NpqHYm0EFXPZbYWW6mOa7wJqkLHu3oSnhGzCAeBLaJIFqpbjfwFZW65sjGn5Eiy3h8mWc5X7abPek23taBVGehQbDNRmvJr5qshzgGxn5r6ZMm9fM8SPvgPUfP0YE%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/爱奇艺体育.png" group-title="拉沃尔杯",09/21 03:00 网球 拉沃尔杯第1日-阿卡/兹维列夫出战（中文） 现场原声
+https://livednow.com/iqiyi/live/8587686753625523?sign=gAAAAABm7Qc7shT9aFPuHngh9Z1AdS2JG_Wd1K4Lc32MtwflDjetGw_8H64s2LQawQuHS1cetTd3afnPAqn7hBmFqfxtzGh63_Gkm4_or-fYgakf0PHPg6z4oDD1kFLtM3Er7oZHWg4ZrkrJzo3TMrtRea6aZR2dOMM21Uz37GwkkYCCk-2QGx5zBCmai8Vu0gxQ2LfYzg2YqSlvt88Y0iZu6TUhdL15Fa_w7v3PalCQTKMnz5a9H5CYd0VR2oCiJBQWdE13jqLKjcg9G6t-y6aHQq3U3uFyM-k52es2h-v40U4FA6sRK2KNrTy5fKIsMiNIscscs10Ag-f5aVc84AqRle7MDROK5oSHnYtWjIO0X-kV-ft8Suc%3D
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="西甲",09/21 03:00 西甲 第6轮 阿拉维斯vs塞维利亚 中文解说
+https://livednow.com/iqiyi/live/?sign=gAAAAABm7Qc7TuhUn7np6-WYU0HEiwQSDehUb7AKZd2wMmYsQlAiXfZcTM5MtWjYFrCxzFXnsq6CQLDKIl8341aiB6GwErfnTo0NtUqE8soYMZ41WJwzTGg_fDLkIDpZHxvbxjiRiSz5poIQ848FGMypn8FTMMPdpHGFlids5-Fwj3U5gZUnJJ-SREESBdEmWHubARQiMETqAQSUX04RZFwzwHM3jF9msmtd1ltcgJmxvw6rle0iX43Eq9qgqF_1udTTeUg_El-bMFDXq6YpDihiF-1dPrNBeybRZvBWA7VuCmSo0GBFZbv2tQHdctPWpfmSItH3Cd8_
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="西甲",09/21 03:00 西甲 第6轮 阿拉维斯vs塞维利亚 English
+https://livednow.com/iqiyi/live/?sign=gAAAAABm7Qc7P327PwsZAB2MJ6RFaSfr6HS_Bgf-OLD14j2WTWJ1746S1pQVbwrb248OQX46uU9QHhhfbfLLSthVaQU9K_xsJewzcvH94l01Wi72OfiDxilzf2UYHcWFEG2L2UrgTb-6ch8-QqoR9I9yYYTJfKmvQsn6quPGWiue1IiiVuhs18D90qOxHlm9Rm51iUlFAjhTFxXSv5sbjiEjWrrs6p2LDUSoKhE3UZj-Ua657kXctu2kcotP3HwN4lgd-2d0oRq2Lmt6YudUs3E83PUBB9OVfOnan6lE_7ptBsdH4SrRH-3_FKsd567JSIkQdFpo-2Cj
