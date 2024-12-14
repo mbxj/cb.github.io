@@ -51,19 +51,26 @@ http://mg.20191209.xyz:5888/migu/944076336.m3u8?migutoken=024f416b4a935b68597520
 #EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 23:05__马略卡 vs 赫罗纳_（中2
 rtmp://cpull.esptv666.com/sport/202_3293619_1?auth_key=1734275751-0-0-3c89ab73a4ecaa479c45427fc9a5a5b4
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 01:20__诺丁汉森林 vs 阿斯顿维拉_（中）
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 01:20__诺丁汉森林 vs 阿斯顿维拉_（中1）
 http://mg.20191209.xyz:5888/migu/944079087.m3u8?migutoken=352423006d813a9c6d5c6ad196806774f4c9c003601791da9372bce469c5e24571c2ff75091eb952416e1061196bcd1091ad4cbf833f7c5d952ac5454fb63243e5731fc5f855ac02dd5afb84f0
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 01:20__诺丁汉森林 vs 阿斯顿维拉_（中2）
+rtmp://cpull.esptv666.com/sport/202_3291367_1?auth_key=1734283806-0-0-8d6f2afea75724ce24da8de7584dbd0d
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 01:20__诺丁汉森林 vs 阿斯顿维拉_（英）
+rtmp://cpull.esptv666.com/sport/202_3291367_2?auth_key=1734283806-0-0-31f1a1d695af8c6135ec3b138e80341a
 
 
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 01:20__塞维利亚 vs 塞尔塔_（中）
+
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 01:20__塞维利亚 vs 塞尔塔_（中1）
 http://mg.20191209.xyz:5888/migu/944076819.m3u8?migutoken=2b52dfd1356a07b4790c665aba538b5de63eef4b470b0436730424d6411823dac209da57e032924360d46e129dee57da21e5a4a80ae3f7147fb71665d925f33fc2add843cf879442435ad207b7
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 01:20__塞维利亚 vs 塞尔塔_（中2）
+rtmp://cpull.esptv666.com/sport/202_3293618_1?auth_key=1734283806-0-0-e429a8959f08c2523089ec70b268b250
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 03:45__巴列卡诺 vs 皇家马德里_（中）
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 03:45__巴列卡诺 vs 皇家马德里_（中）{源1}
 http://mg.20191209.xyz:5888/migu/944077177.m3u8?migutoken=b7fb0eb6fa2e741dd443992c32be2a8bd78f89afae9b7c062034a89605a6a8158834d7f4385e55621fc4884f6da6c6d9fc86fb422c0280dd3f84148b969c6b819971a4e096a5de6eb80d95d4d4
-
-
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 03:45__巴列卡诺 vs 皇家马德里_（中）{源2}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=96853&/PLTV/
 
 
 
