@@ -2,7 +2,6 @@
 https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
 
 
-
 #EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 20:50__西班牙人 vs 奥萨苏纳（中1）
 http://mg.20191209.xyz:5888/migu/944076647.m3u8?migutoken=540757d3147e4a72bab8bedc9b09d9749f7188c9eec882d71e0ec057394e8091e7c4c53534911001e83caab652a0df336fc9c31249dfe7a96e4c4c1140a9e08ccd06c83fb3280fd847c719301f
 #EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 20:50__西班牙人 vs 奥萨苏纳（中2）
@@ -44,8 +43,27 @@ http://mg.20191209.xyz:5888/migu/944078816.m3u8?migutoken=32bff6a46c8495dce47186
 rtmp://cpull.esptv666.com/sport/202_3289264_1?auth_key=1734275076-0-0-c43d227dec74c55d19593bec699562ed
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__狼队 vs 伊普斯维奇_（英）
 rtmp://cpull.esptv666.com/sport/202_3289264_2?auth_key=1734275151-0-0-a55af936fee75a50e516e159bb5ce127
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="--------------------------",-------------------------
-https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 23:05__马略卡 vs 赫罗纳_（中1）
+http://mg.20191209.xyz:5888/migu/944076336.m3u8?migutoken=024f416b4a935b6859752076f9494fa6f2a3d3a0c95af3f339155201a05ee5de2eebc07a9e18e720cde453986637ee5c89bb13d00b1956eeb2fcead9bbb79da25ab4ac3ac1970246f1fef666ad
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 23:05__马略卡 vs 赫罗纳_（中2
+rtmp://cpull.esptv666.com/sport/202_3293619_1?auth_key=1734275751-0-0-3c89ab73a4ecaa479c45427fc9a5a5b4
+
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 01:20__诺丁汉森林 vs 阿斯顿维拉_（中）
+http://mg.20191209.xyz:5888/migu/944079087.m3u8?migutoken=352423006d813a9c6d5c6ad196806774f4c9c003601791da9372bce469c5e24571c2ff75091eb952416e1061196bcd1091ad4cbf833f7c5d952ac5454fb63243e5731fc5f855ac02dd5afb84f0
+
+
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 01:20__塞维利亚 vs 塞尔塔_（中）
+http://mg.20191209.xyz:5888/migu/944076819.m3u8?migutoken=2b52dfd1356a07b4790c665aba538b5de63eef4b470b0436730424d6411823dac209da57e032924360d46e129dee57da21e5a4a80ae3f7147fb71665d925f33fc2add843cf879442435ad207b7
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 03:45__巴列卡诺 vs 皇家马德里_（中）
+http://mg.20191209.xyz:5888/migu/944077177.m3u8?migutoken=b7fb0eb6fa2e741dd443992c32be2a8bd78f89afae9b7c062034a89605a6a8158834d7f4385e55621fc4884f6da6c6d9fc86fb422c0280dd3f84148b969c6b819971a4e096a5de6eb80d95d4d4
+
+
 
 
 
