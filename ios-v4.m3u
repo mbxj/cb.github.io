@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="http://epg3.733240.com/pp.xml,http://epg2.733240.com/xmltv/epg_HK.xml,http://epg2.733240.com/xmltv/epg_TW.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://codeberg.org/cxx/99/raw/branch/main/ios-v4.m3u
-
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉扫码添加此微信👈",👉扫码添加此微信👈
 https://7692.kstore.space/6H.mp4
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉以获取最新链接👈",👉以获取最新链接👈
@@ -13,6 +9,8 @@ https://7692.kstore.space/6H.mp4
 https://7692.kstore.space/6H.mp4
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉不加此微信无售后👈",👉不加此微信无售后👈
 https://7692.kstore.space/6H.mp4
+
+
 #EXTINF:-1 tvg-id="288375" tvg-name="Hub Premier 1 FHD" tvg-logo="http://xtreamraws.cc:80/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDuaa_lTHXEidcDHX_l4urC80xGxmKXVhJkb1_DclI9JI3CyI7CO1NmulKn9I4c9IVQ.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 1
 http://doubleclicktv.live/70376812/52663544/288375
 #EXTINF:-1 tvg-id="288374" tvg-name="Hub Premier 2 FHD" tvg-logo="http://xtreamraws.cc:80/images/2MK4F3zDWeOp3VrlTGraDDX2RmKawm9JXT62Df6lqDuaa_lTHXEidcDHX_l4urC8rSYpBxMgsCaaiKIr_HMw3NpaRGKZ0_mWKVxa9MlrH7k.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2
@@ -31,6 +29,8 @@ http://supersonictv.live:8080//247340/764085/85904
 http://supersonictv.live:8080//247340/764085/84748
 #EXTINF:-1 tvg-id="1026" tvg-name="DE | SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://win4k.xyz:80/images/89236e405ecb7baf2ce8ba2303c4dfd5.png" group-title="🦁欧洲五大联赛🦁",SKY SPORT BUNDESLIGA 2
 http://31.43.191.135:8080//dmtn/KL86djT2jb@js26FD/8839
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🐉秒播线路①💥",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🐉秒播线路①💥",CCTV2
