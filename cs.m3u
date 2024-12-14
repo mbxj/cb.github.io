@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="https://assets.livednow.com/epg.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://codeberg.org/ggb/6/raw/branch/main/css1.m3u
-
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-name="TNT Sport 1" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-1.png" group-title="体育-线路①",TNT Sport 1
 https://www.tfiplaytv.vip:3344/PLTV/e5f3842381f3196cc5a1dba0e9789e8026825420ad74b7d4412f36193aaf9e78a19c721ec867fdba01c2490b90844105/sports.php?id=tnts1&token=e91097e05a51d476e2d22985f9e10923af28526338e13e6f20fd6662432d51ac
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-name="TNT Sport 2" tvg-logo="https://assets.livednow.com/logo/TNT-Sports-2.png" group-title="体育-线路①",TNT Sport 2
