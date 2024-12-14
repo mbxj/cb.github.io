@@ -3,45 +3,51 @@ https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
 
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 20:50__西班牙人 vs 奥萨苏纳（中）
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 20:50__西班牙人 vs 奥萨苏纳（中1）
 http://mg.20191209.xyz:5888/migu/944076647.m3u8?migutoken=540757d3147e4a72bab8bedc9b09d9749f7188c9eec882d71e0ec057394e8091e7c4c53534911001e83caab652a0df336fc9c31249dfe7a96e4c4c1140a9e08ccd06c83fb3280fd847c719301f
+#EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 20:50__西班牙人 vs 奥萨苏纳（中2）
+rtmp://cpull.esptv666.com/sport/202_3293620_1?auth_key=1734267726-0-0-5844da9f20ab78a91f07fc2bf15cce1d
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__阿森纳 vs 埃弗顿_娄一晨 （中）
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__阿森纳 vs 埃弗顿_ （中1）
 http://mg.20191209.xyz:5888/migu/944083707.m3u8?migutoken=e7acedd54ee9305227326a0c284e40dafb800052af9037fba4123b639a20124bf6e2de69d502266d3723c77ad3a214bb89e8c406ed68b658ae0913aa3247598e95f7c397c965d0b922708e5f09
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__阿森纳 vs 埃弗顿_ （中2）
+rtmp://cpull.esptv666.com/sport/202_3289263_1?auth_key=1734274852-0-0-903f40de6b49f466309e0675d489ac0f
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__阿森纳 vs 埃弗顿_ （粤）
+rtmp://cpull.esptv666.com/sport/202_3289263_3?auth_key=1734274852-0-0-dbd64957d82e19679a2c16e7f27dc2e8
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__阿森纳 vs 埃弗顿_ （英）
+rtmp://cpull.esptv666.com/sport/202_3289263_2?auth_key=1734274852-0-0-02f805ec3e25af6351f655d0010340ea
+
 
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__利物浦 vs 富勒姆_ （中1）
 http://mg.20191209.xyz:5888/migu/944077715.m3u8?migutoken=3a51a890453d55c2bdc0ae473ee817eace029b833fc78057f486badb4f47770fe53401cb7cb00b11b65421397a66fc2f105892c2cafb0ea540dcb219369709f42a61cdddb4ab65c45d4f906cd3
 
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__利物浦 vs 富勒姆_（中2）
 http://mg.20191209.xyz:5888/migu/944077114.m3u8?migutoken=e1de304f3fcd46e322e15b598f0b4fd3837df4555c2580ba44d0c85377324276ec634836c1110a4a9068a0c76c6f5695b97d985fed0327a27334b1a8f77d346cea752e81cc6b927fd306b36407
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__利物浦 vs 富勒姆_（中3）
+rtmp://cpull.esptv666.com/sport/202_3289262_1?auth_key=1734274776-0-0-ce301337f8a99fba68c80981597826d3
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__利物浦 vs 富勒姆_（粤）
+rtmp://cpull.esptv666.com/sport/202_3289262_3?auth_key=1734274776-0-0-a2988db9cbbf07dfeae0e953413e4bb2
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:45__利物浦 vs 富勒姆_（英）
+rtmp://cpull.esptv666.com/sport/202_3289262_2?auth_key=1734274776-0-0-b5c1768f38ec88d7e6edd7dcf2a25417
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__纽卡斯尔联 vs 莱斯特城_（中）
+
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__纽卡斯尔联 vs 莱斯特城_（中1）
 http://mg.20191209.xyz:5888/migu/944078396.m3u8?migutoken=43aae51323b730eb9d2c63a89bd4a7fd66189cc7a6922e7d3209c1617c9fcf2d4e76a8710666e46f309f23084b0a28afbf5e3ad66df3d72b9f3597c4a803014dcbc83cfbab49e1d3d4a702cc12
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__纽卡斯尔联 vs 莱斯特城_（中2）
+rtmp://cpull.esptv666.com/sport/202_3289259_1?auth_key=1734274928-0-0-7517892b3e75be656ca3c3144d1094e8
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__纽卡斯尔联 vs 莱斯特城_（英）
+rtmp://cpull.esptv666.com/sport/202_3289259_2?auth_key=1734274928-0-0-aa90661f3297aa1b0de820ea34d95673
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__狼队 vs 伊普斯维奇_（中）
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__狼队 vs 伊普斯维奇_（中1）
 http://mg.20191209.xyz:5888/migu/944078816.m3u8?migutoken=32bff6a46c8495dce47186ccb92c52133eb346eb0bef1069bffb6576ce91370eaf0116e53fd7da0beab33264ccfd753765f0218cb0a4a2652fb8c5f5aebc0d50b83c92d1719db5f2f10b5c3b8a
-
-
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/14 23:05__马略卡 vs 赫罗纳_（中）
-http://mg.20191209.xyz:5888/migu/944076336.m3u8?migutoken=024f416b4a935b6859752076f9494fa6f2a3d3a0c95af3f339155201a05ee5de2eebc07a9e18e720cde453986637ee5c89bb13d00b1956eeb2fcead9bbb79da25ab4ac3ac1970246f1fef666ad
-
-
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 01:20__诺丁汉森林 vs 阿斯顿维拉_（中）
-http://mg.20191209.xyz:5888/migu/944079087.m3u8?migutoken=352423006d813a9c6d5c6ad196806774f4c9c003601791da9372bce469c5e24571c2ff75091eb952416e1061196bcd1091ad4cbf833f7c5d952ac5454fb63243e5731fc5f855ac02dd5afb84f0
-
-
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 01:20__塞维利亚 vs 塞尔塔_（中）
-http://mg.20191209.xyz:5888/migu/944076819.m3u8?migutoken=2b52dfd1356a07b4790c665aba538b5de63eef4b470b0436730424d6411823dac209da57e032924360d46e129dee57da21e5a4a80ae3f7147fb71665d925f33fc2add843cf879442435ad207b7
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 03:45__巴列卡诺 vs 皇家马德里_（中）
-http://mg.20191209.xyz:5888/migu/944077177.m3u8?migutoken=b7fb0eb6fa2e741dd443992c32be2a8bd78f89afae9b7c062034a89605a6a8158834d7f4385e55621fc4884f6da6c6d9fc86fb422c0280dd3f84148b969c6b819971a4e096a5de6eb80d95d4d4
-
-
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__狼队 vs 伊普斯维奇_（中2）
+rtmp://cpull.esptv666.com/sport/202_3289264_1?auth_key=1734275076-0-0-c43d227dec74c55d19593bec699562ed
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/14 22:50__狼队 vs 伊普斯维奇_（英）
+rtmp://cpull.esptv666.com/sport/202_3289264_2?auth_key=1734275151-0-0-a55af936fee75a50e516e159bb5ce127
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="--------------------------",-------------------------
 https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/西甲.png" group-title="📀回看线路📀",12/14 03:55 西甲 第17轮 巴拉多利德vs瓦伦西亚
 https://api.livednow.org/iqiyi/replay/71735893?sign=gAAAAABnXO867vDHEgSW_rgtfpyjNyqhb3RjJsNtfGohdpSICLz_J_YpQsJmt3TPLVRBmVzyJqFNi2MyRGarEIFy8Cp8tRkivbhxEkrv4ESfJCVqK_9P5oCOFv8qcJ0-Gp9TQ2V46ynEkXvGFq_hCvUEKPFRGCv91FeIB-U4C-ErVHlzeq__sBMys_ny3wEkaUIkHPB5NZkEVP6mWpxUtJfYRa_bi1sTZbXl93O27oIQU_ssrYzrKCQfl1B-pjj_Sab4PHx5hiuyJ4aGeQRZNYwerqMy0luKxjQhhDNpd5XfcJqqsCbOCp94iblukTUm5GTErsS_xK-1RikhIq58pwp8aKVmBNSCtQ%3D%3D
