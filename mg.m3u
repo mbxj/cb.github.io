@@ -246,3 +246,96 @@ http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=Fif
 http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 #EXTINF:-1 tvg-name="咪咕直播53" tvg-logo="https://live.fanmingming.com/tv/咪咕直播53.png" group-title="咪咕体育 {备用}",咪咕直播53
 http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「德甲」03:20 联赛 弗赖堡 vs 沃尔夫斯堡 谭逸雄
+https://tv.iill.top/FB/jQW2BV
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「意甲」03:35 联赛 恩波利 vs 都灵 吴奕博
+https://tv.iill.top/FB/xGp8Tn
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「法甲」03:35 联赛 图卢兹 vs 圣埃蒂安 解说
+https://tv.iill.top/FB/WpfrLz
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「西甲」03:50 联赛 巴拉多利德 vs 瓦伦西亚 洪宇青
+https://tv.iill.top/FB/Oevtdw
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「西甲」20:50 联赛 西班牙人 vs 奥萨苏纳 鹿中原
+https://tv.iill.top/FB/hViQRa
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「意甲」21:50 联赛 卡利亚里 vs 亚特兰大 刘焕
+https://tv.iill.top/FB/NsNFRK
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「德甲」22:20 联赛 奥格斯堡 vs 勒沃库森 涂远 马延峰
+https://tv.iill.top/FB/pz7kLD
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「德甲」22:15 联赛 美因茨 vs 拜仁慕尼黑 胡小凡 张力
+https://tv.iill.top/FB/GCt0bu
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「德甲」22:15 联赛 美因茨 vs 拜仁慕尼黑 胡小凡 张力
+https://tv.iill.top/FB/dZWu9Y
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「德甲」22:20 联赛 门兴格拉德巴赫 vs 荷尔斯泰因基尔 刘洋
+https://tv.iill.top/FB/hdICRp
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「德甲」22:20 联赛 柏林联合 vs 波鸿 刘洪新
+https://tv.iill.top/FB/RO4Jws
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「英超」22:45 联赛 利物浦 vs 富勒姆 詹俊 张路 李子琪
+https://tv.iill.top/FB/drvfBM
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「英超」22:45 联赛 利物浦 vs 富勒姆 詹俊 张路 李子琪
+https://tv.iill.top/FB/BQDpde
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「英超」22:45 联赛 利物浦 vs 富勒姆 詹俊 张路 李子琪
+https://tv.iill.top/FB/6Iwk6M
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「英超」22:50 联赛 纽卡斯尔联 vs 莱斯特城 苗锟
+https://tv.iill.top/FB/kClKuV
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「英超」22:50 联赛 狼队 vs 伊普斯维奇 郭灿亮
+https://tv.iill.top/FB/Yskkut
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「英超」22:45 联赛 阿森纳 vs 埃弗顿 娄一晨 刘越 姚安妮
+https://tv.iill.top/FB/ic5SOn
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「西甲」23:05 联赛 马略卡 vs 赫罗纳 张天翼
+https://tv.iill.top/FB/MJGQDJ
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="咪咕「足球」", 「法甲」23:50 联赛 马赛 vs 里尔 盛斌
+https://tv.iill.top/FB/8tRdXw
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「乒超」11:00 林诗栋率队黄石基地·华新夺四连胜 林诗栋率队黄石基地·华新夺四连胜 周冠达
+https://tv.iill.top/Migu/cwrM0k
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「乒超」19:00 黄石基地·华新vs上海地产集团 黄石基地·华新vs上海地产集团 周泽昊
+https://tv.iill.top/Migu/qbqwHB
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「乒超」19:00 黄石基地·华新vs上海地产集团 黄石基地·华新vs上海地产集团 清流
+https://tv.iill.top/Migu/oF0abr
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「WCBA」19:20 常规赛A组 浙江稠州银行 VS 四川蜀道远达 解说
+https://tv.iill.top/Migu/vyHZLS
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「WCBA」19:20 常规赛A组 江苏南钢 VS 新疆天山 解说
+https://tv.iill.top/Migu/RIzSQv
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「WCBA」19:25 常规赛A组 山西竹叶青酒 VS 石家庄英励 清流播出
+https://tv.iill.top/Migu/wZeqda
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「WCBA」19:25 常规赛B组 陕西天泽 VS 黑龙江上东 清流播出
+https://tv.iill.top/Migu/zxAwLh
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「体育」", 「WCBA」19:25 常规赛B组 河南豫光金铅 VS 合肥文旅 清流播出
+https://tv.iill.top/Migu/LLIb9q
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:00 常规赛第17轮 北京北汽vs山西汾酒 杨健 丁伟 拜月宁
+https://tv.iill.top/Migu/rbm9yy
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 北京北汽vs山西汾酒 谭成国
+https://tv.iill.top/Migu/yZuIO2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 北京北汽vs山西汾酒 石楷文
+https://tv.iill.top/Migu/NmoKLU
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 北京北汽vs山西汾酒 清流播出1
+https://tv.iill.top/Migu/EUYRGa
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:00 常规赛第17轮 北京北汽vs山西汾酒 狂欢Yeah
+https://tv.iill.top/Migu/Q5Nzk8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:00 常规赛第17轮 江苏肯帝亚vs南京头排苏酒 连睿
+https://tv.iill.top/Migu/ktEsty
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 江苏肯帝亚vs南京头排苏酒 洪超
+https://tv.iill.top/Migu/bXI4Dr
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 江苏肯帝亚vs南京头排苏酒 王港
+https://tv.iill.top/Migu/8LBQXE
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 江苏肯帝亚vs南京头排苏酒 清流播出3
+https://tv.iill.top/Migu/T9IviM
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:00 常规赛第17轮 广东东阳光vs上海久事 李天宇 陈正昊 小太阳
+https://tv.iill.top/Migu/e8leYP
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 广东东阳光vs上海久事 广东主队
+https://tv.iill.top/Migu/8msJrF
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 广东东阳光vs上海久事 上海主队
+https://tv.iill.top/Migu/Kz5y0f
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 广东东阳光vs上海久事 清流播出2
+https://tv.iill.top/Migu/NCm8R1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:20 常规赛第17轮 广州朗肽海本vs青岛国信制药 吕程 刘铁
+https://tv.iill.top/Migu/11E6hf
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 广州朗肽海本vs青岛国信制药 张泽欣
+https://tv.iill.top/Migu/b4C6qA
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕「CBA」", 19:25 常规赛第17轮 广州朗肽海本vs青岛国信制药 清流播出4
+https://tv.iill.top/Migu/J7cm5y
