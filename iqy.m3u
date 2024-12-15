@@ -5,10 +5,6 @@ https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 23:05__阿拉维斯 vs 毕尔巴鄂竞技_（中文）
-http://mg.20191209.xyz:5888/migu/944080213.m3u8?migutoken=25435c08f49212d581d87963427ec221282a0286c4c4fddcceaae10cdbb1c7afa0b340449c0ee9b35d2cb38c3bec65ca730bc78558ed59cc81908e4a091c695dab23d2759026a7bf6620014208
-
-
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中1）
 http://mg.20191209.xyz:5888/migu/944077087.m3u8?migutoken=53a2f353cfeed1ba8d9c298a51cb2e15194e88f2188f003439564e0be5d7f399eae9000b79bb47e5f521a35d359a87cf6284c477e731386b58c7c558e5925e88b7024fc404ae020f23151fb992
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中2）
@@ -36,18 +32,31 @@ https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PZFGsXj43PTLzrsmwNTSvPQ/m3u8
 https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PYX_THkMPdrROaTy8fUOj7w/m3u8
 
 
+#EXTINF:-1,12/16 03:00 南安普顿vs热刺 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97013&/PLTV/
+#EXTINF:-1,12/16 03:00 南安普顿vs热刺 中文 {源2}
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PTCn2Z3xWzk4SrcehDD-V58/m3u8
+#EXTINF:-1,12/16 03:00 南安普顿vs热刺 粤语
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PaIk2O5p9vB1uBoeL4IsVPY/m3u8
+#EXTINF:-1,12/16 03:00 南安普顿vs热刺 原声
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PeuU1HgjFIEIZca9eL-MMAk/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 02:45__切尔西 vs 布伦特福德_（中文1）
-http://mg.20191209.xyz:5888/migu/944078218.m3u8?migutoken=f21c9395a8359e175e35bf725405f29d59cf613a41e7533f715684d8789c1f53327d0824cbc64515bfadbd6d6a4762a96eb39ddb96a6e4004e7ffe6839b230c05ddec45c882a8fb931dbeaef3b
+#EXTINF:-1,12/16 03:00 切尔西vs布伦特福德 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97011&/PLTV/
+#EXTINF:-1,12/16 03:00 切尔西vs布伦特福德 中文 {源2}
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2Pe84TY6wvd2GsqXCRq2P2Q4/m3u8
+#EXTINF:-1,12/16 03:00 切尔西vs布伦特福德 粤语
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PZZSkaG617f7XXxXG3Rhll4/m3u8
+#EXTINF:-1,12/16 03:00 切尔西vs布伦特福德 原声
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PZ9JmZ3Yvh7zh1yXLzqqjKc/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 02:45__切尔西 vs 布伦特福德_（中文2）
-http://mg.20191209.xyz:5888/migu/944077671.m3u8?migutoken=16cd62a5603c383f80e3f9a6f8d7a9170d18eaad5ac59618849d3739ea458526f6ec5659fa6a252461008c0638382cb2c799ed6ceeecc7b75a0b7524fc62947c88521478d89d755f435f7da9d5
+#EXTINF:-1,12/16 04:00 巴萨vs莱加内斯 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97016&/PLTV/
+#EXTINF:-1,12/16 04:00 巴萨vs莱加内斯 中文 {源2}
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2Pf-wtZowEN8F7OqsD-7b7H4/m3u8
+#EXTINF:-1,12/16 04:00 巴萨vs莱加内斯 原声
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PfHcyFpKUyeq3151lOKwk_8/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 02:45__南安普敦 vs 托特纳姆热刺_（中文）
-http://mg.20191209.xyz:5888/migu/944078550.m3u8?migutoken=79bdcdcdd9cf52a5b89c89c270fd6decc50fafeb27bbf0e7848ceaa88aea4bda4ff27357bebf8b9ea77faefb8eb6f138388cf0f4a6c8e9ea76164c28fb467c70352454703a07a83220a78fb4fa
-
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/16 03:45__巴塞罗那 vs 莱加内斯_（中文）
-http://mg.20191209.xyz:5888/migu/944080900.m3u8?migutoken=055a441bdf77c4a8d4ac4150decde1f655f99626b5cdf9577ed7e7d0d455d7024999a2a90842d5b760f183476543264cfcd007e064e409706f7af8a484a2f57910d91da6947094ca90af21cd8b
 
 
 
