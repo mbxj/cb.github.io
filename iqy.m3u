@@ -3,36 +3,25 @@ https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 20:45__马德里竞技 vs 赫塔费_（中文1）
-http://mg.20191209.xyz:5888/migu/944079421.m3u8?migutoken=335f4cfc43583ecbad13215dc0993e0edc9a61680c3f289354b3d0f2a821b6905432e33b2f594e4163af6deb9d96e3424d86937b6ab78294cac6230a0dcef26e18f4375670caddcea48c36994b
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 20:45__马德里竞技 vs 赫塔费（中文2）
-http://mg.20191209.xyz:5888/migu/944079844.m3u8?migutoken=d7d75b8c9e44f31a24e87ce055e06ce2e7b91dee133d000d904e7922aa0d989b00ae86e2e391095da96d7afd9702c6e3d5c458ddcd95dac991967e1d1f284abd1dc4b5be09ea240352adab6493
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 20:45__马德里竞技 vs 赫塔费（中文3）
-rtmp://cpull.esptv666.com/sport/202_3293612_1?auth_key=1734354008-0-0-ef16b4f9bb4ed4301bd804896b5c083c
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 20:45__马德里竞技 vs 赫塔费（英语）
-rtmp://cpull.esptv666.com/sport/202_3293612_2?auth_key=1734354008-0-0-f69988cf11e75369a69a0f916e0743b8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（中文1）
-http://mg.20191209.xyz:5888/migu/944079212.m3u8?migutoken=8e34b66d40894cbfa68c82cb3656d280bac309d1db2c546b79d03c44d4a5ab30b98dc100309dfc1f8a8f36a5728e6a1c64bb50d145c6f3657ad5e92c14dd3b6482c8c0d28f75f47209978f717c
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（中文2）
-rtmp://cpull.esptv666.com/sport/202_3291539_1?auth_key=1734357609-0-0-c6dabe206bb5c3603e8ce5d7ab3e5fba
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（英文）
-rtmp://cpull.esptv666.com/sport/202_3291539_2?auth_key=1734357609-0-0-911d05682a7e8035f443271d6cc6063d
 
 
 #EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 23:05__阿拉维斯 vs 毕尔巴鄂竞技_（中文）
 http://mg.20191209.xyz:5888/migu/944080213.m3u8?migutoken=25435c08f49212d581d87963427ec221282a0286c4c4fddcceaae10cdbb1c7afa0b340449c0ee9b35d2cb38c3bec65ca730bc78558ed59cc81908e4a091c695dab23d2759026a7bf6620014208
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中文1）
+
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中1）
 http://mg.20191209.xyz:5888/migu/944077087.m3u8?migutoken=53a2f353cfeed1ba8d9c298a51cb2e15194e88f2188f003439564e0be5d7f399eae9000b79bb47e5f521a35d359a87cf6284c477e731386b58c7c558e5925e88b7024fc404ae020f23151fb992
-
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中文2）
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中2）
 http://mg.20191209.xyz:5888/migu/944076039.m3u8?migutoken=4a7c4b60294e3587fea6f6570145271c9515e79f7c05243ccc907ab42e32c10de791a615f5b6cc1789d4ef5363ceb032ac86867a594f28d77a1089e81f0e669ced56f5d3c95e117442e644aaa5
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中3）
+rtmp://cpull.esptv666.com/sport/202_3293610_1?auth_key=1734366547-0-0-562f53653935af39716e1e38c5fa0984
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:20__曼城 vs 曼联_（粤1）
+rtmp://cpull.esptv666.com/sport/202_3293610_3?auth_key=1734366547-0-0-9161728999434470b20d43d64fc3cab0
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:20__曼城 vs 曼联_（英）
+rtmp://cpull.esptv666.com/sport/202_3293610_2?auth_key=1734366547-0-0-46485c1522bad47d2ba816d2baaa73aa
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:20__曼城 vs 曼联_（粤语1）
-http://mg.20191209.xyz:5888/migu/944076508.m3u8?migutoken=1979bc02cd3e9a8437bc2b5d5146313c038958b31647cfff7d3afa7017bda8c9a59e748695899bbf38c2007e07ce15ba077b97d0a47a0263fd2b57e0d1c1a7956336279c6adee2408b098bbf68
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="西甲", 12/16 01:20__比利亚雷亚尔 vs 皇家贝蒂斯_（中文）
 http://mg.20191209.xyz:5888/migu/944080782.m3u8?migutoken=353106d86256b3666be4c7e4a4be4a6042f85c5f4ef70f71a28d45c4bfb68e15b7f0ae7b2fe6becbcdb3fe365a744f76549e5185d34983a65196703000059a10b89f6905db7b6b2d31bff92f6f
