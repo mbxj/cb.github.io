@@ -16,6 +16,8 @@ http://mg.20191209.xyz:5888/migu/944076039.m3u8?migutoken=4a7c4b60294e3587fea6f6
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:00__曼城 vs 曼联_（中3）
 rtmp://cpull.esptv666.com/sport/202_3293610_1?auth_key=1734366547-0-0-562f53653935af39716e1e38c5fa0984
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:20__曼城 vs 曼联_（粤1）
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97001&/PLTV/
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:20__曼城 vs 曼联_（粤2）
 rtmp://cpull.esptv666.com/sport/202_3293610_3?auth_key=1734366547-0-0-9161728999434470b20d43d64fc3cab0
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/16 00:20__曼城 vs 曼联_（英）
 rtmp://cpull.esptv666.com/sport/202_3293610_2?auth_key=1734366547-0-0-46485c1522bad47d2ba816d2baaa73aa
