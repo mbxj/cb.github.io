@@ -26,12 +26,16 @@ rtmp://cpull.esptv666.com/sport/202_3293610_2?auth_key=1734366547-0-0-46485c1522
 
 
 
+#EXTINF:-1,12/16 01:30 比利亚雷亚尔vs贝蒂斯 中文
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2Pf9bkiPtmO39UAz02fr3r00/m3u8
+#EXTINF:-1,12/16 01:30 比利亚雷亚尔vs贝蒂斯 原声
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PW8m8-u48dGWFFRTj61gHBs/m3u8
+#EXTINF:-1,12/16 01:30 皇家社会vs拉斯帕尔马斯 中文
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PZFGsXj43PTLzrsmwNTSvPQ/m3u8
+#EXTINF:-1,12/16 01:30 皇家社会vs拉斯帕尔马斯 原声
+https://newtvsuper.com:443/play/jFb3i_xf1xksrcBU6HK2PYX_THkMPdrROaTy8fUOj7w/m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/16 01:20__比利亚雷亚尔 vs 皇家贝蒂斯_（中文）
-http://mg.20191209.xyz:5888/migu/944080782.m3u8?migutoken=353106d86256b3666be4c7e4a4be4a6042f85c5f4ef70f71a28d45c4bfb68e15b7f0ae7b2fe6becbcdb3fe365a744f76549e5185d34983a65196703000059a10b89f6905db7b6b2d31bff92f6f
 
-#EXTINF:-1 tvg-logo="" group-title="西甲", 12/16 01:20__皇家社会 vs 拉斯帕尔马斯_（中文）
-http://mg.20191209.xyz:5888/migu/944080632.m3u8?migutoken=4a0cd5d9b11a80bfce7a52d5f57f64162be4b03309d61bbd046f04076805525369d0d057fce52978778e90c88881d6016cf8ed0879aa1e1f9cb3b653dce64d26d6ae2d180d1f4ea6902bdaf751
 
 #EXTINF:-1 tvg-logo="" group-title="英超", 12/16 02:45__切尔西 vs 布伦特福德_（中文1）
 http://mg.20191209.xyz:5888/migu/944078218.m3u8?migutoken=f21c9395a8359e175e35bf725405f29d59cf613a41e7533f715684d8789c1f53327d0824cbc64515bfadbd6d6a4762a96eb39ddb96a6e4004e7ffe6839b230c05ddec45c882a8fb931dbeaef3b
