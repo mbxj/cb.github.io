@@ -55,6 +55,14 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 
+地方频道,#genre#
+文体频道,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+影视频道,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+都市频道,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+少儿频道,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+
 精彩频道,#genre#
 BTV科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
