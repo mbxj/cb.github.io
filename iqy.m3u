@@ -14,8 +14,13 @@ rtmp://cpull.esptv666.com/sport/202_3293612_2?auth_key=1734354008-0-0-f69988cf11
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（中文）
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（中文1）
 http://mg.20191209.xyz:5888/migu/944079212.m3u8?migutoken=8e34b66d40894cbfa68c82cb3656d280bac309d1db2c546b79d03c44d4a5ab30b98dc100309dfc1f8a8f36a5728e6a1c64bb50d145c6f3657ad5e92c14dd3b6482c8c0d28f75f47209978f717c
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（中文2）
+rtmp://cpull.esptv666.com/sport/202_3291539_1?auth_key=1734357609-0-0-c6dabe206bb5c3603e8ce5d7ab3e5fba
+#EXTINF:-1 tvg-logo="" group-title="英超", 12/15 21:50__布赖顿 vs 水晶宫_（英文）
+rtmp://cpull.esptv666.com/sport/202_3291539_2?auth_key=1734357609-0-0-911d05682a7e8035f443271d6cc6063d
+
 
 #EXTINF:-1 tvg-logo="" group-title="西甲", 12/15 23:05__阿拉维斯 vs 毕尔巴鄂竞技_（中文）
 http://mg.20191209.xyz:5888/migu/944080213.m3u8?migutoken=25435c08f49212d581d87963427ec221282a0286c4c4fddcceaae10cdbb1c7afa0b340449c0ee9b35d2cb38c3bec65ca730bc78558ed59cc81908e4a091c695dab23d2759026a7bf6620014208
