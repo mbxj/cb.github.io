@@ -13,8 +13,25 @@
  12/16 03:30_法甲联赛_巴黎圣日耳曼 vs 里昂_鹿中原 王宇 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97015&/PLTV/
  12/16 03:45_西甲联赛_巴塞罗那 vs 莱加内斯_张昊泽 李欣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97016&/PLTV/
 12/16 03:20_意甲联赛_AC米兰 vs 热那亚_石庆圣 李彦 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97034&/PLTV/
+ 12/16 11:00_山东鲁能vs江苏中超电缆_山东鲁能vs江苏中超电缆_1号桌 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97058&/PLTV/
+ 12/16 11:00_山东鲁能vs江苏中超电缆_山东鲁能vs江苏中超电缆_周冠达 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97059&/PLTV/
+ 12/16 12:50_足协杯资格赛_重庆春蕾vs广西联合_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97060&/PLTV/
+ 12/16 12:50_足协杯资格赛_青岛五月的风vs深圳兴隽_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97061&/PLTV/
+ 12/16 12:50_足协杯资格赛_深圳吉祥vs宁波镇海优康_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97062&/PLTV/
+ 12/16 12:50_足协杯资格赛_宁夏平罗恒利vs海南双玉_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97063&/PLTV/
+ 12/16 09:20_足协杯资格赛_广西布山vs上海泽天_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97052&/PLTV/
+ 12/16 09:20_足协杯资格赛_泉州轻工vs重庆瀚达_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97053&/PLTV/
+ 12/16 09:20_足协杯资格赛_武汉联镇vs芜湖百胜_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97054&/PLTV/
+ 12/16 15:20_足协杯资格赛_广东蜀地红vs三亚众弘_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97075&/PLTV/
+ 12/16 15:20_足协杯资格赛_朔州体校翔宇vs青岛崂山港帆_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97076&/PLTV/
+ 12/16 15:20_足协杯资格赛_陕西西北青年人vs厦门集美诚毅_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97077&/PLTV/
+ 12/16 19:00_山东魏桥·向尚运动vs上海地产集团_山东魏桥·向尚运动vs上海地产集团_1号桌 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97078&/PLTV/
+ 12/16 19:00_山东魏桥·向尚运动vs上海地产集团_山东魏桥·向尚运动vs上海地产集团_周泽昊 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97079&/PLTV/
+ 12/17 03:30_意甲联赛_拉齐奥 vs 国际米兰_刘腾 贺宇 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97106&/PLTV/
+ 12/17 03:30_意甲联赛_拉齐奥 vs 国际米兰_智能字幕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97107&/PLTV/
+ 12/17 03:50_英超联赛_伯恩茅斯 vs 西汉姆联_涂远 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97108&/PLTV/
 
- 咪咕篮球,#genre#
+咪咕篮球,#genre#
  12/16 05:55_NBA常规赛_鹈鹕vs步行者_李博洋 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97017&/PLTV/
  12/16 05:55_NBA常规赛_鹈鹕vs步行者_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97018&/PLTV/
  12/15 19:00_CBA常规赛第18轮_北京控股vs新疆伊力特_四川vs吉林 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97036&/PLTV/
@@ -33,36 +50,9 @@
  12/16 08:55_NBA常规赛_开拓者vs太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97049&/PLTV/
  12/16 09:15_NBA常规赛_独行侠vs勇士_李天宇 张兆旭 徐咏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97050&/PLTV/
  12/16 09:25_NBA常规赛_独行侠vs勇士_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97051&/PLTV/
- 12/16 09:20_足协杯资格赛_广西布山vs上海泽天_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97052&/PLTV/
- 12/16 09:20_足协杯资格赛_泉州轻工vs重庆瀚达_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97053&/PLTV/
- 12/16 09:20_足协杯资格赛_武汉联镇vs芜湖百胜_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97054&/PLTV/
  12/16 10:15_NBA常规赛_灰熊vs湖人_姜帆 苏群 佳依 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97055&/PLTV/
  12/16 10:25_NBA常规赛_灰熊vs湖人_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97056&/PLTV/
  12/16 10:25_NBA常规赛_灰熊vs湖人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97057&/PLTV/
- 12/16 11:00_山东鲁能vs江苏中超电缆_山东鲁能vs江苏中超电缆_1号桌 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97058&/PLTV/
- 12/16 11:00_山东鲁能vs江苏中超电缆_山东鲁能vs江苏中超电缆_周冠达 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97059&/PLTV/
- 12/16 12:50_足协杯资格赛_重庆春蕾vs广西联合_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97060&/PLTV/
- 12/16 12:50_足协杯资格赛_青岛五月的风vs深圳兴隽_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97061&/PLTV/
- 12/16 12:50_足协杯资格赛_深圳吉祥vs宁波镇海优康_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97062&/PLTV/
- 12/16 12:50_足协杯资格赛_宁夏平罗恒利vs海南双玉_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97063&/PLTV/
-
-  咪咕其他,#genre#
- 12/16 13:45_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_官方解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97064&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角1 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97065&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角2 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97066&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角3 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97067&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角4 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97068&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角5 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97069&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角6 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97070&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角7 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97071&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角8 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97072&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角9 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97073&/PLTV/
- 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角10 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97074&/PLTV/
- 12/16 15:20_足协杯资格赛_广东蜀地红vs三亚众弘_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97075&/PLTV/
- 12/16 15:20_足协杯资格赛_朔州体校翔宇vs青岛崂山港帆_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97076&/PLTV/
- 12/16 15:20_足协杯资格赛_陕西西北青年人vs厦门集美诚毅_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97077&/PLTV/
- 12/16 19:00_山东魏桥·向尚运动vs上海地产集团_山东魏桥·向尚运动vs上海地产集团_1号桌 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97078&/PLTV/
- 12/16 19:00_山东魏桥·向尚运动vs上海地产集团_山东魏桥·向尚运动vs上海地产集团_周泽昊 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97079&/PLTV/
  12/16 19:20_WCBA常规赛A组_上海浦发银行 VS 江苏南钢_石楚阳 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97080&/PLTV/
  12/16 19:20_WCBA常规赛A组_浙江稠州银行 VS 新疆天山_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97081&/PLTV/
  12/16 19:25_WCBA常规赛A组_石家庄英励 VS 北京首钢园_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97082&/PLTV/
@@ -89,6 +79,17 @@
  12/16 19:20_CBA常规赛第18轮_山西汾酒vs辽宁本钢_哈秋 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97103&/PLTV/
  12/16 19:20_CBA常规赛第18轮_山西汾酒vs辽宁本钢_清流播出5 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97104&/PLTV/
  12/16 19:00_CBA常规赛第18轮_山西汾酒vs辽宁本钢_连睿 焦健 霍楠 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97105&/PLTV/
- 12/17 03:30_意甲联赛_拉齐奥 vs 国际米兰_刘腾 贺宇 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97106&/PLTV/
- 12/17 03:30_意甲联赛_拉齐奥 vs 国际米兰_智能字幕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97107&/PLTV/
- 12/17 03:50_英超联赛_伯恩茅斯 vs 西汉姆联_涂远 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97108&/PLTV/
+
+
+咪咕其他,#genre#
+ 12/16 13:45_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_官方解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97064&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角1 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97065&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角2 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97066&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角3 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97067&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角4 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97068&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角5 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97069&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角6 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97070&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角7 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97071&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角8 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97072&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角9 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97073&/PLTV/
+ 12/16 14:00_王者荣耀挑战者杯 第二周第三日_王者荣耀挑战者杯 第二周第三日_第一视角10 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97074&/PLTV/
