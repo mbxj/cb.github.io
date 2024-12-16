@@ -1,9 +1,16 @@
 线路1,#genre#
-2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_段冉 霍楠 美娜,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcGC9Va-uaei-KJHJnV6O_g/m3u8
-2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_二路-孙世睿,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcDWTK5ZFPaWPPIjwrR-7ck/m3u8
-2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLR7Q576_IiL0IYUAzVOdPQo/m3u8
-2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_球星视角,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLUz9dhCjXlVutoYP8FYv5jQ/m3u8
-
- 12/16 10:15_NBA常规赛_灰熊VS湖人_姜帆 苏群 佳依 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97122&/PLTV/
- 12/16 10:25_NBA常规赛_灰熊VS湖人_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97123&/PLTV/
- 12/16 10:25_NBA常规赛_灰熊VS湖人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97124&/PLTV/
+12/17 07:55_NBA常规赛_热火vs活塞_姜帆 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97133&/PLTV/
+12/17 07:55_NBA常规赛_热火vs活塞_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97134&/PLTV/
+12/17 07:55_NBA常规赛_76人vs黄蜂_刘芳宇 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97135&/PLTV/
+12/17 07:55_NBA常规赛_76人vs黄蜂_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97136&/PLTV/
+12/17 08:25_NBA常规赛_公牛vs猛龙_王冠证 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97137&/PLTV/
+12/17 08:25_NBA常规赛_公牛vs猛龙_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97138&/PLTV/
+12/17 08:25_NBA常规赛_骑士vs篮网_邵化谦 孔德昕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97139&/PLTV/
+12/17 08:25_NBA常规赛_骑士vs篮网_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97140&/PLTV/
+12/17 10:45_NBA常规赛_掘金vs国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97145&/PLTV/
+12/17 10:55_NBA常规赛_掘金vs国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97146&/PLTV/
+12/17 10:45_NBA常规赛_掘金vs国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97147&/PLTV/
+12/17 11:15_NBA常规赛_爵士vs快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97148&/PLTV/
+12/17 11:25_NBA常规赛_爵士vs快船_大史 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97149&/PLTV/
+12/17 11:25_NBA常规赛_爵士vs快船_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97150&/PLTV/
+12/17 11:15_NBA常规赛_爵士vs快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97151&/PLTV/
