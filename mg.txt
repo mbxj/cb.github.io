@@ -44,9 +44,9 @@
  12/16 08:55_NBA常规赛_开拓者VS太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97118&/PLTV/
  12/16 09:15_NBA常规赛_独行侠VS勇士_李天宇 张兆旭 徐咏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97119&/PLTV/
  12/16 09:25_NBA常规赛_独行侠VS勇士_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97120&/PLTV/
- 12/16 10:15_NBA常规赛_灰熊vs湖人_姜帆 苏群 佳依 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97055&/PLTV/
- 12/16 10:25_NBA常规赛_灰熊vs湖人_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97056&/PLTV/
- 12/16 10:25_NBA常规赛_灰熊vs湖人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97057&/PLTV/
+ 12/16 10:15_NBA常规赛_灰熊VS湖人_姜帆 苏群 佳依 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97122&/PLTV/
+ 12/16 10:25_NBA常规赛_灰熊VS湖人_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97123&/PLTV/
+ 12/16 10:25_NBA常规赛_灰熊VS湖人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97124&/PLTV/
  12/16 19:20_WCBA常规赛A组_上海浦发银行 VS 江苏南钢_石楚阳 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97080&/PLTV/
  12/16 19:20_WCBA常规赛A组_浙江稠州银行 VS 新疆天山_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97081&/PLTV/
  12/16 19:25_WCBA常规赛A组_石家庄英励 VS 北京首钢园_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97082&/PLTV/
