@@ -32,24 +32,18 @@
  12/17 03:50_英超联赛_伯恩茅斯 vs 西汉姆联_涂远 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97108&/PLTV/
 
 咪咕篮球,#genre#
- 12/16 05:55_NBA常规赛_鹈鹕vs步行者_李博洋 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97017&/PLTV/
- 12/16 05:55_NBA常规赛_鹈鹕vs步行者_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97018&/PLTV/
- 12/15 19:00_CBA常规赛第18轮_北京控股vs新疆伊力特_四川vs吉林 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97036&/PLTV/
- 12/15 19:00_CBA常规赛第18轮_北京控股vs新疆伊力特_福建vs山东 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97037&/PLTV/
- 12/15 19:25_CBA常规赛第18轮_北京控股vs新疆伊力特_明星视角1 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97038&/PLTV/
- 12/15 19:25_CBA常规赛第18轮_北京控股vs新疆伊力特_明星视角2 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97039&/PLTV/
- 12/15 19:00_黄石基地·华新3-1山东魏桥·向尚运动_黄石基地·华新3-1山东魏桥·向尚运动_周泽昊 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97040&/PLTV/
- 12/15 19:00_黄石基地·华新3-1山东魏桥·向尚运动_黄石基地·华新3-1山东魏桥·向尚运动_1号桌 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97041&/PLTV/
- 12/16 06:55_NBA常规赛_凯尔特人vs奇才_蔡凯臣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97042&/PLTV/
- 12/16 06:55_NBA常规赛_凯尔特人vs奇才_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97043&/PLTV/
- 12/16 06:55_NBA常规赛_尼克斯vs魔术_连睿 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97044&/PLTV/
- 12/16 06:55_NBA常规赛_尼克斯vs魔术_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97045&/PLTV/
- 12/16 07:55_NBA常规赛_森林狼vs马刺_王晓晨 王润陶 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97046&/PLTV/
- 12/16 07:55_NBA常规赛_森林狼vs马刺_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97047&/PLTV/
- 12/16 08:55_NBA常规赛_开拓者vs太阳_张浩岳 殷文玉 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97048&/PLTV/
- 12/16 08:55_NBA常规赛_开拓者vs太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97049&/PLTV/
- 12/16 09:15_NBA常规赛_独行侠vs勇士_李天宇 张兆旭 徐咏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97050&/PLTV/
- 12/16 09:25_NBA常规赛_独行侠vs勇士_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97051&/PLTV/
+ 12/16 05:55_NBA常规赛_鹈鹕VS步行者_李博洋 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97109&/PLTV/
+ 12/16 05:55_NBA常规赛_鹈鹕VS步行者_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97110&/PLTV/
+ 12/16 06:55_NBA常规赛_凯尔特人VS奇才_蔡凯臣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97111&/PLTV/
+ 12/16 06:55_NBA常规赛_凯尔特人VS奇才_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97112&/PLTV/
+ 12/16 06:55_NBA常规赛_尼克斯VS魔术_连睿 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97113&/PLTV/
+ 12/16 06:55_NBA常规赛_尼克斯VS魔术_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97114&/PLTV/
+ 12/16 07:55_NBA常规赛_森林狼VS马刺_王晓晨 王润陶 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97115&/PLTV/
+ 12/16 07:55_NBA常规赛_森林狼VS马刺_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97116&/PLTV/
+ 12/16 08:55_NBA常规赛_开拓者VS太阳_张浩岳 殷文玉 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97117&/PLTV/
+ 12/16 08:55_NBA常规赛_开拓者VS太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97118&/PLTV/
+ 12/16 09:15_NBA常规赛_独行侠VS勇士_李天宇 张兆旭 徐咏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97119&/PLTV/
+ 12/16 09:25_NBA常规赛_独行侠VS勇士_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97120&/PLTV/
  12/16 10:15_NBA常规赛_灰熊vs湖人_姜帆 苏群 佳依 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97055&/PLTV/
  12/16 10:25_NBA常规赛_灰熊vs湖人_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97056&/PLTV/
  12/16 10:25_NBA常规赛_灰熊vs湖人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97057&/PLTV/
