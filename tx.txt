@@ -1,0 +1,53 @@
+线路1,#genre#
+ 12/16 07:55_NBA常规赛_森林狼vs马刺_王晓晨 王润陶 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97046&/PLTV/
+ 12/16 07:55_NBA常规赛_森林狼vs马刺_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97047&/PLTV/
+ 12/16 08:55_NBA常规赛_开拓者vs太阳_张浩岳 殷文玉 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97048&/PLTV/
+ 12/16 08:55_NBA常规赛_开拓者vs太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97049&/PLTV/
+ 12/16 09:15_NBA常规赛_独行侠vs勇士_李天宇 张兆旭 徐咏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97050&/PLTV/
+ 12/16 09:25_NBA常规赛_独行侠vs勇士_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97051&/PLTV/
+ 12/16 10:15_NBA常规赛_灰熊vs湖人_姜帆 苏群 佳依 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97055&/PLTV/
+ 12/16 10:25_NBA常规赛_灰熊vs湖人_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97056&/PLTV/
+ 12/16 10:25_NBA常规赛_灰熊vs湖人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97057&/PLTV/
+
+线路2,#genre#
+2024-12-16 02:00:00_NFL常规赛_NFL常规赛第十五周redzone达阵区,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLehbvbWnvrj1edJZR-Dk9aw/m3u8
+2024-12-16 02:00:00_高尔夫_PGA/LPGA 致同邀请赛第三比赛日_于鹏,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLS---JYQzpudxWq4YLvPcDM/m3u8
+2024-12-16 02:00:00_NFL常规赛_德州人 vs 海豚_常识,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLQPW7muvgQWruVKa2HPvsLo/m3u8
+2024-12-16 02:00:00_NFL常规赛_德州人 vs 海豚_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLRc4UzI_JkLG5TzIzVTpVV0/m3u8
+2024-12-16 02:00:00_NFL常规赛_圣徒 vs 指挥官_杨木,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLR3GD-4jyz01B9CfEXcWvew/m3u8
+2024-12-16 02:00:00_NFL常规赛_圣徒 vs 指挥官_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcEZJiPy1U6Rrqfp4k37p8I/m3u8
+2024-12-16 05:25:00_NFL常规赛_雄狮 vs 比尔_邢天宇,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLbc2_VjrbcToss9xOgthFD4/m3u8
+2024-12-16 05:25:00_NFL常规赛_雄狮 vs 比尔_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLYkVX-y2e85CQtjAUvnkjk0/m3u8
+2024-12-16 05:25:00_NFL常规赛_老鹰 vs 钢人_杨照铭,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLR7YIDEoyeVaA3cxAZ4aXpo/m3u8
+2024-12-16 05:25:00_NFL常规赛_老鹰 vs 钢人_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcr6Vz-DQnTkk7nzXkKVmAk/m3u8
+2024-12-16 06:00:00_NBA常规赛_步行者 vs 鹈鹕_金浩霆,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcY7tWh_FAJJC9mcgbp1xus/m3u8
+2024-12-16 06:00:00_NBA常规赛_步行者 vs 鹈鹕_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLbk2M1p5tTBnq4oLH5KrBqI/m3u8
+2024-12-16 07:00:00_NBA常规赛_奇才 vs 凯尔特人_刘乘源,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLSj1tRRxCV7TmK1IikXqDjU/m3u8
+2024-12-16 07:00:00_NBA常规赛_奇才 vs 凯尔特人_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcHwHnGikloiQQKMIZKhn7I/m3u8
+2024-12-16 07:00:00_NBA常规赛_魔术 vs 尼克斯_李雪儿,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLfZ-pZWhv6IxQF2kGjOpFGA/m3u8
+2024-12-16 07:00:00_NBA常规赛_魔术 vs 尼克斯_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLefhkyXjiDntQI5oIA0yGyI/m3u8
+2024-12-16 08:00:00_NBA常规赛_马刺 vs 森林狼_王猛 吴谦 泱泱,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLeQImgl56O57SP0XF9J_REE/m3u8
+2024-12-16 08:00:00_NBA常规赛_马刺 vs 森林狼_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLT6dueSl9cRFNrQvhqAuTOU/m3u8
+2024-12-16 09:00:00_篮球直播节目_《早安 NBA》第53期_柯凡 管维佳 辰辰,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcCgX7Jy1wLburbZkZy8auU/m3u8
+2024-12-16 09:00:00_NBA常规赛_太阳 vs 开拓者_王子星,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLdA9r9elFW3pnLXy55Mv7Z4/m3u8
+2024-12-16 09:00:00_NBA常规赛_太阳 vs 开拓者_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLW9bTdysV6OWDe0KoELMMNI/m3u8
+2024-12-16 09:20:00_NFL常规赛_海鹰 vs 包装工_马修,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLY6Bef4D2OzXwYuthINbTeU/m3u8
+2024-12-16 09:20:00_NFL常规赛_海鹰 vs 包装工_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLVxp7AqhcDwCH473XzQTMsg/m3u8
+2024-12-16 09:30:00_NBA常规赛_勇士 vs 独行侠_柯凡 管维佳 辰辰,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLd0G7OpyEHX9R9C4Y8iSNJc/m3u8
+2024-12-16 09:30:00_NBA常规赛_勇士 vs 独行侠_球星视角,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLVlOUNI_pros_6V_U0dFMco/m3u8
+2024-12-16 09:30:00_NBA常规赛_勇士 vs 独行侠_二路-皓篮球,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLeECIctNOclzfg5oTmFkDic/m3u8
+2024-12-16 09:30:00_NBA常规赛_勇士 vs 独行侠_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLYuB7jC7HfOfD4eJDHao0H0/m3u8
+2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_段冉 霍楠 美娜,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcGC9Va-uaei-KJHJnV6O_g/m3u8
+2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_二路-孙世睿,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLcDWTK5ZFPaWPPIjwrR-7ck/m3u8
+2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_英文原声,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLR7Q576_IiL0IYUAzVOdPQo/m3u8
+2024-12-16 10:30:00_NBA常规赛_湖人 vs 灰熊_球星视角,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLUz9dhCjXlVutoYP8FYv5jQ/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLbU9stQCIFbi2bGWyJ24ojo/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日_4号台,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLc_oEkslvDPhObf4gX6dWow/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日_5号台,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLUuqqJnHi2OtV9OGHYARWo0/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日_6号台,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLUB8pLB0ivab6NgacN69ThU/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日_1号台（清流）,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLRNGGA1bocWqMZSK91Ugv-E/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日_2号台,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLV6k7elBaHo7SPY0vUv3Mg0/m3u8
+2024-12-16 11:00:00_乒超联赛_2024赛季乒超联赛第一阶段 第五比赛日_3号台,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLdNjFqwD_9ZRNBRZkcJ4izY/m3u8
+2024-12-16 12:00:00_发布会_独行侠vs勇士 赛后新闻发布会,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLYoRuZd7SYBvBgZGKRm2PTM/m3u8
+2024-12-16 13:00:00_发布会_灰熊vs湖人 赛后新闻发布会,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLUVh0q-cSHBLpNiy1qdR4Pk/m3u8
+2024-12-16 19:00:00_篮球直播节目_有球必应,https://newtvsuper.com:443/play/w3eijkTlvkExMFqxtLeZLbC0iM8DBXboQQg8hLVb6eg/m3u8
