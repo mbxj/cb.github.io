@@ -1,4 +1,10 @@
 线路1,#genre#
+ 12/16 05:55_NBA常规赛_鹈鹕VS步行者_李博洋 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97109&/PLTV/
+ 12/16 05:55_NBA常规赛_鹈鹕VS步行者_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97110&/PLTV/
+ 12/16 06:55_NBA常规赛_凯尔特人VS奇才_蔡凯臣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97111&/PLTV/
+ 12/16 06:55_NBA常规赛_凯尔特人VS奇才_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97112&/PLTV/
+ 12/16 06:55_NBA常规赛_尼克斯VS魔术_连睿 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97113&/PLTV/
+ 12/16 06:55_NBA常规赛_尼克斯VS魔术_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97114&/PLTV/
  12/16 07:55_NBA常规赛_森林狼vs马刺_王晓晨 王润陶 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97046&/PLTV/
  12/16 07:55_NBA常规赛_森林狼vs马刺_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97047&/PLTV/
  12/16 08:55_NBA常规赛_开拓者vs太阳_张浩岳 殷文玉 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97048&/PLTV/
