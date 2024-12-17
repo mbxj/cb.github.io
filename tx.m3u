@@ -40,11 +40,8 @@ http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97150&/PLTV/
 
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="线路②",👉开球后一分钟刷新配置 再进入直播👈
-https://cloud.wujiyan.cc/f/4p4tx/1.MOV
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="线路②",👉没有到比赛时间请勿点击进入👈
-https://cloud.wujiyan.cc/f/4p4tx/1.MOV
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="⬇线路-2⬇",⬇线路-2⬇  
+https://cloud.wujiyan.cc/f/VN4BuM/2.MOV 
 
 #EXTINF:-1,12/17 07:55_NBA常规赛_热火vs活塞_姜帆
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp1acFu_mBR4IwvVDNRjBIlk/m3u8
@@ -131,6 +128,95 @@ https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp8MPgtCFOUqZRt_uFgaby4s/m3u8
 #EXTINF:-1,2024-12-17 20:00:00_NBA经典赛_有球必应精彩回顾 亚历山大是当世最强后卫吗?
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp67yp_22DTCMD7-s7251Eto/m3u8
 
+
+
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="⬇线路-3⬇",⬇线路-3⬇  
+https://cloud.wujiyan.cc/f/VN4BuM/2.MOV 
+
+#EXTINF:-1,12/17 07:55_NBA常规赛_热火vs活塞_姜帆
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGx4vh7S8XK-zMqI7wagnE04/m3u8
+#EXTINF:-1,12/17 07:55_NBA常规赛_热火vs活塞_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4PEwsmfn4x5F7eUc6Pu4m0/m3u8
+#EXTINF:-1,12/17 07:55_NBA常规赛_76人vs黄蜂_刘芳宇
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6VT7Dn0hGPmm4T59X6XGJI/m3u8
+#EXTINF:-1,12/17 07:55_NBA常规赛_76人vs黄蜂_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGySJx11q35TwRG3cRG07tsM/m3u8
+#EXTINF:-1,12/17 08:25_NBA常规赛_公牛vs猛龙_王冠证
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9uTE0qQV8BObfS3mrJ3bSA/m3u8
+#EXTINF:-1,12/17 08:25_NBA常规赛_公牛vs猛龙_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3lvQBsPF-sH8oCC_uq2cL8/m3u8
+#EXTINF:-1,12/17 08:25_NBA常规赛_骑士vs篮网_邵化谦 孔德昕
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGwjaw0IztlCAcIdrnGl6k1w/m3u8
+#EXTINF:-1,12/17 08:25_NBA常规赛_骑士vs篮网_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-VJZ4VEgD7t2kld4ju4_80/m3u8
+#EXTINF:-1,12/17 10:45_NBA常规赛_掘金vs国王_孙博 李根 裴优
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8bthxYWFqigp1LtK_OpUXc/m3u8
+#EXTINF:-1,12/17 10:55_NBA常规赛_掘金vs国王_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0P7aI7ZLgB578Iehgvi3iw/m3u8
+#EXTINF:-1,12/17 10:45_NBA常规赛_掘金vs国王_孙博 李根 裴优
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-PiH8xYk5rw3ONYncJQlao/m3u8
+#EXTINF:-1,12/17 11:15_NBA常规赛_爵士vs快船_庄宁宇 陈正昊 魏欣怡
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0HSfMYUBFlx62bPJQJzlis/m3u8
+#EXTINF:-1,12/17 11:25_NBA常规赛_爵士vs快船_大史
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8AJzliTdGjtU4py8ugwvPk/m3u8
+#EXTINF:-1,12/17 11:25_NBA常规赛_爵士vs快船_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9IpCr1EW6h3wGNVTyCe7-8/m3u8
+#EXTINF:-1,12/17 11:15_NBA常规赛_爵士vs快船_庄宁宇 陈正昊 魏欣怡
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGyDd-WGot7Vo9rlH_5Sg4lE/m3u8
+#EXTINF:-1,2024-12-17 08:00:00_NBA常规赛_活塞 vs 热火_王子星
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5VzVZ_XbsgzIrpx5YO6RKM/m3u8
+#EXTINF:-1,2024-12-17 08:00:00_NBA常规赛_活塞 vs 热火_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3VccpuIs9vUcvnzUZevZ7s/m3u8
+#EXTINF:-1,2024-12-17 08:00:00_NBA常规赛_黄蜂 vs 76人_石楷文
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9m2qcOVTxDMcj-VXWUfzCs/m3u8
+#EXTINF:-1,2024-12-17 08:00:00_NBA常规赛_黄蜂 vs 76人_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8BhN2RkZ1VRu9neK_iI8Jc/m3u8
+#EXTINF:-1,2024-12-17 08:30:00_NBA常规赛_猛龙 vs 公牛_寇逸豪
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6iI--GRqciNOgrQeYmD5ok/m3u8
+#EXTINF:-1,2024-12-17 08:30:00_NBA常规赛_猛龙 vs 公牛_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGx68p-NN4f26JR6zxslsqCM/m3u8
+#EXTINF:-1,2024-12-17 08:30:00_NBA常规赛_篮网 vs 骑士_段冉
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4iCtwDWLhxzc4728HuYf7Y/m3u8
+#EXTINF:-1,2024-12-17 08:30:00_NBA常规赛_篮网 vs 骑士_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0QihTUwq8eRz0na-Ta7CCI/m3u8
+#EXTINF:-1,2024-12-17 09:00:00_WWE_WWE RAW 第1647期
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG7Ig1Xz0VIxBkw5x5clY38E/m3u8
+#EXTINF:-1,2024-12-17 09:00:00_NFL常规赛_维京人 vs 熊_邢天宇
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGy5i5s-6xmBZRubmRTiWi5Y/m3u8
+#EXTINF:-1,2024-12-17 09:00:00_NFL常规赛_维京人 vs 熊_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGysLFYgvQciQdeXfhj5pZI4/m3u8
+#EXTINF:-1,2024-12-17 09:30:00_NFL常规赛_突袭者 vs 猎鹰_邱超 萧深
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8loTLKbE5VW7Ezgcy7MzGE/m3u8
+#EXTINF:-1,2024-12-17 09:30:00_NFL常规赛_突袭者 vs 猎鹰_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_1jOvZI9KEih_A6-0To4ZA/m3u8
+#EXTINF:-1,2024-12-17 11:00:00_篮球直播节目_《早安 NBA》第54期：詹姆斯&克莱：I'm Back!_王猛 苏群 婧雯
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGwok8KsWQLtVAbNDe6Y_EJg/m3u8
+#EXTINF:-1,2024-12-17 11:00:00_NBA常规赛_国王 vs 掘金_孔祥宇 李克 泱泱
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxaIk2L3TMmV7Eg5i25_2Yg/m3u8
+#EXTINF:-1,2024-12-17 11:00:00_NBA常规赛_国王 vs 掘金_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6HmA8xENF6aZzxiwmftPXc/m3u8
+#EXTINF:-1,2024-12-17 11:00:00_NBA常规赛_国王 vs 掘金_球星视角
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG37WGJR4WCtBd1Ov1KrNm3g/m3u8
+#EXTINF:-1,2024-12-17 11:30:00_NBA常规赛_快船 vs 爵士_王猛 苏群 婧雯
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3mAu3V4e3cZm4thY4S2I7E/m3u8
+#EXTINF:-1,2024-12-17 11:30:00_NBA常规赛_快船 vs 爵士_球星视角
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG00CI3bZma5nExrOGw5iy84/m3u8
+#EXTINF:-1,2024-12-17 11:30:00_NBA常规赛_快船 vs 爵士_英文原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9Gy423mXWZ9Wtzlln4m3Go/m3u8
+#EXTINF:-1,2024-12-17 12:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 灰熊vs湖人
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5bEHFuVQw3aF1FebKMraXY/m3u8
+#EXTINF:-1,2024-12-17 13:30:00_发布会_掘金vs国王 赛后新闻发布会
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6TGsbT7VyjlQES6vcputts/m3u8
+#EXTINF:-1,2024-12-17 14:00:00_发布会_爵士vs快船 赛后新闻发布会
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG--kBEDoMstSQVoidRWtSc4/m3u8
+#EXTINF:-1,2024-12-17 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 独行侠vs勇士
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGyW6OvNHm-5IXZohpbOC7mw/m3u8
+#EXTINF:-1,2024-12-17 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 掘金vs国王
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGzQwuDCMr0l7PhHeoKlzsa0/m3u8
+#EXTINF:-1,2024-12-17 18:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 爵士vs快船
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG1NGvdgPtpmFMFBKokARo3o/m3u8
+#EXTINF:-1,2024-12-17 20:00:00_NBA经典赛_有球必应精彩回顾 亚历山大是当世最强后卫吗?
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-0_d01hNjklLdfvzpWx0bg/m3u8
 
 
 
