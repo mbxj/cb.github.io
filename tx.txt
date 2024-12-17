@@ -1,18 +1,23 @@
 线路1,#genre#
 按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
- 12/17 07:55_NBA常规赛_热火VS活塞_姜帆 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97179&/PLTV/
- 12/17 07:55_NBA常规赛_热火VS活塞_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97180&/PLTV/
- 12/17 07:55_NBA常规赛_76人VS黄蜂_刘芳宇 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97181&/PLTV/
- 12/17 07:55_NBA常规赛_76人VS黄蜂_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97182&/PLTV/
- 12/17 08:25_NBA常规赛_公牛VS猛龙_王冠证 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97183&/PLTV/
- 12/17 08:25_NBA常规赛_公牛VS猛龙_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97184&/PLTV/
- 12/17 08:25_NBA常规赛_骑士VS篮网_邵化谦 孔德昕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97185&/PLTV/
- 12/17 08:25_NBA常规赛_骑士VS篮网_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97186&/PLTV/
- 01/01 08:00_NBA常规赛_骑士VS篮网_24-25赛季NBA常规赛全场集锦：骑士130:101篮网（20241217） ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97187&/PLTV/
- 12/17 10:45_NBA常规赛_掘金VS国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97188&/PLTV/
- 12/17 10:55_NBA常规赛_掘金VS国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97189&/PLTV/
- 12/17 10:45_NBA常规赛_掘金VS国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97190&/PLTV/
- 12/17 11:15_NBA常规赛_爵士VS快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97191&/PLTV/
- 12/17 11:25_NBA常规赛_爵士VS快船_大史 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97192&/PLTV/
- 12/17 11:25_NBA常规赛_爵士VS快船_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97193&/PLTV/
- 12/17 11:15_NBA常规赛_爵士VS快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97194&/PLTV/
+ 12/18 08:30_NBANBA杯_雄鹿vs雷霆_NBA杯特别节目 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97196&/PLTV/
+ 12/18 09:15_NBANBA杯_雄鹿vs雷霆_杨健 李根,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97195&/PLTV/
+ 12/18 09:25_NBANBA杯_雄鹿vs雷霆_莫俊祺 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97197&/PLTV/
+ 12/18 09:25_NBANBA杯_雄鹿vs雷霆_洪荒 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97198&/PLTV/
+ 12/18 09:25_NBANBA杯_雄鹿vs雷霆_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97199&/PLTV/
+
+
+线路2,#genre#
+12/18 08:30 《早安 NBA》第55期NBA杯决赛前瞻，雄鹿雷霆谁捧金杯？ 王兆丰 杨毅,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp72eKjtFSKgmxNrGnHNzyxg/m3u8
+12/18 09:00  NXT 第829期,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyZX8NV8bNNMK9DR856zsTM/m3u8
+12/18 09:30 雄鹿 vs 雷霆 二路-皓篮球,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7pc-5Dj_eJOXsrr30mRpVI/m3u8
+12/18 09:30 雄鹿 vs 雷霆 女主播直播间,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxYcSjmqBLPaqc75513DrHA/m3u8
+12/18 09:30 雄鹿 vs 雷霆 王兆丰 杨毅 果果,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp1_SYVhgUNAyL5tGLY3AU38/m3u8
+12/18 09:30 雄鹿 vs 雷霆 球星视角,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-2OqJ7l-RLs3zEjipWEu8g/m3u8
+12/18 09:30 雄鹿 vs 雷霆 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyiXAveGp0gquPAnJDlka9M/m3u8
+12/18 12:00 24-25赛季NBA杯决赛精彩回顾 雄鹿vs雷霆,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyq8dt-tDQ2HZL9RrcD9jgg/m3u8
+12/18 12:30 全场回放,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppzqaxOLE8HFGts62VzxR14c/m3u8
+12/18 14:00 24-25赛季NBA杯精彩回顾 雷霆vs马刺,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxG2QuCjno_gDmzgVqEpEas/m3u8
+12/18 16:00 24-25赛季NBA杯精彩回顾 雷霆vs湖人,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7MNM5RDgze_OD4dQQ12Eb0/m3u8
+12/18 18:00 24-25赛季NBA杯1/4决赛精彩回顾 魔术vs雄鹿,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7alK5V1fK4bIQzu1qIkkzg/m3u8
+12/18 20:00 24-25赛季NBA杯决赛精彩回顾 雄鹿vs雷霆,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxOF4mcIDLCE8RmJpjYwweM/m3u8
