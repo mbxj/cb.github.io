@@ -1,0 +1,51 @@
+name: Sync GitCode to GitHub
+
+on:
+  schedule:
+    # 每小时执行一次，除了 3 点到 8 点之间
+    - cron: "0 0-2,9-23 * * *"  # 每小时的整点触发，排除 3 到 8 点
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout GitHub repository
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v3
+
+      # Set up Git
+      - name: Set up Git
+        run: |
+          git config --global user.name "mbxj"  # 设置 Git 用户名
+          git config --global user.email "838756854@qq.com"  # 设置 Git 邮箱
+
+      # Clone the GitCode repository
+      - name: Clone GitCode repository
+        run: |
+          git clone https://gitcode.com/xa1/6.git  # 克隆 GitCode 仓库
+          ls -la 6  # 列出克隆后目录的内容，确保文件被成功下载
+
+      # Sync GitCode with GitHub repository
+      - name: Sync GitCode with GitHub repository
+        run: |
+          cd 6  # 进入克隆的仓库目录
+          
+          # 设置 GitHub 远程仓库并拉取 GitHub 上的最新提交
+          git remote add github https://github.com/mbxj/cb.github.io.git  # 设置 GitHub 远程仓库
+          git fetch github main  # 拉取 GitHub 上的最新提交
+
+          # 将 GitHub 仓库的内容合并到本地仓库，避免删除任何文件
+          git pull --rebase github main  # 拉取远程仓库内容并合并
+
+          # 强制推送到 GitHub 仓库，覆盖所有内容
+          git push --force https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mbxj/cb.github.io.git main  # 强制推送
+
+          # 确认推送后仓库的文件
+          echo "Files after push:"
+          git ls-tree -r main --name-only  # 列出推送后的文件，确认目标仓库的内容是否更新
+
+      # Optional: Output confirmation
+      - name: Output confirmation
+        run: |
+          echo "Sync completed successfully!"
