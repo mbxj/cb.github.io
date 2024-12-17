@@ -40,8 +40,6 @@ http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97150&/PLTV/
 
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="⬇线路-2⬇",⬇线路-2⬇  
-https://cloud.wujiyan.cc/f/VN4BuM/2.MOV 
 
 #EXTINF:-1 tvg-name="12/17 07:55_NBA常规赛_76人vs黄蜂_刘芳宇" tvg-logo="https://live.fanmingming.com/tv/12/17 07:55_NBA常规赛_76人vs黄蜂_刘芳宇.png" group-title="线路2",12/17 07:55_NBA常规赛_76人vs黄蜂_刘芳宇
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp3Xq639vz0k7m3LGabgYTWE/m3u8
@@ -129,8 +127,6 @@ https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp8MPgtCFOUqZRt_uFgaby4s/m3u8
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp67yp_22DTCMD7-s7251Eto/m3u8
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="⬇线路-3⬇",⬇线路-3⬇  
-https://cloud.wujiyan.cc/f/VN4BuM/2.MOV 
 
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
