@@ -8,8 +8,11 @@
  12/17 08:25_NBA常规赛_公牛VS猛龙_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97184&/PLTV/
  12/17 08:25_NBA常规赛_骑士VS篮网_邵化谦 孔德昕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97185&/PLTV/
  12/17 08:25_NBA常规赛_骑士VS篮网_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97186&/PLTV/
- 12/17 10:45_NBA常规赛_掘金vs国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97145&/PLTV/
- 12/17 10:55_NBA常规赛_掘金vs国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97146&/PLTV/
- 12/17 11:15_NBA常规赛_爵士vs快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97148&/PLTV/
- 12/17 11:25_NBA常规赛_爵士vs快船_大史 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97149&/PLTV/
- 12/17 11:25_NBA常规赛_爵士vs快船_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97150&/PLTV/
+ 01/01 08:00_NBA常规赛_骑士VS篮网_24-25赛季NBA常规赛全场集锦：骑士130:101篮网（20241217） ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97187&/PLTV/
+ 12/17 10:45_NBA常规赛_掘金VS国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97188&/PLTV/
+ 12/17 10:55_NBA常规赛_掘金VS国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97189&/PLTV/
+ 12/17 10:45_NBA常规赛_掘金VS国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97190&/PLTV/
+ 12/17 11:15_NBA常规赛_爵士VS快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97191&/PLTV/
+ 12/17 11:25_NBA常规赛_爵士VS快船_大史 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97192&/PLTV/
+ 12/17 11:25_NBA常规赛_爵士VS快船_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97193&/PLTV/
+ 12/17 11:15_NBA常规赛_爵士VS快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97194&/PLTV/
