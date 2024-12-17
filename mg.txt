@@ -1,15 +1,40 @@
 咪咕体育,#genre#
 按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
+ 12/16 19:20_WCBA常规赛A组_上海浦发银行 VS 江苏南钢_石楚阳 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97080&/PLTV/
+ 12/16 19:20_WCBA常规赛A组_浙江稠州银行 VS 新疆天山_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97081&/PLTV/
+ 12/16 19:25_WCBA常规赛A组_石家庄英励 VS 北京首钢园_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97082&/PLTV/
+ 12/16 19:25_WCBA常规赛B组_河南豫光金铅 VS 厦门环东文旅_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97083&/PLTV/
+ 12/16 19:25_WCBA常规赛B组_天津冠岚 VS 黑龙江上东_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97084&/PLTV/
+ 12/16 19:25_WCBA常规赛B组_江西赣星 VS 武汉盛帆黄鹤_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97085&/PLTV/
+ 12/16 19:00_CBA常规赛第18轮_北京北汽vs天津先行者_邵化谦 季孟年 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97086&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_北京北汽vs天津先行者_谭成国 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97087&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_北京北汽vs天津先行者_荣浩达 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97088&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_北京北汽vs天津先行者_清流播出1 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97089&/PLTV/
+ 12/16 19:00_CBA常规赛第18轮_青岛国信制药vs南京头排苏酒_吕程 周鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97090&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_青岛国信制药vs南京头排苏酒_清流播出4 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97091&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_广州朗肽海本vs上海久事_张泽欣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97093&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_广州朗肽海本vs上海久事_薛思佳 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97094&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_广州朗肽海本vs上海久事_清流播出2 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97095&/PLTV/
+ 12/16 19:00_CBA常规赛第18轮_广州朗肽海本vs上海久事_AVS3 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97096&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_江苏肯帝亚vs广东东阳光_姜帆 闫宇峰 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97097&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_江苏肯帝亚vs广东东阳光_洪超 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97098&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_江苏肯帝亚vs广东东阳光_翻译小余 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97099&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_江苏肯帝亚vs广东东阳光_清流播出3 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97100&/PLTV/
+ 12/16 19:00_CBA常规赛第18轮_山西汾酒vs辽宁本钢_连睿 焦健 霍楠 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97101&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_山西汾酒vs辽宁本钢_石楷文 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97102&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_山西汾酒vs辽宁本钢_哈秋 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97103&/PLTV/
+ 12/16 19:20_CBA常规赛第18轮_山西汾酒vs辽宁本钢_清流播出5 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97104&/PLTV/
+ 12/17 03:30_意甲联赛_拉齐奥 vs 国际米兰_刘腾 贺宇 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97106&/PLTV/
+ 12/17 03:30_意甲联赛_拉齐奥 vs 国际米兰_智能字幕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97107&/PLTV/
+ 12/17 03:50_英超联赛_伯恩茅斯 vs 西汉姆联_涂远 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97108&/PLTV/
+ 12/16 19:00_CBA常规赛第18轮_北京北汽vs天津先行者_广州vs上海 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97129&/PLTV/
+ 12/16 19:00_山东魏桥·向尚运动3-2上海地产集团_山东魏桥·向尚运动3-2上海地产集团_1号桌 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97130&/PLTV/
+ 12/16 19:00_山东魏桥·向尚运动3-2上海地产集团_山东魏桥·向尚运动3-2上海地产集团_狂欢Yeah ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97131&/PLTV/
  01/01 08:00_WCBA常规赛B组_江西赣星 VS 武汉盛帆黄鹤_24/25赛季WCBA常规赛第13轮全场集锦：江西赣星vs武汉盛帆黄鹤 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97132&/PLTV/
  12/17 09:20_足协杯资格赛_广西联合vs青岛五月的风_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97141&/PLTV/
  12/17 09:20_足协杯资格赛_深圳兴隽vs重庆春蕾_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97142&/PLTV/
  12/17 09:20_足协杯资格赛_宁波镇海优康vs宁夏平罗恒利_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97143&/PLTV/
  12/17 09:20_足协杯资格赛_海南双玉vs深圳吉祥_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97144&/PLTV/
- 12/17 10:45_NBA常规赛_掘金vs国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97145&/PLTV/
- 12/17 10:55_NBA常规赛_掘金vs国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97146&/PLTV/
- 12/17 11:15_NBA常规赛_爵士vs快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97148&/PLTV/
- 12/17 11:25_NBA常规赛_爵士vs快船_大史 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97149&/PLTV/
- 12/17 11:25_NBA常规赛_爵士vs快船_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97150&/PLTV/
  12/17 12:50_足协杯资格赛_三亚众弘vs上海橘橙_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97152&/PLTV/
  12/17 12:50_足协杯资格赛_青岛崂山港帆vs陕西西北青年人_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97153&/PLTV/
  12/17 12:50_足协杯资格赛_厦门集美诚毅vs朔州体校翔宇_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97154&/PLTV/
@@ -45,3 +70,11 @@
  12/17 08:25_NBA常规赛_公牛VS猛龙_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97184&/PLTV/
  12/17 08:25_NBA常规赛_骑士VS篮网_邵化谦 孔德昕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97185&/PLTV/
  12/17 08:25_NBA常规赛_骑士VS篮网_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97186&/PLTV/
+ 01/01 08:00_NBA常规赛_骑士VS篮网_24-25赛季NBA常规赛全场集锦：骑士130:101篮网（20241217） ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97187&/PLTV/
+ 12/17 10:45_NBA常规赛_掘金VS国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97188&/PLTV/
+ 12/17 10:55_NBA常规赛_掘金VS国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97189&/PLTV/
+ 12/17 10:45_NBA常规赛_掘金VS国王_孙博 李根 裴优 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97190&/PLTV/
+ 12/17 11:15_NBA常规赛_爵士VS快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97191&/PLTV/
+ 12/17 11:25_NBA常规赛_爵士VS快船_大史 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97192&/PLTV/
+ 12/17 11:25_NBA常规赛_爵士VS快船_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97193&/PLTV/
+ 12/17 11:15_NBA常规赛_爵士VS快船_庄宁宇 陈正昊 魏欣怡 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97194&/PLTV/
