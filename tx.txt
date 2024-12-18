@@ -1,26 +1,5 @@
 线路1,#genre#
 按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
- 12/18 08:30_NBANBA杯_雄鹿VS雷霆_NBA杯特别节目 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97234&/PLTV/
- 12/18 09:15_NBANBA杯_雄鹿VS雷霆_杨健 李根 孙悦 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97235&/PLTV/
- 12/18 09:25_NBANBA杯_雄鹿VS雷霆_莫俊祺 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97236&/PLTV/
- 12/18 09:25_NBANBA杯_雄鹿VS雷霆_洪荒 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97237&/PLTV/
- 12/18 09:25_NBANBA杯_雄鹿VS雷霆_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97238&/PLTV/
-
-
-线路2,#genre#
-12/18 08:30 《早安 NBA》第55期NBA杯决赛前瞻，雄鹿雷霆谁捧金杯？ 王兆丰 杨毅 果果,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp72eKjtFSKgmxNrGnHNzyxg/m3u8
-12/18 09:00  NXT 第829期,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyZX8NV8bNNMK9DR856zsTM/m3u8
-12/18 09:30 雄鹿 vs 雷霆 王兆丰 杨毅 果果,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp1_SYVhgUNAyL5tGLY3AU38/m3u8
-12/18 09:30 雄鹿 vs 雷霆 女主播直播间,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxYcSjmqBLPaqc75513DrHA/m3u8
-12/18 09:30 雄鹿 vs 雷霆 二路-皓篮球,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7pc-5Dj_eJOXsrr30mRpVI/m3u8
-12/18 09:30 雄鹿 vs 雷霆 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyiXAveGp0gquPAnJDlka9M/m3u8
-12/18 09:30 雄鹿 vs 雷霆 球星视角,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-2OqJ7l-RLs3zEjipWEu8g/m3u8
-12/18 12:00 24-25赛季NBA杯决赛精彩回顾 雄鹿vs雷霆,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyq8dt-tDQ2HZL9RrcD9jgg/m3u8
-12/18 12:30,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppzqaxOLE8HFGts62VzxR14c/m3u8
-12/18 14:00 24-25赛季NBA杯精彩回顾 雷霆vs马刺,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxG2QuCjno_gDmzgVqEpEas/m3u8
-12/18 16:00 24-25赛季NBA杯精彩回顾 雷霆vs湖人,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7MNM5RDgze_OD4dQQ12Eb0/m3u8
-12/18 18:00 24-25赛季NBA杯1/4决赛精彩回顾 魔术vs雄鹿,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7alK5V1fK4bIQzu1qIkkzg/m3u8
-12/18 20:00 24-25赛季NBA杯决赛精彩回顾 雄鹿vs雷霆,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxOF4mcIDLCE8RmJpjYwweM/m3u8
 12/19 10:00 24-25赛季常规赛精彩回顾 火箭vs独行侠,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp1aUnqktGfcTFiyCzb6KeaA/m3u8
 12/19 12:00 24-25赛季常规赛精彩回顾 勇士vs快船,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-XT9tLeqOqUauRkiX1W8Y4/m3u8
 12/19 14:00 24-25赛季常规赛精彩回顾 奇才vs马刺,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_rh5sjx9BZOiQtpGb6EZjA/m3u8
