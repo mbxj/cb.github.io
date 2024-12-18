@@ -1,10 +1,10 @@
 线路1,#genre#
 按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
- 12/18 08:30_NBANBA杯_雄鹿vs雷霆_NBA杯特别节目 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97196&/PLTV/
- 12/18 09:15_NBANBA杯_雄鹿vs雷霆_杨健 李根,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97195&/PLTV/
- 12/18 09:25_NBANBA杯_雄鹿vs雷霆_莫俊祺 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97197&/PLTV/
- 12/18 09:25_NBANBA杯_雄鹿vs雷霆_洪荒 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97198&/PLTV/
- 12/18 09:25_NBANBA杯_雄鹿vs雷霆_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97199&/PLTV/
+ 12/18 08:30_NBANBA杯_雄鹿VS雷霆_NBA杯特别节目 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97234&/PLTV/
+ 12/18 09:15_NBANBA杯_雄鹿VS雷霆_杨健 李根 孙悦 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97235&/PLTV/
+ 12/18 09:25_NBANBA杯_雄鹿VS雷霆_莫俊祺 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97236&/PLTV/
+ 12/18 09:25_NBANBA杯_雄鹿VS雷霆_洪荒 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97237&/PLTV/
+ 12/18 09:25_NBANBA杯_雄鹿VS雷霆_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97238&/PLTV/
 
 
 线路2,#genre#
