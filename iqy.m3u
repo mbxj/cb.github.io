@@ -2,24 +2,30 @@
 https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
 
 
-#EXTINF:-1 tvg-logo="" group-title="西甲",12/19 04:30 比利亚雷亚尔vs巴列卡诺 中文 {源1}
-https://newtvsuper.com/xxx113113/xxx113113/114675
-#EXTINF:-1 tvg-logo="" group-title="西甲",12/19 04:30 比利亚雷亚尔vs巴列卡诺 中文 {源2}
+#EXTINF:-1,tvg-id="12/20 04:00 切尔西vs沙姆洛克 中文" tvg-name="12/20 04:00 切尔西vs沙姆洛克 中文" tvg-logo="https://epg.112114.xyz/logo/12/2004:00切尔西VS沙姆洛克中文.png" group-title="其他",12/20 04:00 切尔西vs沙姆洛克 中文
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8nzQLxaZ0veABjFYAv4gl0/m3u8
+#EXTINF:-1,tvg-id="12/20 04:00 切尔西vs沙姆洛克 原声" tvg-name="12/20 04:00 切尔西vs沙姆洛克 原声" tvg-logo="https://epg.112114.xyz/logo/12/2004:00切尔西VS沙姆洛克原声.png" group-title="其他",12/20 04:00 切尔西vs沙姆洛克 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4mN6SF57rdmiOAOSC2Jc58/m3u8
+#EXTINF:-1,tvg-id="12/20 20:00 欧协联淘汰赛抽签仪式 中文" tvg-name="12/20 20:00 欧协联淘汰赛抽签仪式 中文" tvg-logo="https://epg.112114.xyz/logo/12/2020:00欧协联淘汰赛抽签仪式中文.png" group-title="其他",12/20 20:00 欧协联淘汰赛抽签仪式 中文
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6wq-VkZYBCGpxEoBC61Ipw/m3u8
+
+
+
+
+#EXTINF:-1,tvg-id="12/20 04:00 切尔西vs沙姆洛克 中文" tvg-name="12/20 04:00 切尔西vs沙姆洛克 中文" tvg-logo="https://epg.112114.xyz/logo/12/2004:00切尔西VS沙姆洛克中文.png" group-title="欧协联",12/20 04:00 切尔西vs沙姆洛克 中文
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8nzQLxaZ0veABjFYAv4gl0/m3u8
+#EXTINF:-1,tvg-id="12/20 04:00 切尔西vs沙姆洛克 原声" tvg-name="12/20 04:00 切尔西vs沙姆洛克 原声" tvg-logo="https://epg.112114.xyz/logo/12/2004:00切尔西VS沙姆洛克原声.png" group-title="欧协联",12/20 04:00 切尔西vs沙姆洛克 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4mN6SF57rdmiOAOSC2Jc58/m3u8
+#EXTINF:-1,tvg-id="12/20 20:00 欧协联淘汰赛抽签仪式 中文" tvg-name="12/20 20:00 欧协联淘汰赛抽签仪式 中文" tvg-logo="https://epg.112114.xyz/logo/12/2020:00欧协联淘汰赛抽签仪式中文.png" group-title="欧协联",12/20 20:00 欧协联淘汰赛抽签仪式 中文
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6wq-VkZYBCGpxEoBC61Ipw/m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="📀回看线路📀",12/19 04:30 比利亚雷亚尔vs巴列卡诺
 https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3v1d1rgbx0OzLVF2tpC5_M/m3u8
-#EXTINF:-1 tvg-logo="" group-title="西甲",12/19 04:30 比利亚雷亚尔vs巴列卡诺 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6CrO8CqO7jh7pcejmX4-GE/m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="西甲",12/19 04:30 西班牙人vs瓦伦西亚 中文 {源1}
-https://newtvsuper.com/xxx113113/xxx113113/14676
-#EXTINF:-1 tvg-logo="" group-title="西甲",12/19 04:30 西班牙人vs瓦伦西亚 中文 {源2}
+#EXTINF:-1 tvg-logo="" group-title="📀回看线路📀",12/19 04:30 西班牙人vs瓦伦西亚 中文
 https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9S5XzSGMXThHD3Mo4WI6gg/m3u8
-#EXTINF:-1 tvg-logo="" group-title="西甲",12/19 04:30 西班牙人vs瓦伦西亚 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9GQE-G2cd-eaIXVaI-3faI/m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="📀回看线路📀",12/17 03:50_英超联赛_伯恩茅斯 vs 西汉姆联_源1
 http://mg.20191209.xyz:5888/migu/944079163.m3u8?migutoken=775d9ffe09b287a0b5bdc4f37eadfc850ffa8ed9441b943580ddd75d380063f1c40646dfee10d77d7381b02aab2d81d1a56dcd3f1a61acd18c626adbee3f7eaa9c6f5c37afece13a53649c35cb
 
