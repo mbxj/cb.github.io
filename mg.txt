@@ -1,8 +1,6 @@
 咪咕体育,#genre#
 按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
-  12/19 09:20_足协杯资格赛_上海橘橙vs广州蜀地红_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97245&/PLTV/
- 12/19 09:20_足协杯资格赛_朔州体校翔宇vs陕西西北青年人_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97246&/PLTV/
- 12/19 09:20_足协杯资格赛_厦门集美诚毅vs青岛崂山港帆_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97247&/PLTV/
+  12/19 09:20_足协杯资格赛_厦门集美诚毅vs青岛崂山港帆_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97247&/PLTV/
  12/19 12:50_足协杯资格赛_广西布山vs泉州青工_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97248&/PLTV/
  12/19 12:50_足协杯资格赛_重庆瀚达vs上海泽天_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97249&/PLTV/
  12/19 12:50_足协杯资格赛_上海三菱重工vs武汉联镇_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97250&/PLTV/
@@ -35,3 +33,4 @@
  12/19 19:20_CBA常规赛第19轮_青岛国信制药vs福建晋江文旅_清流播出2 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97277&/PLTV/
  12/19 19:50_WCBA常规赛A组_新疆天山 VS 石家庄英励_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97278&/PLTV/
  12/20 03:50_意大利杯_国际米兰vs乌迪内斯_刘腾 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97279&/PLTV/
+ 12/18 19:20_WCBA常规赛A组_浙江稠州银行 VS 上海浦发银行_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97286&/PLTV/
