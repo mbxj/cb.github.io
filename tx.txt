@@ -32,3 +32,37 @@
  12/20 10:55_NBA常规赛_湖人vs国王_郑泽鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97523&/PLTV/
  12/20 10:55_NBA常规赛_湖人vs国王_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97524&/PLTV/
  12/20 10:55_NBA常规赛_湖人vs国王_AVS3 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97525&/PLTV/
+
+线路2,#genre#
+按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
+ 12/20 07:55 爵士VS活塞 张浩岳 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp29kTmH3tPqthzCo7lN7bUA/m3u8
+12/20 07:55 爵士VS活塞 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp119S0lwmCW9B-aYE0grT_0/m3u8
+12/20 07:55 雷霆VS魔术 罗森 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp0A52kz0SfYkecfHsuycY9E/m3u8
+12/20 07:55 雷霆VS魔术 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppwkHLEYa5A2h-n8odKb6-qg/m3u8
+12/20 07:55 黄蜂VS奇才 王凯 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp6bOKBJVsBUFRGmdJ3FU26o/m3u8
+12/20 07:55 黄蜂VS奇才 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp92OpILyRFBRmvR1Pt7_VOM/m3u8
+12/20 08:25 公牛VS凯尔特人 季孟年 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-4pI6lwHQb0uk4UdnAnXGo/m3u8
+12/20 08:25 公牛VS凯尔特人 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp4Ug2fwQhs5jwAa2PUEtvVo/m3u8
+12/20 08:25 篮网VS猛龙 张泽欣 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-gz3tPsHBvpH8BH7ZYXjww/m3u8
+12/20 08:25 篮网VS猛龙 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxXd4gpyV9qRRVtZKZ7CJo4/m3u8
+12/20 08:45 勇士VS灰熊 蔡凯臣 马健 拜月宁 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7YBm1bI-CthLCqthikXwy0/m3u8
+12/20 08:55 勇士VS灰熊 董倡硕 勇士直播间,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppwfyPVXbJxgzmjkMZQduiNk/m3u8
+12/20 08:55 勇士VS灰熊 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp6lRLUfWA69dDmJO9OarLsM/m3u8
+12/20 08:45 勇士VS灰熊 蔡凯臣 马健 拜月宁 AVS3,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7wQLU6NGueN28RaBSum1j8/m3u8
+12/20 08:55 鹈鹕VS火箭 周鹏 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-2cB4L_OCfOTLEpDxFGuyo/m3u8
+12/20 08:55 鹈鹕VS火箭 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppw4JCLfqLsTG4oB2wMcCD0k/m3u8
+12/20 08:55 老鹰VS马刺 陈鑫隆 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_zIH-x4fafhJRZOBJWaoxc/m3u8
+12/20 08:55 老鹰VS马刺 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp8HnhTOYsDwm-Ex30TyElnA/m3u8
+12/20 09:25 快船VS独行侠 孙博 周赫 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp39jggrwQ0fe-TkHUv_bPhY/m3u8
+12/20 09:25 快船VS独行侠 秋童 独行侠直播间,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp3_evhjIzo17lb0CCt92bSA/m3u8
+12/20 09:25 快船VS独行侠 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp0Zo9xRt5zLORVy4LFidpXE/m3u8
+12/20 09:55 步行者VS太阳 王晓晨 孔德昕 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp8PeqPloyW4BWBOnDiTSE6g/m3u8
+12/20 09:55 步行者VS太阳 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7ndy6sU_iOjbyQRRD-pjPc/m3u8
+12/20 10:25 尼克斯vs森林狼 邢晨 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp4gogX0UGZc0KFG_q4Djqks/m3u8
+12/20 10:25 尼克斯vs森林狼 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp-xhyPAxn25X01u7VyN5-D8/m3u8
+12/20 10:55 掘金vs开拓者 邵化谦 贾磊 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_czEjuDomsFnK-1aUfMhSA/m3u8
+12/20 10:55 掘金vs开拓者 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp42pVDLaHtydn5s5GDvjG8g/m3u8
+12/20 10:45 湖人vs国王 王冠证 徐咏 陈正昊 解说,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyLfmYOSCOdkYK6kb_-oWgU/m3u8
+12/20 10:55 湖人vs国王 郑泽鹏 湖人直播间,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp0fojaIGQDdE5bFmgVSYMDA/m3u8
+12/20 10:55 湖人vs国王 英文原声,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp8OChH1dL-Cjp2UrpQIZjOc/m3u8
+12/20 10:55 湖人vs国王 AVS3,https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp9olKSOsO9GuUmn25XRJO7Q/m3u8
