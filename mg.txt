@@ -1,27 +1,30 @@
 咪咕体育,#genre#
 按照时间顺序找到要看的比赛,https://cloud.wujiyan.cc/f/4p4tx/1.MOV
-  12/20 07:55_NBA常规赛_爵士vs活塞_张浩岳 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97494&/PLTV/
- 12/20 07:55_NBA常规赛_爵士vs活塞_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97495&/PLTV/
- 12/20 07:55_NBA常规赛_雷霆vs魔术_罗森 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97496&/PLTV/
- 12/20 07:55_NBA常规赛_雷霆vs魔术_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97497&/PLTV/
- 12/20 07:55_NBA常规赛_黄蜂vs奇才_王凯 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97498&/PLTV/
- 12/20 07:55_NBA常规赛_黄蜂vs奇才_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97499&/PLTV/
- 12/20 08:25_NBA常规赛_公牛vs凯尔特人_季孟年 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97500&/PLTV/
- 12/20 08:25_NBA常规赛_公牛vs凯尔特人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97501&/PLTV/
- 12/20 08:25_NBA常规赛_篮网vs猛龙_张泽欣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97502&/PLTV/
- 12/20 08:25_NBA常规赛_篮网vs猛龙_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97503&/PLTV/
- 12/20 08:45_NBA常规赛_勇士vs灰熊_蔡凯臣 马健 拜月宁 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97504&/PLTV/
- 12/20 08:55_NBA常规赛_勇士vs灰熊_董倡硕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97505&/PLTV/
- 12/20 08:55_NBA常规赛_勇士vs灰熊_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97506&/PLTV/
- 12/20 08:55_NBA常规赛_鹈鹕vs火箭_周鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97508&/PLTV/
- 12/20 08:55_NBA常规赛_鹈鹕vs火箭_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97509&/PLTV/
- 12/20 08:55_NBA常规赛_老鹰vs马刺_陈鑫隆 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97510&/PLTV/
- 12/20 08:55_NBA常规赛_老鹰vs马刺_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97511&/PLTV/
- 12/20 09:25_NBA常规赛_快船vs独行侠_孙博 周赫 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97512&/PLTV/
- 12/20 09:25_NBA常规赛_快船vs独行侠_秋童 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97513&/PLTV/
- 12/20 09:25_NBA常规赛_快船vs独行侠_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97514&/PLTV/
- 12/20 09:55_NBA常规赛_步行者vs太阳_王晓晨 孔德昕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97515&/PLTV/
- 12/20 09:55_NBA常规赛_步行者vs太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97516&/PLTV/
+12/20 07:55_NBA常规赛_爵士VS活塞_张浩岳 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97564&/PLTV/
+ 12/20 07:55_NBA常规赛_爵士VS活塞_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97565&/PLTV/
+ 12/20 07:55_NBA常规赛_雷霆VS魔术_罗森 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97566&/PLTV/
+ 12/20 07:55_NBA常规赛_雷霆VS魔术_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97567&/PLTV/
+ 12/20 07:55_NBA常规赛_黄蜂VS奇才_王凯 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97568&/PLTV/
+ 12/20 07:55_NBA常规赛_黄蜂VS奇才_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97569&/PLTV/
+ 12/20 08:25_NBA常规赛_公牛VS凯尔特人_季孟年 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97570&/PLTV/
+ 12/20 08:25_NBA常规赛_公牛VS凯尔特人_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97571&/PLTV/
+ 12/20 08:25_NBA常规赛_篮网VS猛龙_张泽欣 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97572&/PLTV/
+ 12/20 08:25_NBA常规赛_篮网VS猛龙_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97573&/PLTV/
+ 12/20 08:45_NBA常规赛_勇士VS灰熊_蔡凯臣 马健 拜月宁 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97574&/PLTV/
+ 12/20 08:55_NBA常规赛_勇士VS灰熊_董倡硕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97575&/PLTV/
+ 12/20 08:55_NBA常规赛_勇士VS灰熊_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97576&/PLTV/
+ 12/20 08:45_NBA常规赛_勇士VS灰熊_蔡凯臣 马健 拜月宁 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97577&/PLTV/
+ 12/20 08:55_NBA常规赛_鹈鹕VS火箭_周鹏 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97578&/PLTV/
+ 12/20 08:55_NBA常规赛_鹈鹕VS火箭_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97579&/PLTV/
+ 12/20 08:55_NBA常规赛_老鹰VS马刺_陈鑫隆 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97580&/PLTV/
+ 12/20 08:55_NBA常规赛_老鹰VS马刺_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97581&/PLTV/
+ 12/20 09:20_足协杯资格赛_广西布山vs朔州体校翔字_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97582&/PLTV/
+ 12/20 09:20_足协杯资格赛_芜湖百胜vs广西联合_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97583&/PLTV/
+ 12/20 09:25_NBA常规赛_快船VS独行侠_孙博 周赫 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97584&/PLTV/
+ 12/20 09:25_NBA常规赛_快船VS独行侠_秋童 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97585&/PLTV/
+ 12/20 09:25_NBA常规赛_快船VS独行侠_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97586&/PLTV/
+ 12/20 09:55_NBA常规赛_步行者VS太阳_王晓晨 孔德昕 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97587&/PLTV/
+ 12/20 09:55_NBA常规赛_步行者VS太阳_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97588&/PLTV/
  12/20 10:25_NBA常规赛_尼克斯vs森林狼_邢晨 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97517&/PLTV/
  12/20 10:25_NBA常规赛_尼克斯vs森林狼_英文原声 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97518&/PLTV/
  12/20 10:30_动感地带5G校园先锋赛全国总决赛_动感地带5G校园先锋赛全国总决赛_清流播出 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97519&/PLTV/
@@ -69,3 +72,12 @@
  12/21 03:15_德甲联赛_拜仁慕尼黑 vs RB莱比锡_涂远 张力 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97561&/PLTV/
  12/21 03:30_意甲联赛_维罗纳 vs AC米兰_石庆圣 李彦 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97562&/PLTV/
  12/21 03:50_西甲联赛_赫罗纳 vs 巴拉多利德_洪宇青 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97563&/PLTV/
+ 
+ 12/20 12:50_足协杯资格赛_宁夏平罗恒利vs重庆瀚达_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97589&/PLTV/
+ 12/20 12:50_足协杯资格赛_深圳兴隽vs青岛崂山港帆_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97590&/PLTV/
+ 12/20 12:50_足协杯资格赛_宁波镇海优康vs厦门集美诚毅_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97591&/PLTV/
+ 12/20 12:50_足协杯资格赛_上海三菱重工vs上海泽天_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97592&/PLTV/
+ 12/20 15:20_足协杯资格赛_青岛五月的风vs广东蜀地红_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97593&/PLTV/
+ 12/20 15:20_足协杯资格赛_上海橘橙vs重庆春蕾_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97594&/PLTV/
+ 12/20 15:20_足协杯资格赛_武汉联镇vs深圳吉祥_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97595&/PLTV/
+ 12/20 15:20_足协杯资格赛_陕西西北青年人vs泉州青工_解说 ,http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97596&/PLTV/
