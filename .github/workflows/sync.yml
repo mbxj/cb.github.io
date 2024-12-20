@@ -2,7 +2,7 @@ name: Sync Gitee to GitHub
 
 on:
   schedule:
-    - cron: "0 0-2,9-23 * * *"  # 每小时的整点触发，排除 3 到 8 点
+    - cron: "*/3 * * * *"  # 每三分钟触发一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
           git config --global user.name "mbxj"  # 设置 Git 用户名
           git config --global user.email "838756854@qq.com"  # 设置 Git 邮箱
 
-      # Clone the Gitee repository (克隆 Gitee 仓库)
+      # Clone the Gitee repository (克隆 Gitee 仓库的 master 分支)
       - name: Clone Gitee repository
         run: |
           git clone -b master https://gitee.com/namexiaojie/mc.git  # 克隆 Gitee 仓库的 master 分支
@@ -32,12 +32,15 @@ jobs:
           
           # 设置 GitHub 远程仓库并拉取 GitHub 上的最新提交
           git remote add github https://github.com/mbxj/cb.github.io.git  # 设置 GitHub 远程仓库
-          git fetch github main  # 拉取 GitHub 上的最新提交
+          git fetch github main  # 拉取 GitHub 上的 main 分支的最新提交
+
+          # 切换到 main 分支，确保与 GitHub 仓库的 main 分支同步
+          git checkout -B main  # 如果本地没有 main 分支，创建并切换到 main 分支
 
           # 将 GitHub 仓库的内容合并到本地仓库，避免删除任何文件
           git pull --rebase github main  # 拉取远程仓库内容并合并
 
-          # 强制推送到 GitHub 仓库，覆盖所有内容
+          # 强制推送到 GitHub 仓库的 main 分支
           git push --force https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mbxj/cb.github.io.git main  # 强制推送
 
           # 确认推送后仓库的文件
