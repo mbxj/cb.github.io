@@ -22,7 +22,7 @@ jobs:
       # Clone the GitCode repository
       - name: Clone GitCode repository
         run: |
-          git clone git clone https://gitee.com/xx68/x6.git  # 克隆 GitCode 仓库
+          git clone https://gitee.com/xx68/x6.git  # 克隆 GitCode 仓库
           ls -la x6  # 列出克隆后目录的内容，确保文件被成功下载
 
       # Force push to GitHub repository
