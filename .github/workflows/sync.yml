@@ -26,32 +26,6 @@ jobs:
           git clone -b master https://gitee.com/xx68/x6.git  # 克隆 Gitee 仓库的 master 分支
           ls -la x6  # 列出克隆后目录的内容，确保文件被成功下载
 
-      # Rename specific files
-      - name: Rename specific files
-        run: |
-          cd x6  # 进入克隆的仓库目录
-
-          # 检查并重命名文件
-          if [ -f "mg.m3u" ]; then
-            mv mg.m3u xiaomg.m3u
-          fi
-
-          if [ -f "iqy.m3u" ]; then
-            mv iqy.m3u jieiqy.m3u
-          fi
-
-          if [ -f "tx.m3u" ]; then
-            mv tx.m3u baotx.m3u
-          fi
-
-          # 打印当前目录列表，确认文件名修改
-          echo "Files after renaming:"
-          ls -la  # 列出当前目录下的文件，确认重命名是否成功
-
-          # 提交更改（包括重命名）
-          git add .
-          git commit -m "Rename m3u files"
-
       # Sync Gitee with GitHub repository
       - name: Sync Gitee with GitHub repository
         run: |
@@ -66,10 +40,6 @@ jobs:
 
           # 将 GitHub 仓库的内容合并到本地仓库，避免删除任何文件
           git pull --rebase github main  # 拉取远程仓库内容并合并
-
-          # 解决冲突（如果有）
-          git add .
-          git rebase --continue  # 如果有冲突，解决后继续
 
           # 强制推送到 GitHub 仓库的 main 分支
           git push --force https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mbxj/cb.github.io.git main  # 强制推送
