@@ -20,7 +20,7 @@ jobs:
           git config --global user.name "mbxj"  # 设置 Git 用户名
           git config --global user.email "838756854@qq.com"  # 设置 Git 邮箱
 
-      # Clone the Gitee repository
+      # Clone the Gitee repository (不作为子模块)
       - name: Clone Gitee repository
         run: |
           git clone -b master https://gitee.com/xx68/x6.git  # 克隆 Gitee 仓库的 master 分支
@@ -38,12 +38,17 @@ jobs:
           # 查看当前文件是否已更名成功
           echo "Current files after renaming:"
           ls -la
-          
-      # Copy files from Gitee to GitHub repo
+
+      # Copy files from Gitee to GitHub repository
       - name: Copy files to GitHub repository
         run: |
           cp -r x6/* .  # 复制 Gitee 仓库中的所有文件到当前 GitHub 仓库目录
-          
+
+      # Remove the cloned 'x6' folder to prevent unwanted files
+      - name: Remove x6 folder
+        run: |
+          rm -rf x6  # 删除 x6 文件夹（确保没有被上传）
+
       # Commit and push to GitHub
       - name: Commit and push to GitHub
         run: |
