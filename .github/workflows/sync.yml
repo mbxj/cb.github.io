@@ -1,4 +1,4 @@
-name: Sync GitCode to GitHub
+name: Sync Gitee to GitHub
 
 on:
   schedule:
@@ -19,23 +19,28 @@ jobs:
           git config --global user.name "mbxj"  # 设置 Git 用户名
           git config --global user.email "838756854@qq.com"  # 设置 Git 邮箱
 
-      # Clone the GitCode repository
-      - name: Clone GitCode repository
+      # Clone the Gitee repository (克隆 Gitee 仓库的 master 分支)
+      - name: Clone Gitee repository
         run: |
-          git clone -b master https://gitee.com/xx68/x6.git  # 克隆 Gitee 仓库的 master 分支
-          ls -la x6  # 列出克隆后目录的内容，确保文件被成功下载
+          git clone -b master https://gitee.com/namexiaojie/mc.git  # 克隆 Gitee 仓库的 master 分支
+          ls -la mc  # 列出克隆后目录的内容，确保文件被成功下载
 
-      # Force push to GitHub repository
-      - name: Force push to GitHub
+      # Sync Gitee with GitHub repository
+      - name: Sync Gitee with GitHub repository
         run: |
-          cd x6  # 进入克隆的仓库目录
+          cd mc  # 进入克隆的仓库目录
+          
+          # 设置 GitHub 远程仓库并拉取 GitHub 上的最新提交
           git remote add github https://github.com/mbxj/cb.github.io.git  # 设置 GitHub 远程仓库
-          git fetch github main  # 拉取 GitHub 上的最新提交
+          git fetch github main  # 拉取 GitHub 上的 main 分支的最新提交
 
-          # 强制重置本地仓库为 GitCode 仓库的内容，避免任何冲突
-          git reset --hard HEAD  # 重置本地仓库为当前克隆仓库的状态
+          # 切换到 main 分支，确保与 GitHub 仓库的 main 分支同步
+          git checkout -B main  # 如果本地没有 main 分支，创建并切换到 main 分支
 
-          # 将本地仓库内容推送到 GitHub 仓库，强制覆盖所有内容
+          # 将 GitHub 仓库的内容合并到本地仓库，避免删除任何文件
+          git pull --rebase github main  # 拉取远程仓库内容并合并
+
+          # 强制推送到 GitHub 仓库的 main 分支
           git push --force https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mbxj/cb.github.io.git main  # 强制推送
 
           # 确认推送后仓库的文件
