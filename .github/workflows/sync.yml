@@ -26,6 +26,24 @@ jobs:
           git clone -b master https://gitee.com/xx68/x6.git  # 克隆 Gitee 仓库的 master 分支
           ls -la x6  # 列出克隆后目录的内容，确保文件被成功下载
 
+      # Rename files if they exist (检查并重命名文件)
+      - name: Rename specific files
+        run: |
+          cd x6  # 进入克隆的仓库目录
+
+          # 检查并重命名文件
+          if [ -f "mg.m3u" ]; then
+            mv mg.m3u xiaomg.m3u
+          fi
+
+          if [ -f "iqy.m3u" ]; then
+            mv iqy.m3u jieiqy.m3u
+          fi
+
+          if [ -f "tx.m3u" ]; then
+            mv tx.m3u baotx.m3u
+          fi
+
       # Sync Gitee with GitHub repository
       - name: Sync Gitee with GitHub repository
         run: |
