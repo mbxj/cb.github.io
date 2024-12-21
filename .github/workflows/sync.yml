@@ -1,9 +1,8 @@
-name: Sync Gitee to GitHub
+name: Sync GitCode to GitHub
 
 on:
   schedule:
-    # 每小时执行一次，除了 3 点到 8 点之间
-    - cron: "0 0-2,9-23 * * *"  # 每小时的整点触发，排除 3 到 8 点
+    - cron: "*/3 * * * *"  # 每三分钟触发一次
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -20,45 +19,23 @@ jobs:
           git config --global user.name "mbxj"  # 设置 Git 用户名
           git config --global user.email "838756854@qq.com"  # 设置 Git 邮箱
 
-      # Clone the Gitee repository (克隆 Gitee 仓库的 master 分支)
-      - name: Clone Gitee repository
+      # Clone the GitCode repository
+      - name: Clone GitCode repository
         run: |
           git clone -b master https://gitee.com/xx68/x6.git  # 克隆 Gitee 仓库的 master 分支
           ls -la x6  # 列出克隆后目录的内容，确保文件被成功下载
 
-      # Rename files if they exist
-      - name: Rename files if they exist
+      # Force push to GitHub repository
+      - name: Force push to GitHub
         run: |
-          cd x6
-          # 检查文件并重命名
-          if [ -f "mg.m3u" ]; then mv mg.m3u xiaomg.m3u; fi
-          if [ -f "iqy.m3u" ]; then mv iqy.m3u jieiqy.m3u; fi
-          if [ -f "tx.m3u" ]; then mv tx.m3u baotx.m3u; fi
-          
-          # 查看当前文件是否已更名成功
-          echo "Current files after renaming:"
-          ls -la
-
-      # Add, commit, and push changes
-      - name: Commit and push renamed files to GitHub
-        run: |
-          cd x6
-          git add .  # 添加所有更改的文件
-          git commit -m "Renamed m3u files"  # 提交更改
+          cd x6  # 进入克隆的仓库目录
           git remote add github https://github.com/mbxj/cb.github.io.git  # 设置 GitHub 远程仓库
-          git fetch github main  # 拉取 GitHub 上的 main 分支的最新提交
+          git fetch github main  # 拉取 GitHub 上的最新提交
 
-          # 切换到 main 分支，确保与 GitHub 仓库的 main 分支同步
-          git checkout -B main  # 如果本地没有 main 分支，创建并切换到 main 分支
+          # 强制重置本地仓库为 GitCode 仓库的内容，避免任何冲突
+          git reset --hard HEAD  # 重置本地仓库为当前克隆仓库的状态
 
-          # 将 GitHub 仓库的内容合并到本地仓库，避免删除任何文件
-          git pull --rebase github main  # 拉取远程仓库内容并合并
-
-          # 解决冲突并继续 rebase 操作
-          git add .  # 标记冲突文件为已解决
-          git rebase --continue  # 继续 rebase 操作
-
-          # 强制推送到 GitHub 仓库的 main 分支
+          # 将本地仓库内容推送到 GitHub 仓库，强制覆盖所有内容
           git push --force https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mbxj/cb.github.io.git main  # 强制推送
 
           # 确认推送后仓库的文件
