@@ -67,6 +67,10 @@ jobs:
           # 将 GitHub 仓库的内容合并到本地仓库，避免删除任何文件
           git pull --rebase github main  # 拉取远程仓库内容并合并
 
+          # 解决冲突（如果有）
+          git add .
+          git rebase --continue  # 如果有冲突，解决后继续
+
           # 强制推送到 GitHub 仓库的 main 分支
           git push --force https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/mbxj/cb.github.io.git main  # 强制推送
 
