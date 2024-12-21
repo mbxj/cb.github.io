@@ -1,0 +1,6 @@
+WWE,#genre#
+WWE,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=175006&extension=ts&play_token=7HGLnBVdyl
+WWE,http://doubleclicktv.live/70376812/52663544/276834
+WWE,http://185.235.165.43:80/play/live.php?mac=00:1A:79:0d:07:eb&stream=164032&extension=ts&play_token=58dkgOqLsn
+WWE,http://mynxg.top:80//ryan11/ryan11/57507
+WWE,http://dns20.xyz//2280@ip.com/cj3H3fQ/72121
