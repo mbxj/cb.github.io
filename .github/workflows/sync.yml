@@ -48,6 +48,10 @@ jobs:
           echo "Files after renaming:"
           ls -la  # 列出当前目录下的文件，确认重命名是否成功
 
+          # 提交更改（包括重命名）
+          git add .
+          git commit -m "Rename m3u files"
+
       # Sync Gitee with GitHub repository
       - name: Sync Gitee with GitHub repository
         run: |
