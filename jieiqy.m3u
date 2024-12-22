@@ -2,83 +2,101 @@
 https://cloud.wujiyan.cc/f/VN4BuM/2.MOV
 
 
-#EXTINF:-1,tvg-id="12/21 20:30 阿斯顿维拉vs曼城 中文" tvg-name="12/21 20:30 阿斯顿维拉vs曼城 中文" tvg-logo="https://epg.112114.xyz/logo/12/2120:30阿斯顿维拉VS曼城中文.png" group-title="英超",12/21 20:30 阿斯顿维拉vs曼城 中文 {源1}
+
+#EXTINF:-1,tvg-id="12/22 21:00 瓦伦西亚vs阿拉维斯 中文" tvg-name="12/22 21:00 瓦伦西亚vs阿拉维斯 中文" tvg-logo="https://epg.112114.xyz/logo/12/2221:00瓦伦西亚VS阿拉维斯中文.png" group-title="西甲",12/22 21:00 瓦伦西亚vs阿拉维斯 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97800&/PLTV/
+#EXTINF:-1,tvg-id="12/22 21:00 瓦伦西亚vs阿拉维斯 中文" tvg-name="12/22 21:00 瓦伦西亚vs阿拉维斯 中文" tvg-logo="https://epg.112114.xyz/logo/12/2221:00瓦伦西亚VS阿拉维斯中文.png" group-title="西甲",12/22 21:00 瓦伦西亚vs阿拉维斯 中文 {源2}
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxaxmrt6QrW24KAj5z5l_Is/m3u8
+#EXTINF:-1,tvg-id="12/22 21:00 瓦伦西亚vs阿拉维斯 原声" tvg-name="12/22 21:00 瓦伦西亚vs阿拉维斯 原声" tvg-logo="https://epg.112114.xyz/logo/12/2221:00瓦伦西亚VS阿拉维斯原声.png" group-title="西甲",12/22 21:00 瓦伦西亚vs阿拉维斯 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG66NbBZ90fPb-0cOwBOSj9k/m3u8
+
+
+#EXTINF:-1,tvg-id="12/22 22:00 埃弗顿vs切尔西 中文" tvg-name="12/22 22:00 埃弗顿vs切尔西 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00埃弗顿VS切尔西中文.png" group-title="英超",12/22 22:00 埃弗顿vs切尔西 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97804&/PLTV/
+#EXTINF:-1,tvg-id="12/22 22:00 埃弗顿vs切尔西 中文" tvg-name="12/22 22:00 埃弗顿vs切尔西 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00埃弗顿VS切尔西中文.png" group-title="英超",12/22 22:00 埃弗顿vs切尔西 中文 {源2}
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxBqruFvsICk0jEdZih0iiU/m3u8
+#EXTINF:-1,tvg-id="12/22 22:00 埃弗顿vs切尔西 粤语" tvg-name="12/22 22:00 埃弗顿vs切尔西 粤语" tvg-logo="https://epg.112114.xyz/logo/12/2222:00埃弗顿VS切尔西粤语.png" group-title="英超",12/22 22:00 埃弗顿vs切尔西 粤语
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0offy7BJudAoEcmdgKKPtE/m3u8
+#EXTINF:-1,tvg-id="12/22 22:00 埃弗顿vs切尔西 原声" tvg-name="12/22 22:00 埃弗顿vs切尔西 原声" tvg-logo="https://epg.112114.xyz/logo/12/2222:00埃弗顿VS切尔西原声.png" group-title="英超",12/22 22:00 埃弗顿vs切尔西 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGyjEDSsocArB5oQV3SKLoVE/m3u8
+
+
+#EXTINF:-1,tvg-id="12/22 22:00 曼联vs伯恩茅斯 中文" tvg-name="12/22 22:00 曼联vs伯恩茅斯 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00曼联VS伯恩茅斯中文.png" group-title="英超",12/22 22:00 曼联vs伯恩茅斯 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97802&/PLTV/
+#EXTINF:-1,tvg-id="12/22 22:00 曼联vs伯恩茅斯 中文" tvg-name="12/22 22:00 曼联vs伯恩茅斯 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00曼联VS伯恩茅斯中文.png" group-title="英超",12/22 22:00 曼联vs伯恩茅斯 中文 {源2}
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3rZ8BBWULCof133TYFAU0M/m3u8
+#EXTINF:-1,tvg-id="12/22 22:00 曼联vs伯恩茅斯 粤语" tvg-name="12/22 22:00 曼联vs伯恩茅斯 粤语" tvg-logo="https://epg.112114.xyz/logo/12/2222:00曼联VS伯恩茅斯粤语.png" group-title="英超",12/22 22:00 曼联vs伯恩茅斯 粤语
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6UgcsuTXvUJooMkA0bWETg/m3u8
+#EXTINF:-1,tvg-id="12/22 22:00 曼联vs伯恩茅斯 原声" tvg-name="12/22 22:00 曼联vs伯恩茅斯 原声" tvg-logo="https://epg.112114.xyz/logo/12/2222:00曼联VS伯恩茅斯原声.png" group-title="英超",12/22 22:00 曼联vs伯恩茅斯 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxuw3BuoONNm9IWMvqFuFeM/m3u8
+
+
+#EXTINF:-1,tvg-id="12/22 22:00 富勒姆vs南安普顿 中文" tvg-name="12/22 22:00 富勒姆vs南安普顿 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00富勒姆VS南安普顿中文.png" group-title="英超",12/22 22:00 富勒姆vs南安普顿 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97801&/PLTV/
+#EXTINF:-1,tvg-id="12/22 22:00 富勒姆vs南安普顿 中文" tvg-name="12/22 22:00 富勒姆vs南安普顿 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00富勒姆VS南安普顿中文.png" group-title="英超",12/22 22:00 富勒姆vs南安普顿 中文 {源2}
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8MvIU5F5Xhfr72QDusraJY/m3u8
+#EXTINF:-1,tvg-id="12/22 22:00 富勒姆vs南安普顿 原声" tvg-name="12/22 22:00 富勒姆vs南安普顿 原声" tvg-logo="https://epg.112114.xyz/logo/12/2222:00富勒姆VS南安普顿原声.png" group-title="英超",12/22 22:00 富勒姆vs南安普顿 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0bxtVwRftctBF6D_12Sar0/m3u8
+
+
+#EXTINF:-1,tvg-id="12/22 22:00 莱斯特城vs狼队 中文" tvg-name="12/22 22:00 莱斯特城vs狼队 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00莱斯特城VS狼队中文.png" group-title="英超",12/22 22:00 莱斯特城vs狼队 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97805&/PLTV/
+#EXTINF:-1,tvg-id="12/22 22:00 莱斯特城vs狼队 中文" tvg-name="12/22 22:00 莱斯特城vs狼队 中文" tvg-logo="https://epg.112114.xyz/logo/12/2222:00莱斯特城VS狼队中文.png" group-title="英超",12/22 22:00 莱斯特城vs狼队 中文 {源2}
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3C9jznnh3dHKbr5_A8d3DI/m3u8
+#EXTINF:-1,tvg-id="12/22 22:00 莱斯特城vs狼队 原声" tvg-name="12/22 22:00 莱斯特城vs狼队 原声" tvg-logo="https://epg.112114.xyz/logo/12/2222:00莱斯特城VS狼队原声.png" group-title="英超",12/22 22:00 莱斯特城vs狼队 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG675ud8GSqIEmcZvwCHHd2U/m3u8
+
+
+#EXTINF:-1,tvg-id="12/22 23:15 皇马vs塞维利亚 中文" tvg-name="12/22 23:15 皇马vs塞维利亚 中文" tvg-logo="https://epg.112114.xyz/logo/12/2223:15皇马VS塞维利亚中文.png" group-title="西甲",12/22 23:15 皇马vs塞维利亚 中文 {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97808&/PLTV/
+#EXTINF:-1,tvg-id="12/22 23:15 皇马vs塞维利亚 中文" tvg-name="12/22 23:15 皇马vs塞维利亚 中文" tvg-logo="https://epg.112114.xyz/logo/12/2223:15皇马VS塞维利亚中文.png" group-title="西甲",12/22 23:15 皇马vs塞维利亚 中文 {源2}
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG1gQ1mjqq8vTrhS0PaUO6MQ/m3u8
+#EXTINF:-1,tvg-id="12/22 23:15 皇马vs塞维利亚 原声" tvg-name="12/22 23:15 皇马vs塞维利亚 原声" tvg-logo="https://epg.112114.xyz/logo/12/2223:15皇马VS塞维利亚原声.png" group-title="西甲",12/22 23:15 皇马vs塞维利亚 原声
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5WY78g5UMHorO8QNK4gCkw/m3u8
+
+#EXTINF:-1 tvg-id=" 12/23 00:15_英超联赛_托特纳姆热刺 vs 利物浦_詹俊 张路 林梦鸽" tvg-name=" 12/23 00:15_英超联赛_托特纳姆热刺 vs 利物浦_詹俊 张路 林梦鸽" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 12/23 00:15_英超联赛_托特纳姆热刺 vs 利物浦_詹俊 张路 林梦鸽  {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97809&/PLTV/
+
+#EXTINF:-1 tvg-id=" 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_江忠德" tvg-name=" 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_江忠德" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_江忠德 
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97810&/PLTV/
+
+#EXTINF:-1 tvg-id=" 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_洪荒" tvg-name=" 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_洪荒" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_洪荒 
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97811&/PLTV/
+
+#EXTINF:-1 tvg-id=" 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_陈渤胄" tvg-name=" 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_陈渤胄" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 12/23 00:20_英超联赛_托特纳姆热刺 vs 利物浦_陈渤胄 
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97812&/PLTV/
+
+
+#EXTINF:-1 tvg-id=" 12/23 01:20_西甲联赛_拉斯帕尔马斯 vs 西班牙人_周楚雄" tvg-name=" 12/23 01:20_西甲联赛_拉斯帕尔马斯 vs 西班牙人_周楚雄" tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 12/23 01:20_西甲联赛_拉斯帕尔马斯 vs 西班牙人_周楚雄  {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97816&/PLTV/
+
+#EXTINF:-1 tvg-id=" 12/23 01:20_西甲联赛_莱加内斯 vs 比利亚雷亚尔_张天翼" tvg-name=" 12/23 01:20_西甲联赛_莱加内斯 vs 比利亚雷亚尔_张天翼" tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 12/23 01:20_西甲联赛_莱加内斯 vs 比利亚雷亚尔_张天翼  {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97817&/PLTV/
+
+#EXTINF:-1 tvg-id=" 12/23 03:50_西甲联赛_皇家贝蒂斯 vs 巴列卡诺_兰子非" tvg-name=" 12/23 03:50_西甲联赛_皇家贝蒂斯 vs 巴列卡诺_兰子非" tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 12/23 03:50_西甲联赛_皇家贝蒂斯 vs 巴列卡诺_兰子非  {源1}
+http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97819&/PLTV/
+
+
+
+
+#EXTINF:-1,tvg-id="12/21 20:30 阿斯顿维拉vs曼城 中文" tvg-name="12/21 20:30 阿斯顿维拉vs曼城 中文" tvg-logo="https://epg.112114.xyz/logo/12/2120:30阿斯顿维拉VS曼城中文.png" group-title="📀回看线路📀",12/21 20:30 阿斯顿维拉vs曼城 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97665&/PLTV/
-#EXTINF:-1,tvg-id="12/21 20:30 阿斯顿维拉vs曼城 中文" tvg-name="12/21 20:30 阿斯顿维拉vs曼城 中文" tvg-logo="https://epg.112114.xyz/logo/12/2120:30阿斯顿维拉VS曼城中文.png" group-title="英超",12/21 20:30 阿斯顿维拉vs曼城 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxX6eiGHE2RHrW6hvKDGiR0/m3u8
-#EXTINF:-1,tvg-id="12/21 20:30 阿斯顿维拉vs曼城 粤语" tvg-name="12/21 20:30 阿斯顿维拉vs曼城 粤语" tvg-logo="https://epg.112114.xyz/logo/12/2120:30阿斯顿维拉VS曼城粤语.png" group-title="英超",12/21 20:30 阿斯顿维拉vs曼城 粤语
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG51T2Wt_JpZNa94HTVfxfMc/m3u8
-#EXTINF:-1,tvg-id="12/21 20:30 阿斯顿维拉vs曼城 原声" tvg-name="12/21 20:30 阿斯顿维拉vs曼城 原声" tvg-logo="https://epg.112114.xyz/logo/12/2120:30阿斯顿维拉VS曼城原声.png" group-title="英超",12/21 20:30 阿斯顿维拉vs曼城 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3QpakEMItQoVLr8VH3XY98/m3u8
-
-
-#EXTINF:-1,tvg-id="12/21 21:00 赫塔菲vs马略卡 中文" tvg-name="12/21 21:00 赫塔菲vs马略卡 中文" tvg-logo="https://epg.112114.xyz/logo/12/2121:00赫塔菲VS马略卡中文.png" group-title="西甲",12/21 21:00 赫塔菲vs马略卡 中文 {源1}
+#EXTINF:-1,tvg-id="12/21 21:00 赫塔菲vs马略卡 中文" tvg-name="12/21 21:00 赫塔菲vs马略卡 中文" tvg-logo="https://epg.112114.xyz/logo/12/2121:00赫塔菲VS马略卡中文.png" group-title="📀回看线路📀",12/21 21:00 赫塔菲vs马略卡 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97667&/PLTV/
-#EXTINF:-1,tvg-id="12/21 21:00 赫塔菲vs马略卡 中文" tvg-name="12/21 21:00 赫塔菲vs马略卡 中文" tvg-logo="https://epg.112114.xyz/logo/12/2121:00赫塔菲VS马略卡中文.png" group-title="西甲",12/21 21:00 赫塔菲vs马略卡 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-IWq2LNiRDSYmFJ--Nk1Qo/m3u8
-#EXTINF:-1,tvg-id="12/21 21:00 赫塔菲vs马略卡 原声" tvg-name="12/21 21:00 赫塔菲vs马略卡 原声" tvg-logo="https://epg.112114.xyz/logo/12/2121:00赫塔菲VS马略卡原声.png" group-title="西甲",12/21 21:00 赫塔菲vs马略卡 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_pLgM-0c8EIcaX4jsnwM7I/m3u8
-
-
-#EXTINF:-1,tvg-id="12/21 23:00 布伦特福德vs诺丁汉森林 中文" tvg-name="12/21 23:00 布伦特福德vs诺丁汉森林 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00布伦特福德VS诺丁汉森林中文.png" group-title="英超",12/21 23:00 布伦特福德vs诺丁汉森林 中文 {源1}
+#EXTINF:-1,tvg-id="12/21 23:00 布伦特福德vs诺丁汉森林 中文" tvg-name="12/21 23:00 布伦特福德vs诺丁汉森林 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00布伦特福德VS诺丁汉森林中文.png" group-title="📀回看线路📀",12/21 23:00 布伦特福德vs诺丁汉森林 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97676&/PLTV/
-#EXTINF:-1,tvg-id="12/21 23:00 布伦特福德vs诺丁汉森林 中文" tvg-name="12/21 23:00 布伦特福德vs诺丁汉森林 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00布伦特福德VS诺丁汉森林中文.png" group-title="英超",12/21 23:00 布伦特福德vs诺丁汉森林 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGzH7O5uSnouZDvDq-3BRu_A/m3u8
-#EXTINF:-1,tvg-id="12/21 23:00 布伦特福德vs诺丁汉森林 原声" tvg-name="12/21 23:00 布伦特福德vs诺丁汉森林 原声" tvg-logo="https://epg.112114.xyz/logo/12/2123:00布伦特福德VS诺丁汉森林原声.png" group-title="英超",12/21 23:00 布伦特福德vs诺丁汉森林 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4S_p-lN5kIrMLWNa604ruQ/m3u8
-
-
-#EXTINF:-1,tvg-id="12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文" tvg-name="12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00伊普斯维奇VS纽卡斯尔联中文.png" group-title="英超",12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文 {源1}
+#EXTINF:-1,tvg-id="12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文" tvg-name="12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00伊普斯维奇VS纽卡斯尔联中文.png" group-title="📀回看线路📀",12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97675&/PLTV/
-#EXTINF:-1,tvg-id="12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文" tvg-name="12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00伊普斯维奇VS纽卡斯尔联中文.png" group-title="英超",12/21 23:00 伊普斯维奇vs纽卡斯尔联 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_J4z4jNWHf72sDaZnv1M_I/m3u8
-#EXTINF:-1,tvg-id="12/21 23:00 伊普斯维奇vs纽卡斯尔联 原声" tvg-name="12/21 23:00 伊普斯维奇vs纽卡斯尔联 原声" tvg-logo="https://epg.112114.xyz/logo/12/2123:00伊普斯维奇VS纽卡斯尔联原声.png" group-title="英超",12/21 23:00 伊普斯维奇vs纽卡斯尔联 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-47cnz_FXtI-V9gkHMlFBo/m3u8
-
-
-#EXTINF:-1,tvg-id="12/21 23:00 西汉姆联vs布莱顿 中文" tvg-name="12/21 23:00 西汉姆联vs布莱顿 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00西汉姆联VS布莱顿中文.png" group-title="英超",12/21 23:00 西汉姆联vs布莱顿 中文 {源1}
+#EXTINF:-1,tvg-id="12/21 23:00 西汉姆联vs布莱顿 中文" tvg-name="12/21 23:00 西汉姆联vs布莱顿 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00西汉姆联VS布莱顿中文.png" group-title="📀回看线路📀",12/21 23:00 西汉姆联vs布莱顿 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97674&/PLTV/
-#EXTINF:-1,tvg-id="12/21 23:00 西汉姆联vs布莱顿 中文" tvg-name="12/21 23:00 西汉姆联vs布莱顿 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:00西汉姆联VS布莱顿中文.png" group-title="英超",12/21 23:00 西汉姆联vs布莱顿 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-sJLNPFdBsQfgiQm1lNmAU/m3u8
-#EXTINF:-1,tvg-id="12/21 23:00 西汉姆联vs布莱顿 原声" tvg-name="12/21 23:00 西汉姆联vs布莱顿 原声" tvg-logo="https://epg.112114.xyz/logo/12/2123:00西汉姆联VS布莱顿原声.png" group-title="英超",12/21 23:00 西汉姆联vs布莱顿 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6xT3qd_OUK0_g78AwourRE/m3u8
-
-#EXTINF:-1,tvg-id="12/21 23:15 塞尔塔vs皇家社会 中文" tvg-name="12/21 23:15 塞尔塔vs皇家社会 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:15塞尔塔VS皇家社会中文.png" group-title="西甲",12/21 23:15 塞尔塔vs皇家社会 中文 {源1}
+#EXTINF:-1,tvg-id="12/21 23:15 塞尔塔vs皇家社会 中文" tvg-name="12/21 23:15 塞尔塔vs皇家社会 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:15塞尔塔VS皇家社会中文.png" group-title="📀回看线路📀",12/21 23:15 塞尔塔vs皇家社会 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97677&/PLTV/
-#EXTINF:-1,tvg-id="12/21 23:15 塞尔塔vs皇家社会 中文" tvg-name="12/21 23:15 塞尔塔vs皇家社会 中文" tvg-logo="https://epg.112114.xyz/logo/12/2123:15塞尔塔VS皇家社会中文.png" group-title="西甲",12/21 23:15 塞尔塔vs皇家社会 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG2PKdQOyoFVYvY0sPxfgaZI/m3u8
-#EXTINF:-1,tvg-id="12/21 23:15 塞尔塔vs皇家社会 原声" tvg-name="12/21 23:15 塞尔塔vs皇家社会 原声" tvg-logo="https://epg.112114.xyz/logo/12/2123:15塞尔塔VS皇家社会原声.png" group-title="西甲",12/21 23:15 塞尔塔vs皇家社会 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9YQDjCdY5KjfoZRwhfQklU/m3u8
-
-#EXTINF:-1,tvg-id="12/22 01:30 水晶宫vs阿森纳 中文" tvg-name="12/22 01:30 水晶宫vs阿森纳 中文" tvg-logo="https://epg.112114.xyz/logo/12/2201:30水晶宫VS阿森纳中文.png" group-title="英超",12/22 01:30 水晶宫vs阿森纳 中文 {源1}
+#EXTINF:-1,tvg-id="12/22 01:30 水晶宫vs阿森纳 中文" tvg-name="12/22 01:30 水晶宫vs阿森纳 中文" tvg-logo="https://epg.112114.xyz/logo/12/2201:30水晶宫VS阿森纳中文.png" group-title="📀回看线路📀",12/22 01:30 水晶宫vs阿森纳 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97681&/PLTV/
-#EXTINF:-1,tvg-id="12/22 01:30 水晶宫vs阿森纳 中文" tvg-name="12/22 01:30 水晶宫vs阿森纳 中文" tvg-logo="https://epg.112114.xyz/logo/12/2201:30水晶宫VS阿森纳中文.png" group-title="英超",12/22 01:30 水晶宫vs阿森纳 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG26S744Dv6Q1IXkNAXOvU7Y/m3u8
-#EXTINF:-1,tvg-id="12/22 01:30 水晶宫vs阿森纳 粤语" tvg-name="12/22 01:30 水晶宫vs阿森纳 粤语" tvg-logo="https://epg.112114.xyz/logo/12/2201:30水晶宫VS阿森纳粤语.png" group-title="英超",12/22 01:30 水晶宫vs阿森纳 粤语
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGzBqdSoUDH6AhzdKpwzdce8/m3u8
-#EXTINF:-1,tvg-id="12/22 01:30 水晶宫vs阿森纳 原声" tvg-name="12/22 01:30 水晶宫vs阿森纳 原声" tvg-logo="https://epg.112114.xyz/logo/12/2201:30水晶宫VS阿森纳原声.png" group-title="英超",12/22 01:30 水晶宫vs阿森纳 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxUFK_2-cSb8xHIsk6jI19s/m3u8
-
-#EXTINF:-1,tvg-id="12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文" tvg-name="12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文" tvg-logo="https://epg.112114.xyz/logo/12/2201:30奥萨苏纳VS毕尔巴鄂中文.png" group-title="西甲",12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文 {源1}
+#EXTINF:-1,tvg-id="12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文" tvg-name="12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文" tvg-logo="https://epg.112114.xyz/logo/12/2201:30奥萨苏纳VS毕尔巴鄂中文.png" group-title="📀回看线路📀",12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97679&/PLTV/
-#EXTINF:-1,tvg-id="12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文" tvg-name="12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文" tvg-logo="https://epg.112114.xyz/logo/12/2201:30奥萨苏纳VS毕尔巴鄂中文.png" group-title="西甲",12/22 01:30 奥萨苏纳vs毕尔巴鄂 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4Pvi2wawZbfNqAvdBOW2VY/m3u8
-#EXTINF:-1,tvg-id="12/22 01:30 奥萨苏纳vs毕尔巴鄂 原声" tvg-name="12/22 01:30 奥萨苏纳vs毕尔巴鄂 原声" tvg-logo="https://epg.112114.xyz/logo/12/2201:30奥萨苏纳VS毕尔巴鄂原声.png" group-title="西甲",12/22 01:30 奥萨苏纳vs毕尔巴鄂 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8y8Nv68WFdEF9RotGAMe-o/m3u8
-
-
-#EXTINF:-1,tvg-id="12/22 04:00 巴萨vs马竞 中文" tvg-name="12/22 04:00 巴萨vs马竞 中文" tvg-logo="https://epg.112114.xyz/logo/12/2204:00巴萨VS马竞中文.png" group-title="西甲",12/22 04:00 巴萨vs马竞 中文 {源1}
+#EXTINF:-1,tvg-id="12/22 04:00 巴萨vs马竞 中文" tvg-name="12/22 04:00 巴萨vs马竞 中文" tvg-logo="https://epg.112114.xyz/logo/12/2204:00巴萨VS马竞中文.png" group-title="📀回看线路📀",12/22 04:00 巴萨vs马竞 中文 {源1}
 http://dfkj.live/index.m3u8?user=l9kGw&channel=miguty_tv&id=97684&/PLTV/
-#EXTINF:-1,tvg-id="12/22 04:00 巴萨vs马竞 中文" tvg-name="12/22 04:00 巴萨vs马竞 中文" tvg-logo="https://epg.112114.xyz/logo/12/2204:00巴萨VS马竞中文.png" group-title="西甲",12/22 04:00 巴萨vs马竞 中文 {源2}
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG2dEW-UEqEI8r58bQvuGcYM/m3u8
-#EXTINF:-1,tvg-id="12/22 04:00 巴萨vs马竞 粤语" tvg-name="12/22 04:00 巴萨vs马竞 粤语" tvg-logo="https://epg.112114.xyz/logo/12/2204:00巴萨VS马竞粤语.png" group-title="西甲",12/22 04:00 巴萨vs马竞 粤语
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_iakgb7HXlvMVsrDCIREFU/m3u8
-#EXTINF:-1,tvg-id="12/22 04:00 巴萨vs马竞 原声" tvg-name="12/22 04:00 巴萨vs马竞 原声" tvg-logo="https://epg.112114.xyz/logo/12/2204:00巴萨VS马竞原声.png" group-title="西甲",12/22 04:00 巴萨vs马竞 原声
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGw--C3DOWwmHQ3GQYMzacfw/m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="📀回看线路📀",12/19 04:30 比利亚雷亚尔vs巴列卡诺
 https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3v1d1rgbx0OzLVF2tpC5_M/m3u8
