@@ -1,4 +1,5 @@
 WWE,#genre#
+WWE,http://01012024.com:3800/haliluslu2/tgy0OGBt/234471
 WWE,https://live.iill.top/huya/24953483
 WWE,https://live.iill.top/huya/27226843
 WWE,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=175006&extension=ts&play_token=7HGLnBVdyl
