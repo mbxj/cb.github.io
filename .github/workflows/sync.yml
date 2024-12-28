@@ -44,7 +44,7 @@ jobs:
         run: |
           if [ -f "x6/xiaomg.m3u" ]; then
             echo "Downloading content for xiaomg.m3u from URL"
-            curl -o x6/xiaomg.m3u https://gitea.com/cx66/6/raw/branch/main/mg.m3u  # 从指定 URL 获取内容
+            curl -o x6/xiaomg.m3u https://qifeii.top/mg1  # 从指定 URL 获取内容
           fi
 
       # Copy files from Gitee to GitHub repository
