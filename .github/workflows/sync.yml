@@ -3,7 +3,7 @@ name: Sync Gitee to GitHub
 on:
   schedule:
     # 每隔 5 小时执行一次，排除 3 到 8 点之间
-    - cron: "0 0-2,9-23/2 * * *"  # 每 5 小时执行，排除 3 到 8 点之间
+    - cron: "0 0-2,9-23/1 * * *"  # 每 5 小时执行，排除 3 到 8 点之间
   workflow_dispatch:  # 允许手动触发
 
 jobs:
