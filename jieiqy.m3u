@@ -1,5 +1,14 @@
-#EXTINF:-1 tvg-id=" 01/02 01:15_英超联赛_布伦特福德 vs 阿森纳_刘畅 颜强" tvg-name=" 01/02 01:15_英超联赛_布伦特福德 vs 阿森纳_刘畅 颜强" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/02 01:15_英超联赛_布伦特福德 vs 阿森纳_中文
-http://dfkj.live/index.m3u8?user=UfL72&channel=miguty_tv&id=99089&/PLTV/
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/04 03:45_西甲联赛_瓦伦西亚 vs 皇家马德里_ 中文  源1
+https://wyzy.online:55734/allinone/migu/945904652.m3u8?migutoken=cb845d9a0743d2d16228c1faed26fb0e1f1faf0137af228c524d75da7377a01e8fae8ef955184cd94c325e88439c09e85b25e61bd1c807c693ad1fc4d19077c4736a8429a18c8f4ce62483e049
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/04 03:45_西甲联赛_瓦伦西亚 vs 皇家马德里_中文  源2
+https://wyzy.online:55734/allinone/migu/945904669.m3u8?migutoken=dc21c788be2a01b6638efcf8b809435c6f029080b3d93e605aa5022dd1a638097332fd1bf136e7e2540bde03a86d4be208031f9a658be20101500edeb143364652b7c9bb2ddf3c0af656453ea4
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/04 03:45_西甲联赛_瓦伦西亚 vs 皇家马德里_中文  源3
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG39k5H6s-GydV9ZQRUSmlMs/m3u8
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/04 03:45_西甲联赛_瓦伦西亚 vs 皇家马德里_英文
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGxCqMbTvPSRgJ1U8V-Ts5wA/m3u8
+
+
 
 
 
