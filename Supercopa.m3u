@@ -1,3 +1,5 @@
+#EXTINF:-1,tvg-id="ESPN＋13" tvg-name="ESPN＋13" tvg-logo="https://epg.112114.xyz/logo/ESPN＋13.png" group-title="超级杯",ESPN＋2
+http://ua-iptv.com:8080//Balcony11/8036405556/707582
 #EXTINF:-1,tvg-id="REAL MADRID" tvg-name="REAL MADRID" tvg-logo="https://epg.112114.xyz/logo/REALMADRID.png" group-title="超级杯",REAL MADRID
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1395515&extension=ts&play_token=nOSDRjqnFa
 #EXTINF:-1,tvg-id="REAL MADRID" tvg-name="REAL MADRID" tvg-logo="https://epg.112114.xyz/logo/REALMADRID.png" group-title="超级杯",REAL MADRID
@@ -8,3 +10,11 @@ http://ua-iptv.com:8080//Balcony11/8036405556/973404
 http://doubleclicktv.live/70376812/52663544/276873
 #EXTINF:-1,tvg-id="MUTV HD" tvg-name="MUTV HD" tvg-logo="https://epg.112114.xyz/logo/MUTV.png" group-title="超级杯",MUTV HD
 http://doubleclicktv.live/70376812/52663544/276872
+#EXTINF:-1,tvg-id="ESPN＋12" tvg-name="ESPN＋12" tvg-logo="https://epg.112114.xyz/logo/ESPN＋12.png" group-title="超级杯",ESPN＋12
+http://ua-iptv.com:8080//Balcony11/8036405556/980588
+#EXTINF:-1,tvg-id="ESPN＋13" tvg-name="ESPN＋13" tvg-logo="https://epg.112114.xyz/logo/ESPN＋13.png" group-title="超级杯",ESPN＋13
+http://ua-iptv.com:8080//Balcony11/8036405556/980589
+#EXTINF:-1,tvg-id="REAL MADRID" tvg-name="REAL MADRID" tvg-logo="https://epg.112114.xyz/logo/REALMADRID.png" group-title="超级杯",REAL MADRID
+http://mynxg.top:80//ryan11/ryan11/837858
+#EXTINF:-1,tvg-id="ESPN＋13" tvg-name="ESPN＋13" tvg-logo="https://epg.112114.xyz/logo/ESPN＋13.png" group-title="超级杯",ESPN＋2
+http://ua-iptv.com:8080//Balcony11/8036405556/707582
