@@ -20,6 +20,7 @@ https://wyzy.online:55734/allinone/migu/946033310.m3u8?migutoken=b44496299e72cbd
 https://wyzy.online:55734/allinone/migu/946033375.m3u8?migutoken=5b58c272a84a74eb1b0c758d40d9cb3ceff1b6409ed200880a82a009c0ee3b6c1acf91ef9e5de71f0afaa301de101f3134ebe81a74759c16e0ea1ea139dd34a6cdb44e22b5d2aed0478461c0d5
 
 
+#EXTM3U
 #EXTINF:-1,tvg-id="2025-01-12 04:00:00_NBA常规赛_老鹰 vs 火箭_刘乘源" tvg-name="2025-01-12 04:00:00_NBA常规赛_老鹰 vs 火箭_刘乘源" tvg-logo="https://epg.112114.xyz/logo/011204:00:00_NBA常规赛_老鹰VS火箭_刘乘源.png" group-title="线路-2",2025-01-12 04:00:00_NBA常规赛_老鹰 vs 火箭_刘乘源
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppzJJhfTa1qbCbbkO12jfwL4/m3u8
 #EXTINF:-1,tvg-id="2025-01-12 04:00:00_NBA常规赛_老鹰 vs 火箭_英文原声" tvg-name="2025-01-12 04:00:00_NBA常规赛_老鹰 vs 火箭_英文原声" tvg-logo="https://epg.112114.xyz/logo/011204:00:00_NBA常规赛_老鹰VS火箭_英文原声.png" group-title="线路-2",2025-01-12 04:00:00_NBA常规赛_老鹰 vs 火箭_英文原声
@@ -34,6 +35,59 @@ https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxno0C2HRb1L3--BS9Qbzs8/m3u8
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_2K50Dcf0lKObR_u-2_O5k/m3u8
 #EXTINF:-1,tvg-id="2025-01-12 06:00:00_NBA常规赛_太阳 vs 爵士_英文原声" tvg-name="2025-01-12 06:00:00_NBA常规赛_太阳 vs 爵士_英文原声" tvg-logo="https://epg.112114.xyz/logo/011206:00:00_NBA常规赛_太阳VS爵士_英文原声.png" group-title="线路-2",2025-01-12 06:00:00_NBA常规赛_太阳 vs 爵士_英文原声
 https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppx2YQFVjlW51NmnNKQklIf0/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 08:00:00_NBA常规赛_活塞 vs 猛龙_王嘉琦" tvg-name="2025-01-12 08:00:00_NBA常规赛_活塞 vs 猛龙_王嘉琦" tvg-logo="https://epg.112114.xyz/logo/011208:00:00_NBA常规赛_活塞VS猛龙_王嘉琦.png" group-title="线路-2",2025-01-12 08:00:00_NBA常规赛_活塞 vs 猛龙_王嘉琦
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp5f5rO0tMe1FB6Y4wGztjvU/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 08:00:00_NBA常规赛_活塞 vs 猛龙_英文原声" tvg-name="2025-01-12 08:00:00_NBA常规赛_活塞 vs 猛龙_英文原声" tvg-logo="https://epg.112114.xyz/logo/011208:00:00_NBA常规赛_活塞VS猛龙_英文原声.png" group-title="线路-2",2025-01-12 08:00:00_NBA常规赛_活塞 vs 猛龙_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp6kfIbCcmLOTmV5m0VSGJi4/m3u8
+#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="线路-2",2025-01-12 08:30:00_篮球直播节目_《早安 NBA》第78期：莫兰特、爱德华兹、格林、锡安，“最佳扣篮表演者”头衔你给谁？_王子星 王仕鹏 炼炼
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp3dSpruzkhKwxVn5XD7Zwek/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 09:00:00_NFL季后赛_乌鸦 vs 钢人_罗森 萧深" tvg-name="2025-01-12 09:00:00_NFL季后赛_乌鸦 vs 钢人_罗森 萧深" tvg-logo="https://epg.112114.xyz/logo/011209:00:00_NFL季后赛_乌鸦VS钢人_罗森萧深.png" group-title="线路-2",2025-01-12 09:00:00_NFL季后赛_乌鸦 vs 钢人_罗森 萧深
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp68XTes_UaFeBetg5CHWyVk/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 09:00:00_NFL季后赛_乌鸦 vs 钢人_英文原声" tvg-name="2025-01-12 09:00:00_NFL季后赛_乌鸦 vs 钢人_英文原声" tvg-logo="https://epg.112114.xyz/logo/011209:00:00_NFL季后赛_乌鸦VS钢人_英文原声.png" group-title="线路-2",2025-01-12 09:00:00_NFL季后赛_乌鸦 vs 钢人_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp7mxTE0U2Bafbvl17l6YVIo/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_王子星 王仕鹏 炼炼" tvg-name="2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_王子星 王仕鹏 炼炼" tvg-logo="https://epg.112114.xyz/logo/011209:00:00_NBA常规赛_森林狼VS灰熊_王子星王仕鹏炼炼.png" group-title="线路-2",2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_王子星 王仕鹏 炼炼
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppw1zCgADlzZo-1GL2TLt5JE/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_球星视角" tvg-name="2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_球星视角" tvg-logo="https://epg.112114.xyz/logo/011209:00:00_NBA常规赛_森林狼VS灰熊_球星视角.png" group-title="线路-2",2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_球星视角
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppzBvDkIAGzw7i61q-fK-jWA/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_英文原声" tvg-name="2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_英文原声" tvg-logo="https://epg.112114.xyz/logo/011209:00:00_NBA常规赛_森林狼VS灰熊_英文原声.png" group-title="线路-2",2025-01-12 09:00:00_NBA常规赛_森林狼 vs 灰熊_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp6w3a_GqaCnqvP6EVzfyK0I/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 11:00:00_NBA常规赛_开拓者 vs 热火_寇逸豪" tvg-name="2025-01-12 11:00:00_NBA常规赛_开拓者 vs 热火_寇逸豪" tvg-logo="https://epg.112114.xyz/logo/011211:00:00_NBA常规赛_开拓者VS热火_寇逸豪.png" group-title="线路-2",2025-01-12 11:00:00_NBA常规赛_开拓者 vs 热火_寇逸豪
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxaV9C6pckJ3mMl_cCdbTQU/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 11:00:00_NBA常规赛_开拓者 vs 热火_英文原声" tvg-name="2025-01-12 11:00:00_NBA常规赛_开拓者 vs 热火_英文原声" tvg-logo="https://epg.112114.xyz/logo/011211:00:00_NBA常规赛_开拓者VS热火_英文原声.png" group-title="线路-2",2025-01-12 11:00:00_NBA常规赛_开拓者 vs 热火_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_jTLw_t9FLR4ZIqht_opjE/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 11:30:00_发布会_灰熊vs森林狼 赛后新闻发布会" tvg-name="2025-01-12 11:30:00_发布会_灰熊vs森林狼 赛后新闻发布会" tvg-logo="https://epg.112114.xyz/logo/011211:30:00_发布会_灰熊VS森林狼赛后新闻发布会.png" group-title="线路-2",2025-01-12 11:30:00_发布会_灰熊vs森林狼 赛后新闻发布会
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppw7UJW9M1gnQRfJ2rxYl8lg/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 12:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 火箭vs老鹰" tvg-name="2025-01-12 12:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 火箭vs老鹰" tvg-logo="https://epg.112114.xyz/logo/011212:00:00_NBA经典赛_2425赛季常规赛精彩回顾火箭VS老鹰.png" group-title="线路-2",2025-01-12 12:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 火箭vs老鹰
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp9dwLTYRRIbHmDYbp0yRw2U/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 爵士vs太阳" tvg-name="2025-01-12 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 爵士vs太阳" tvg-logo="https://epg.112114.xyz/logo/011214:00:00_NBA经典赛_2425赛季常规赛精彩回顾爵士VS太阳.png" group-title="线路-2",2025-01-12 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 爵士vs太阳
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp2aCfbgqDAzNm9K-SVOkgV8/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 湖人vs独行侠" tvg-name="2025-01-12 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 湖人vs独行侠" tvg-logo="https://epg.112114.xyz/logo/011216:00:00_NBA经典赛_2425赛季常规赛精彩回顾湖人VS独行侠.png" group-title="线路-2",2025-01-12 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 湖人vs独行侠
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyGMPUXj1-_2xGta_wzzTso/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 18:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 勇士vs步行者" tvg-name="2025-01-12 18:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 勇士vs步行者" tvg-logo="https://epg.112114.xyz/logo/011218:00:00_NBA经典赛_2425赛季常规赛精彩回顾勇士VS步行者.png" group-title="线路-2",2025-01-12 18:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 勇士vs步行者
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp_54Jg8i27b9BAEnFB6U9m4/m3u8
+#EXTINF:-1,tvg-id="2025-01-12 20:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 骑士vs湖人" tvg-name="2025-01-12 20:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 骑士vs湖人" tvg-logo="https://epg.112114.xyz/logo/011220:00:00_NBA经典赛_2425赛季常规赛精彩回顾骑士VS湖人.png" group-title="线路-2",2025-01-12 20:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 骑士vs湖人
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppwYKBtqle6hZrtBvhWj6s1Q/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 02:00:00_NFL季后赛_比尔 vs 野马" tvg-name="2025-01-13 02:00:00_NFL季后赛_比尔 vs 野马" tvg-logo="https://epg.112114.xyz/logo/011302:00:00_NFL季后赛_比尔VS野马.png" group-title="线路-2",2025-01-13 02:00:00_NFL季后赛_比尔 vs 野马
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxbRFiH_ZSJidlv1YqxkuU8/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 02:00:00_NFL季后赛_比尔 vs 野马_英文原声" tvg-name="2025-01-13 02:00:00_NFL季后赛_比尔 vs 野马_英文原声" tvg-logo="https://epg.112114.xyz/logo/011302:00:00_NFL季后赛_比尔VS野马_英文原声.png" group-title="线路-2",2025-01-13 02:00:00_NFL季后赛_比尔 vs 野马_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp9zTIsOnkQ7dceabZtaZdnE/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 04:00:00_NBA常规赛_尼克斯 vs 雄鹿_李雪儿" tvg-name="2025-01-13 04:00:00_NBA常规赛_尼克斯 vs 雄鹿_李雪儿" tvg-logo="https://epg.112114.xyz/logo/011304:00:00_NBA常规赛_尼克斯VS雄鹿_李雪儿.png" group-title="线路-2",2025-01-13 04:00:00_NBA常规赛_尼克斯 vs 雄鹿_李雪儿
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppyjc4VOcdcMvqqz4BpZEuu8/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 04:00:00_NBA常规赛_尼克斯 vs 雄鹿_英文原声" tvg-name="2025-01-13 04:00:00_NBA常规赛_尼克斯 vs 雄鹿_英文原声" tvg-logo="https://epg.112114.xyz/logo/011304:00:00_NBA常规赛_尼克斯VS雄鹿_英文原声.png" group-title="线路-2",2025-01-13 04:00:00_NBA常规赛_尼克斯 vs 雄鹿_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppzT2USIJL520zuzDqH3YOIQ/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 04:00:00_NBA常规赛_独行侠 vs 掘金_王兆丰" tvg-name="2025-01-13 04:00:00_NBA常规赛_独行侠 vs 掘金_王兆丰" tvg-logo="https://epg.112114.xyz/logo/011304:00:00_NBA常规赛_独行侠VS掘金_王兆丰.png" group-title="线路-2",2025-01-13 04:00:00_NBA常规赛_独行侠 vs 掘金_王兆丰
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp4c5PF1YMUPgQR6AqQVPjqQ/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 04:00:00_NBA常规赛_独行侠 vs 掘金_英文原声" tvg-name="2025-01-13 04:00:00_NBA常规赛_独行侠 vs 掘金_英文原声" tvg-logo="https://epg.112114.xyz/logo/011304:00:00_NBA常规赛_独行侠VS掘金_英文原声.png" group-title="线路-2",2025-01-13 04:00:00_NBA常规赛_独行侠 vs 掘金_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxppxqZTB72jT3T-mp5U2Stp0w/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 04:30:00_NBA常规赛_公牛 vs 国王_金浩霆" tvg-name="2025-01-13 04:30:00_NBA常规赛_公牛 vs 国王_金浩霆" tvg-logo="https://epg.112114.xyz/logo/011304:30:00_NBA常规赛_公牛VS国王_金浩霆.png" group-title="线路-2",2025-01-13 04:30:00_NBA常规赛_公牛 vs 国王_金浩霆
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp1SPQVfja28siE4OB4IP-Lg/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 04:30:00_NBA常规赛_公牛 vs 国王_英文原声" tvg-name="2025-01-13 04:30:00_NBA常规赛_公牛 vs 国王_英文原声" tvg-logo="https://epg.112114.xyz/logo/011304:30:00_NBA常规赛_公牛VS国王_英文原声.png" group-title="线路-2",2025-01-13 04:30:00_NBA常规赛_公牛 vs 国王_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp2KnBLTTfymApl7RBxA_h_o/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 05:30:00_NFL季后赛_老鹰 vs 包装工_杨照铭" tvg-name="2025-01-13 05:30:00_NFL季后赛_老鹰 vs 包装工_杨照铭" tvg-logo="https://epg.112114.xyz/logo/011305:30:00_NFL季后赛_老鹰VS包装工_杨照铭.png" group-title="线路-2",2025-01-13 05:30:00_NFL季后赛_老鹰 vs 包装工_杨照铭
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp2jeIqw7uYs5s5SyUoCBjNY/m3u8
+#EXTINF:-1,tvg-id="2025-01-13 05:30:00_NFL季后赛_老鹰 vs 包装工_英文原声" tvg-name="2025-01-13 05:30:00_NFL季后赛_老鹰 vs 包装工_英文原声" tvg-logo="https://epg.112114.xyz/logo/011305:30:00_NFL季后赛_老鹰VS包装工_英文原声.png" group-title="线路-2",2025-01-13 05:30:00_NFL季后赛_老鹰 vs 包装工_英文原声
+https://newtvsuper.com:443/play/BQUEQVM9piiG2pbRNWxpp0fQGq-xpYKuvdasUH_JdEE/m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="FE电动方程式", 2025-01-12 04:00:00_FE电动方程式_FE电动方程式世界锦标赛墨西哥城站正赛
