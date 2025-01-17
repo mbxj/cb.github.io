@@ -1,16 +1,6 @@
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-17 03:25_英超_伊普斯维奇vs布莱顿_源1
-https://wyzy.online:55734/allinone/migu/946387057.m3u8?migutoken=8b2b6a34896bd5b91c423e3ac8254a0d2f41b5316b5f14b29a3f80c1b6c21b25ee1687ba354fd0d68485cbc6e05b280e451c86d3149e03577ac4e3742d1671f7514ffbe71ae81002f1dc693459
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-17 03:25_英超_伊普斯维奇vs布莱顿_源2
-https://newtvsuper.com/NBc0101/S1889/17475
-
-
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-17 03:30_英超_曼联vs南安普顿_源1
-https://wyzy.online:55734/allinone/migu/946387133.m3u8?migutoken=9dcefa90cd188ce1f7586df775a7db8916addd1a96418a2cfc7eb48729461c805adc456549a1a707090f781fdaf277789b14e0b2e43c55976d637c2ad7831d97bfff13656c2605129cecf8286c
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-17 03:30_英超_曼联vs南安普顿_源2
-https://newtvsuper.com/NBc0101/S1889/17477
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-17 03:30_英超_曼联vs南安普顿_粤语
-https://newtvsuper.com/NBc0101/S1889/17478
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-18 03:55_西甲_西班牙人vs巴拉多利德_源1
+https://wyzy.online:55734/allinone/migu/946973214.m3u8?migutoken=e3fa6dbdd6940974dc2c81d3af334f43dd0d41bcb0804b1f24ce8b5dfde20e9eb7417de6e8760b99b4c67278903e46fb3c0121b568a61254eb242122700294842aabef94b4c286ae2ff63a0b66
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-18 03:55_西甲_西班牙人vs巴拉多利德_源2
+https://wyzy.online:55734/allinone/iqiyi/4145395/5488920083971323.m3u8?iqytoken=e8bdbc9b87017a2057c059df596ec72cfe2808f88a26ead4d31277eb56c0dd926c10accaaf30180a4ca11e1d4e37afd8c8ca7260fcac2c47f27c491ff07418a99b13a3831f9d2ec53223b67f6b904d283778db67f5c830f8d35c2505f6dcc375221790fce535fe3bbb8384d77618c0303543c6cd61be5b6645897b6d491383070a8df3de40e5d3b7dd55815b4af1d19e9d456f935d4fd9da49bfd08a1bf8d75d10af25a305da932551239f
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-18 03:55_西甲_西班牙人vs巴拉多利德_English Commentary 
+https://wyzy.online:55734/allinone/iqiyi/4145395/6141080918145423.m3u8?iqytoken=a693307cb8973c6efb7db1f60e8bf1b5c90a84ecd6847fb04a0387c802f87f19218f34381183df8e757955575a8ed9814baf88d5c3a2319a74ce30cb369399df9115b4b46a08b9c7b94191ef331610f754b36b303460d2dccb5204025899544ec6101e242c6ffe5ba693c8a0b0f4bd3b4a019519b5993d8fd94c13835ad396ec7d99957d274b498ed421ef85ce24d8021b0e688a2f6e387af0cc0d748924a6cc86116be2a9e60d1593c367
