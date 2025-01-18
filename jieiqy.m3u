@@ -1,59 +1,30 @@
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 20:15_英超_纽卡斯尔联vs伯恩茅斯_肖天宇 高季敏 
-http://two.loiey.top:58888/migu/946972183.m3u8?migutoken=3ba63cc3b4584b6203410e3dc03af98eb00f6692296cf01d457d7cf72b9b7cbbaf5a59f64f7494369d80bddb59111eca4ce2f2af28ae8062cd735e01481c072508ffc2c0c997a03cfc141448ee
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:15_英超联赛_阿森纳 vs 阿斯顿维拉_詹俊 张路 李子琪
+http://two.loiey.top:58888/migu/946973303.m3u8?migutoken=2e7b7379ecce939ca2162727e40fe01188f286bd32bbd3ae9b659d032d050b3fb2df651fd4a27dd18467d5b9296ef871e0104179ccf8344e89b35603ca4de6ed89080ce08e8c0005af3ed9952c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:20_英超联赛_阿森纳 vs 阿斯顿维拉_江忠德
+http://two.loiey.top:58888/migu/946972901.m3u8?migutoken=78617c4ee709203f884f3513c4d31565ae2124d960b67268ed4d412660b1664df1363953323f336fc6a134357d6e007a433931e63867990a4962e0a9bb660a2a1cefd0eb3c832c79df48977b27
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:20_英超联赛_阿森纳 vs 阿斯顿维拉_洪荒
+http://two.loiey.top:58888/migu/946972825.m3u8?migutoken=ffac5cbf2e388ccb413be34ec80bc6ba9cd09b08bcc99c0fbe8a7fc38618d903fe0d942fb9882430a13384e618c2538d0e8475b9daec0d0a70153493d2cb31b42f4cdb1c40459ffeeda21b8793
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:20_英超联赛_阿森纳 vs 阿斯顿维拉_陈渤胄
+http://two.loiey.top:58888/migu/946972716.m3u8?migutoken=5ff0ba372025ab736c28259e42cc25d69cc4fcdc6a50b9134104f1e98e08e0261b3427503dceab44ab88ce0c5f4bf62b1099dd3fae84a1201dbe9adcb490a3a36cf48c17592aee648abe519e80
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:15_英超联赛_阿森纳 vs 阿斯顿维拉_智能字幕
+http://two.loiey.top:58888/migu/946973336.m3u8?migutoken=0e7c20ebdd75373927a68a68f7a7f4bf395946f21ea807bfe7b2bdc7bf06e60b26272d44fd547de1d64aa1464f6a089de6ecea8c85196b706a86f623c6661a965fbe7972319b4e4c6113855032
 
+#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_于鑫淼孟洪涛郭小仙.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6-hXyNbh6vb3IcbnWdNn8U/m3u8
+#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_陈文森.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-uv6ZAzDVriPD_Ebs9LFgw/m3u8
+#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_全析超视角.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGwmT9Y3zX7_hbxbalnnwNpc/m3u8
+#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_ENGLISHCOMMENTARY.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG1b-1QZG3lIEKEhQRtxGMaY/m3u8
 
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-18 20:55_西甲_赫罗纳vs塞维利亚_朱一览 
-http://two.loiey.top:58888/migu/946973359.m3u8?migutoken=bb005c55fb8901e0a1053ccb933f5f40cf6aa9d56532b27cbd32c2f6ab68f9b329f64fe0b93344fbb3ad65d0a1272ee5d3b47901d36930118ce05401d5bf0632bcf6f0a214a6a077c3b4f60212
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 01:20_西甲联赛_皇家贝蒂斯 vs 阿拉维斯_源1
+http://two.loiey.top:58888/migu/946973564.m3u8?migutoken=77f3487a5da830264df89d6799e0eace8532fc4fb32d3f7ce1cc7cc852f2496415c29f0b95d4b1db06c174b7804ddd13d569cefcd385367e17f51bb8b90e904e8639c090d92edc7d23ddd1ff1d
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 01:20_西甲联赛_皇家贝蒂斯 vs 阿拉维斯_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG965ySXLTYuaCWKRrdEhUB8/m3u8
 
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 03:45_西甲联赛_赫塔费 vs 巴塞罗那_源1
+http://two.loiey.top:58888/migu/946973726.m3u8?migutoken=d16a97b413d10642dc19d7e27c11d226d3a4e66ccd7e4f0f3889efd3f9607fc8c2773a2ca8e3876ac817cad9f03436aee5d9df70556f2154e517d3748bccd7ccac88fbf6063bd29e9c5839cf3f
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 03:45_西甲联赛_赫塔费 vs 巴塞罗那_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6yLwxWUXrtYIEQDt1hUM8Y/m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:30_英超_布伦特福德vs利物浦_李欣 孟洪涛 郭小仙 
-http://two.loiey.top:58888/migu/946972396.m3u8?migutoken=ee2bc2149450695ff067627a823fe25baf61e3fedea28276238b8aab337bb9987e6b633632ff92d2f24e819086915935faa2bc5110664b0b2befb4ba6ff83e275f795a7f0f64fa03e0a3c9ce53
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:30_英超_布伦特福德vs利物浦_源2
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_Pmgvhiy_sHSKOUsRixxpI/m3u8
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:30_英超_布伦特福德vs利物浦_陈文森
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_t8TEOIvaaUHfeTBblTdmQ/m3u8
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:30_英超_布伦特福德vs利物浦_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4139743/5892409505352923.m3u8?iqytoken=96ad5fa35ec0da60bd9315cb10ab0df81e70c27a8012882651b8c564687c1821ff55f318ba338267a14d0be2cbada5851d6b0d997485add50efeb2246216eb3438465d3c16a12c4b2b2dd5e62f4eb8d296cf3a67d43d95e6b4a04f96a4fdf85b33279acd917d30b96e17c6089bba938fb5e7d0284901f9d47aab586e869be198526f8ab5ed167c12d1e2190386cd7cf05658f5e414333f749bfcdf0438987a841c6ee03ea03cea5caa6714
-
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:45_英超_莱斯特城vs富勒姆_肖天宇 高季敏 
-http://two.loiey.top:58888/migu/946972572.m3u8?migutoken=5465a817722fd40f55b3bf26a901607d6ff679d0a44268d1f87780c74d12f9e0000368600f173cbff43ec263d7f6c353f95ad830a0ee054741750b92ce802af0b051ccd8b951581118792ee5af
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:45_英超_莱斯特城vs富勒姆_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4139755/3667201443840923.m3u8?iqytoken=4d7490da32c570b9ac8f6214f682fda2e734db0e420b4a3c79a0ca8efe600b5e429472b18235672d4c79bf12c6644e80e9c902b9016707ccfee7faab53dea011b6541320c6fe8e5dea017dd21d05c475f551561de4caae016697173fc5cc0045e65806d9aa3902f81affdd93e22329cffcee363d6245efbd5d356c87fb5a28406c584962d44faa137c23b21d665ad956398e11e502d8381a441381d395b025af0530570e973d50a65942e6
-
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:45_英超_西汉姆联vs水晶宫_陈耀宗 王正坤 
-http://two.loiey.top:58888/migu/946972651.m3u8?migutoken=df6d2970763951a1d0e8991964598d434801b675bf27e0958d2870b8bc2f99b9ad8c17c4599d6284926f7224d10872e26e0f687ccef2077936d15314c95dc081850c65041abaa2f4db896fbea6
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-18 22:45_英超_西汉姆联vs水晶宫_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4139763/3517998596163223.m3u8?iqytoken=af22166bf793402150a52963a843be6c48b36be269788cd39015be17638aed3e3d67d3cc158ff113f927f2c31888e22c92da052d37ac8f309186d37a2d9b23107c8dc26cb9abe7b65dd7f9b6b4547db76bd969b418210f9fc7cfd8b17a09d23ffe796e9a08a234a97a334242ea1b043e388515c9a4ddecaea503e75afaae740df429680b7371f292c78bb3af271e4693b4668ccb4574af31d85547ab5755eba3d1e3c563cec09a4db37976
-
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-18 23:10_西甲_莱加内斯vs马竞_李嘉伟 
-http://two.loiey.top:58888/migu/946973493.m3u8?migutoken=2423af9689208746da3c0e9ba3c5c0dc8e21975fe6dc8b11d19c2143372c3b0c99f69dc524302f34c497ace5476f42887d00172423ce74b90cec4ebaa23c0a13d195a289c00626c23be8619248
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-18 23:10_西甲_莱加内斯vs马竞_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4140358/8635014538647723.m3u8?iqytoken=300dad1129dd88636dd060817cbb303e41e99c8f48adb32c49740c70d588916a0a8e6ae6285ab699e569e395430c08e3326ce11747018287a8682fdabf80b7d0888379abaed1c7ae1093aa68d24b4f6f7b9326b50248666643f68fb0ae1cea7d9581f8ea0e6d2ca441f028ec27e710043bb8fc9adc4c03dbb3b068270f05723f6b7a8c00410f723379410269b644f6e8f4119b540e98c98a235c970f0e6b18c5e189da5842906c94af3fa8
-
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙 
-https://wyzy.online:55734/allinone/iqiyi/4139745/6146696079088723.m3u8?iqytoken=ecc22e2d87e5db9fe837a2337cd2b373b7bd0e6ef037e1babd5c11500052a289c3f448732900e887b4a627c73d8f379a1c6b86bad7c3a5cb8d9169bf1c23df557330b4330339bb01115044d7a3dafaa31a8ea70b1df9ab16fc4da6de746028bd8ebc1fa29b788cff16d0f0e34d2dbc3e635dc1cdf81ce64c3e551969388389dd40f78402a05c522102027f14d27d926fd97752d2e9c6eeaf8666e6ce24ed3ab71bf72de3055bf4f38f4791
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森 
-https://wyzy.online:55734/allinone/iqiyi/4139745/3372806577741623.m3u8?iqytoken=b0284745a1302c93ad3f337ba8048ae6ee08e1a34b77fb872635302b38a9bd06c388d76662feb69aecfa04b9f92f1d4a8dc323f1417349249cbd00191fb5427660a0b9b75a6fd94f1c6aeaa2485adcfba65ee66ddd91c6f41de932135a9cbe429436e6cdbe3978c449263fe637cb4d12aaea2465080b7c2141052b9cbcd830b75175a5ce35340118a6f2f8e461c0b62c23bdb4eda664af4dd4f5d8e9ae27d861b333b6d5f728da795abdfd
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角 
-https://wyzy.online:55734/allinone/iqiyi/4139745/7326682041038323.m3u8?iqytoken=89676a2535e61207608745d88004f379f14b4383bd11aa03d585ed284e97ed49bf81a59e65e86c6d8a778e4939107361dcce36755849d738f078c25bb16732c91f282d27ab69ca90c52e435c7c728c5e16a6004c0f4036d2b1584a7c8720c27f763050a1db47f52f5da2c3d888dbd2a4e587ef4a620d72151f6bbe30f651fe686af29487a0d962c27ef7a2e16f039a0aa2331ec803a07059a460609a8bddca86954ba315ffc0fb44607c98
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4139745/8290083224131823.m3u8?iqytoken=8ae8fbb6f63b2a3cf5e6aaf2e427028222d43cc2e78435ef67eca68246d6ae704cb1169ec3118ebfacf65accfa9fac7789ce322e7540de870cd01b1bd1c20382316faaf45d53786680286f1d890db3d0e34189b76e0869af37562ab7642988200d3c430f7280a3ae092e476fbebba7af069010323611d9bc869e50ae55a547a043e277d2a505011f9befb75071bc3296b9a6efbf4a0f15519cda973e372abe12712a4454506bc34ac9128f
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-19 01:25_西甲_贝蒂斯vs阿拉维斯_侯嘉晨 
-https://wyzy.online:55734/allinone/iqiyi/4140355/8539556802774323.m3u8?iqytoken=1e267c48f2d0c6795e50b3ea0ed75a8004d1e5195c3d938ba52bee4c95629ffe6884426f2cc447d7383941b448d96eb02175aefb006db7c58c159871028cd78a8dd6981d0b9c15cbb5ffa5d222c42a1e8ad353124f9e7bbc198703eb3d0d5fd70e5da5e8a4d2e6ce61b941ad636dcf98ad37e5d9df74672a18ee9873ea6cd480b6370eef290e8923ca85eaca76ee790e7d4de65ea418edf6e5236c2e16893912c4abe33a7272d80f55fc60
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-19 01:25_西甲_贝蒂斯vs阿拉维斯_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4140355/7415722450142223.m3u8?iqytoken=37421e55605d1b8f537a622c0cf2022b44e0985f62ad1a4724b561d9f5501a29c621b6a71fed3acce55fc4a19c4ecf9931e409d68914e11b0370477ff92a4f3c1899c5ca44d9e7229186aa8011c3b066c2f492411810ebd300375757e62ebb91e8bcf26d389e6dcceff085984fa2e4fab29bb67303b6e201bfe116504251a253f75a99869bdd805cc195da9488d508b9e55eece38a487313c5f751e7523e7de06ef72754858fd91c72056b
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-19 03:45_西甲_赫塔菲vs巴萨_陈瑞阳 梁森童 
-https://wyzy.online:55734/allinone/iqiyi/4140537/3723353053176323.m3u8?iqytoken=9400d1f5ec047242dc8f2cb6270ac1882a8250fbba482c91acecd147880d0f6a4e9dcd8c09f58940d91e0e156b30628279125c2eec8aae8e6c4bf41d1d4a7ad40c5f1392874837a505038e9f8fbe18583f27900c0a45ad110c079de1fce939648ff0b709c8e90dfe8aeebe81a313b42b13ddcd30c6acc05c6b10cdbc6d6cc4a07111c0984479fc44f5e1f405ce8becf3cbbd06aa6532f7d2ecfd603d5586555c559ba6309e7426e3709a6a
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-01-19 03:45_西甲_赫塔菲vs巴萨_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4140537/3339917777968123.m3u8?iqytoken=6d9a4e1aff3a326988b1f925c5daa025a3a5a6abc20e46ae29c053cdc1d3588ee51ab5f96c17bf5d8dc491ec8c6b66caafcaec56756ea5e6d92318d005041f28fcd404e593af9d83a53582236e9e9024a3602d842bf85fa8875b4a86688e9b9501eebc13d289a2a29b7d8597d38ebe155625747ddefc9476e862658c70bbdad86fff5da022912f303df70d916723621769515766fc74377ac6f49551c17ab6b819373be6e300921beec0b9
