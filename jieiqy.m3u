@@ -1,30 +1,54 @@
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:15_英超联赛_阿森纳 vs 阿斯顿维拉_詹俊 张路 李子琪
-http://two.loiey.top:58888/migu/946973303.m3u8?migutoken=2e7b7379ecce939ca2162727e40fe01188f286bd32bbd3ae9b659d032d050b3fb2df651fd4a27dd18467d5b9296ef871e0104179ccf8344e89b35603ca4de6ed89080ce08e8c0005af3ed9952c
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:20_英超联赛_阿森纳 vs 阿斯顿维拉_江忠德
-http://two.loiey.top:58888/migu/946972901.m3u8?migutoken=78617c4ee709203f884f3513c4d31565ae2124d960b67268ed4d412660b1664df1363953323f336fc6a134357d6e007a433931e63867990a4962e0a9bb660a2a1cefd0eb3c832c79df48977b27
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:20_英超联赛_阿森纳 vs 阿斯顿维拉_洪荒
-http://two.loiey.top:58888/migu/946972825.m3u8?migutoken=ffac5cbf2e388ccb413be34ec80bc6ba9cd09b08bcc99c0fbe8a7fc38618d903fe0d942fb9882430a13384e618c2538d0e8475b9daec0d0a70153493d2cb31b42f4cdb1c40459ffeeda21b8793
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:20_英超联赛_阿森纳 vs 阿斯顿维拉_陈渤胄
-http://two.loiey.top:58888/migu/946972716.m3u8?migutoken=5ff0ba372025ab736c28259e42cc25d69cc4fcdc6a50b9134104f1e98e08e0261b3427503dceab44ab88ce0c5f4bf62b1099dd3fae84a1201dbe9adcb490a3a36cf48c17592aee648abe519e80
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 01:15_英超联赛_阿森纳 vs 阿斯顿维拉_智能字幕
-http://two.loiey.top:58888/migu/946973336.m3u8?migutoken=0e7c20ebdd75373927a68a68f7a7f4bf395946f21ea807bfe7b2bdc7bf06e60b26272d44fd547de1d64aa1464f6a089de6ecea8c85196b706a86f623c6661a965fbe7972319b4e4c6113855032
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 20:50_西甲联赛_塞尔塔 vs 毕尔巴鄂竞技_源1
+http://two.loiey.top:58888/migu/946973868.m3u8?migutoken=359f221e9f6b879f43bd1f94a90c82e326568212131294819c8e2a9aeea6086e2f4a75fb6855396da0f2e906085a85bde9cece80b7497e42f119fc060936ad3229c216ac10d99ad53f0797a34d
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 20:50_西甲联赛_塞尔塔 vs 毕尔巴鄂竞技_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6dArnVS8yC1rPenk89HcJI/m3u8
 
-#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_于鑫淼孟洪涛郭小仙.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_于鑫淼 孟洪涛 郭小仙
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6-hXyNbh6vb3IcbnWdNn8U/m3u8
-#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_陈文森.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_陈文森
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-uv6ZAzDVriPD_Ebs9LFgw/m3u8
-#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_全析超视角.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_全析超视角
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGwmT9Y3zX7_hbxbalnnwNpc/m3u8
-#EXTINF:-1,tvg-id="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary" tvg-name="2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary" tvg-logo="https://epg.112114.xyz/logo/011901:10_英超_阿森纳VS阿斯顿维拉_ENGLISHCOMMENTARY.png" group-title="英超",2025-01-19 01:10_英超_阿森纳vs阿斯顿维拉_English Commentary
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG1b-1QZG3lIEKEhQRtxGMaY/m3u8
 
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 01:20_西甲联赛_皇家贝蒂斯 vs 阿拉维斯_源1
-http://two.loiey.top:58888/migu/946973564.m3u8?migutoken=77f3487a5da830264df89d6799e0eace8532fc4fb32d3f7ce1cc7cc852f2496415c29f0b95d4b1db06c174b7804ddd13d569cefcd385367e17f51bb8b90e904e8639c090d92edc7d23ddd1ff1d
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 01:20_西甲联赛_皇家贝蒂斯 vs 阿拉维斯_源2
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG965ySXLTYuaCWKRrdEhUB8/m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:45_英超联赛_曼联 vs 布莱顿_源1
+http://two.loiey.top:58888/migu/946972313.m3u8?migutoken=a162b28a04651650d5b881542ef36fbe98609943a1c1f7c26a21c98c728ded0f299dc66f0911ce4d5d88e7146067af2d4923788bf340adaed6f4bfc9c4741f6c6def83387e72bb074af280b2cc
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:45_英超联赛_曼联 vs 布莱顿_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG9dj9KOy7yxW2CyKKvoKmfA/m3u8
 
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 03:45_西甲联赛_赫塔费 vs 巴塞罗那_源1
-http://two.loiey.top:58888/migu/946973726.m3u8?migutoken=d16a97b413d10642dc19d7e27c11d226d3a4e66ccd7e4f0f3889efd3f9607fc8c2773a2ca8e3876ac817cad9f03436aee5d9df70556f2154e517d3748bccd7ccac88fbf6063bd29e9c5839cf3f
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 03:45_西甲联赛_赫塔费 vs 巴塞罗那_源2
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6yLwxWUXrtYIEQDt1hUM8Y/m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:45_英超联赛_曼联 vs 布莱顿_粤语
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG40aAcRTNVzdjeIc5vwlfMs/m3u8
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:45_英超联赛_曼联 vs 布莱顿_智能字幕
+http://two.loiey.top:58888/migu/946972622.m3u8?migutoken=b4fa13af9c58f35dd2313973e1ca8e46a5110d0677d18c1c3486cb96d25e21fc3fd80fb447a9261f276ab463fec28a268f74a9815bfdd6cf7ac7fac57d7cc1ab8e2e4c809c0ca362c22ccc9661
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:45_英超联赛_埃弗顿 vs 托特纳姆热刺_源1
+http://two.loiey.top:58888/migu/946972177.m3u8?migutoken=a4fa89980220e2644962b35176523738eb22a8c45e898bfe1a8776ef2d7b11502392167d3df10db0119b6b5d0e365254c5cce53900b628295343589278713071b2cb0765d53d7121b0769cef40
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:45_英超联赛_埃弗顿 vs 托特纳姆热刺_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG1k4t5ICUq0_bcjeQjJMlVY/m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:50_英超联赛_诺丁汉森林 vs 南安普敦_源1
+http://two.loiey.top:58888/migu/946972730.m3u8?migutoken=c48d31115bb2ae8a5299de1c00c10c1255337b1d9d7fbbdacf7acbabf6dca8e191c34167c7cfa9ae142bbe5c93145bdf77f1d5daeef56631485d896f655eaf8b2e8d68ad536790be11f0339c0c
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/19 21:50_英超联赛_诺丁汉森林 vs 南安普敦_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3JKGeX9TtQVAeRTKB3jvv4/m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 23:00_西甲联赛_皇家马德里 vs 拉斯帕尔马斯_源1
+http://two.loiey.top:58888/migu/946973980.m3u8?migutoken=51bef388b02e562e2d28f11c0d3adfd67ef1259aad437fdafcc2ef54500d056c09f5710e3a8bcfa42e6b32b17dced86571496da0d8027f4676ff0c1ec744962f8dcd03a662c980764b2297ea16
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/19 23:00_西甲联赛_皇家马德里 vs 拉斯帕尔马斯_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3h1qbKBk7cKXLXlHEYA7ag/m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/20 00:15_英超联赛_伊普斯维奇 vs 曼城_源1
+http://two.loiey.top:58888/migu/946972902.m3u8?migutoken=4d04f88a2971b7f6af5adc821d89270625e502c2eef9e63b191c02a8c6d28777336e5651dddcec2718da422577f1e89c4c91f49221a401763723e1fc88007f1605906fc6de373bca94860bc933
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/20 00:15_英超联赛_伊普斯维奇 vs 曼城_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4Q4NkFPSmyuDbJ_SykhUYs/m3u8
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/20 00:15_英超联赛_伊普斯维奇 vs 曼城_粤语
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_3qsi9opI03MxM5Nhir2nY/m3u8
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/20 01:20_西甲联赛_奥萨苏纳 vs 巴列卡诺_源1
+http://two.loiey.top:58888/migu/946972411.m3u8?migutoken=8e331bfc1b9c0b7b7b4fffd35ef5aed4780785e54784e560a9cddfecb620ddba4070b56a15c6e034082abca86d27245339e355ae134857a2084ba8484024da66b7278ec6145fdc5b8f79e76c8d
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/20 01:20_西甲联赛_奥萨苏纳 vs 巴列卡诺_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG85O-NehFDZnzdJvGad2Y6Q/m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/20 03:50_西甲联赛_瓦伦西亚 vs 皇家社会_源1
+http://two.loiey.top:58888/migu/946972489.m3u8?migutoken=824a8de80f1033071416e35f4563238443042c191507d688d7f0e99c168e0aa67db75fc5331b7eb2b3ececd16342d7a244a13c7d8e26ef23a234d25bd9f64cddcfc5419287a8638df981bba761
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/20 03:50_西甲联赛_瓦伦西亚 vs 皇家社会_源2
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG30DqpWfeA8Iu8Tq0TC8euk/m3u8
 
