@@ -1,13 +1,42 @@
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/21 03:50_英超联赛_切尔西 vs 狼队_源1
-http://two.loiey.top:58888/migu/946973019.m3u8?migutoken=0e4accc40f8918b667ef91416376c7c09b0ccfb16377b959c32f60ca01c94e9ac069ed592bd63ab7bd921e9a2d4b72d075cd56f451b2150fbee22e07d5b50523e433bed281b82ae653ad33a235
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/21 03:50_英超联赛_切尔西 vs 狼队_源2
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG2dBPijinb9D_l3XUaoag1k/m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 01/21 03:50_英超联赛_切尔西 vs 狼队_粤语
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3R82GGf1wXgVHOqD-MzaDE/m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/21 03:50_西甲联赛_比利亚雷亚尔 vs 马略卡_源1
-http://two.loiey.top:58888/migu/946972577.m3u8?migutoken=0f05d08fd0b7433289dc03ae309b6f30e744f2a7d5c4491072b501cb63c3ff4937c3bbe86acbc41f3fd62c9b7ff93e44f0f01896a5f1b16f1fb8409cb31f1634ca01952eba1794fd3670e1b5dc
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 01/21 03:50_西甲联赛_比利亚雷亚尔 vs 马略卡_源2
-https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5RXW72THxyAui1JzhElqww/m3u8
+#EXTINF:-1,tvg-id="2025-01-21 23:25_欧联_加拉塔萨雷vs基辅迪纳摩_王正坤" tvg-name="2025-01-21 23:25_欧联_加拉塔萨雷vs基辅迪纳摩_王正坤" tvg-logo="https://epg.112114.xyz/logo/012123:25_欧联_加拉塔萨雷VS基辅迪纳摩_王正坤.png" group-title="欧联杯",2025-01-21 23:25_欧联_加拉塔萨雷vs基辅迪纳摩_王正坤
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG10CxlD2JvmfY64yedoso00/m3u8
+#EXTINF:-1,tvg-id="2025-01-21 23:25_欧联_加拉塔萨雷vs基辅迪纳摩_English Commentary" tvg-name="2025-01-21 23:25_欧联_加拉塔萨雷vs基辅迪纳摩_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012123:25_欧联_加拉塔萨雷VS基辅迪纳摩_ENGLISHCOMMENTARY.png" group-title="欧联杯",2025-01-21 23:25_欧联_加拉塔萨雷vs基辅迪纳摩_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8dWepiq9USSK2L7elopWKI/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 01:40_欧冠_亚特兰大vs格拉茨风暴_汤宪博" tvg-name="2025-01-22 01:40_欧冠_亚特兰大vs格拉茨风暴_汤宪博" tvg-logo="https://epg.112114.xyz/logo/012201:40_欧冠_亚特兰大VS格拉茨风暴_汤宪博.png" group-title="欧冠",2025-01-22 01:40_欧冠_亚特兰大vs格拉茨风暴_汤宪博
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8bLQ-ykX-MbX7yJ97xX6Mw/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 01:40_欧冠_亚特兰大vs格拉茨风暴_English Commentary" tvg-name="2025-01-22 01:40_欧冠_亚特兰大vs格拉茨风暴_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012201:40_欧冠_亚特兰大VS格拉茨风暴_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 01:40_欧冠_亚特兰大vs格拉茨风暴_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG04NQGD1KBPr6Q30NjdyPCo/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 01:40_欧冠_摩纳哥vs阿斯顿维拉_高季敏" tvg-name="2025-01-22 01:40_欧冠_摩纳哥vs阿斯顿维拉_高季敏" tvg-logo="https://epg.112114.xyz/logo/012201:40_欧冠_摩纳哥VS阿斯顿维拉_高季敏.png" group-title="欧冠",2025-01-22 01:40_欧冠_摩纳哥vs阿斯顿维拉_高季敏
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5op4U-iGc-_bLAAXvBjAco/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 01:40_欧冠_摩纳哥vs阿斯顿维拉_English Commentary" tvg-name="2025-01-22 01:40_欧冠_摩纳哥vs阿斯顿维拉_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012201:40_欧冠_摩纳哥VS阿斯顿维拉_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 01:40_欧冠_摩纳哥vs阿斯顿维拉_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeGwE97Y_EX2xjHPM-IzibOXU/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:40_欧冠_博洛尼亚vs多特蒙德_李欣 孟洪涛" tvg-name="2025-01-22 03:40_欧冠_博洛尼亚vs多特蒙德_李欣 孟洪涛" tvg-logo="https://epg.112114.xyz/logo/012203:40_欧冠_博洛尼亚VS多特蒙德_李欣孟洪涛.png" group-title="欧冠",2025-01-22 03:40_欧冠_博洛尼亚vs多特蒙德_李欣 孟洪涛
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4KMDyR2ptpV78gH9KYa1fs/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:40_欧冠_博洛尼亚vs多特蒙德_English Commentary" tvg-name="2025-01-22 03:40_欧冠_博洛尼亚vs多特蒙德_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:40_欧冠_博洛尼亚VS多特蒙德_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:40_欧冠_博洛尼亚vs多特蒙德_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4MKfRaF0HWyBD-1Ffd4NU0/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:45_欧冠_利物浦vs里尔_金相凯 刘勇" tvg-name="2025-01-22 03:45_欧冠_利物浦vs里尔_金相凯 刘勇" tvg-logo="https://epg.112114.xyz/logo/012203:45_欧冠_利物浦VS里尔_金相凯刘勇.png" group-title="欧冠",2025-01-22 03:45_欧冠_利物浦vs里尔_金相凯 刘勇
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_2gIxZJ4uSljYQZ28TmCdk/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:45_欧冠_利物浦vs里尔_English Commentary" tvg-name="2025-01-22 03:45_欧冠_利物浦vs里尔_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:45_欧冠_利物浦VS里尔_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:45_欧冠_利物浦vs里尔_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG3PuAS1fGePuaW-xRp2SaVY/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:50_欧冠_本菲卡vs巴萨_熊冰杰 董方卓" tvg-name="2025-01-22 03:50_欧冠_本菲卡vs巴萨_熊冰杰 董方卓" tvg-logo="https://epg.112114.xyz/logo/012203:50_欧冠_本菲卡VS巴萨_熊冰杰董方卓.png" group-title="欧冠",2025-01-22 03:50_欧冠_本菲卡vs巴萨_熊冰杰 董方卓
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG8g-IKRgyW7F3GHfQ3fWits/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:50_欧冠_本菲卡vs巴萨_English Commentary" tvg-name="2025-01-22 03:50_欧冠_本菲卡vs巴萨_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:50_欧冠_本菲卡VS巴萨_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:50_欧冠_本菲卡vs巴萨_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG45aEYGVq7AF3TuY73NtJU0/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_马竞vs勒沃库森_李嘉伟 王正坤" tvg-name="2025-01-22 03:55_欧冠_马竞vs勒沃库森_李嘉伟 王正坤" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_马竞VS勒沃库森_李嘉伟王正坤.png" group-title="欧冠",2025-01-22 03:55_欧冠_马竞vs勒沃库森_李嘉伟 王正坤
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG-SiLHYDW_AKOSPLRKiaNkA/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_马竞vs勒沃库森_陈文森" tvg-name="2025-01-22 03:55_欧冠_马竞vs勒沃库森_陈文森" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_马竞VS勒沃库森_陈文森.png" group-title="欧冠",2025-01-22 03:55_欧冠_马竞vs勒沃库森_陈文森
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG_my6er_kAUsHq2646aWzPQ/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_马竞vs勒沃库森_English Commentary" tvg-name="2025-01-22 03:55_欧冠_马竞vs勒沃库森_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_马竞VS勒沃库森_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:55_欧冠_马竞vs勒沃库森_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG11hevnKnpDBVQEwMJmcaXU/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_布鲁日vs尤文_汤宪博" tvg-name="2025-01-22 03:55_欧冠_布鲁日vs尤文_汤宪博" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_布鲁日VS尤文_汤宪博.png" group-title="欧冠",2025-01-22 03:55_欧冠_布鲁日vs尤文_汤宪博
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5mONWMTFqlUn5fjRMQnqmU/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_布鲁日vs尤文_English Commentary" tvg-name="2025-01-22 03:55_欧冠_布鲁日vs尤文_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_布鲁日VS尤文_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:55_欧冠_布鲁日vs尤文_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG4y6LEh_UNQOWgCci93B0I8/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_贝尔格莱德红星vs埃因霍温_侯嘉晨" tvg-name="2025-01-22 03:55_欧冠_贝尔格莱德红星vs埃因霍温_侯嘉晨" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_贝尔格莱德红星VS埃因霍温_侯嘉晨.png" group-title="欧冠",2025-01-22 03:55_欧冠_贝尔格莱德红星vs埃因霍温_侯嘉晨
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0g3r0t92T54Xu-7IwN9YY8/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_贝尔格莱德红星vs埃因霍温_English Commentary" tvg-name="2025-01-22 03:55_欧冠_贝尔格莱德红星vs埃因霍温_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_贝尔格莱德红星VS埃因霍温_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:55_欧冠_贝尔格莱德红星vs埃因霍温_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG6HNJNz65BMVxZtYyJW9sss/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_布拉迪斯拉发vs斯图加特_肖天宇" tvg-name="2025-01-22 03:55_欧冠_布拉迪斯拉发vs斯图加特_肖天宇" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_布拉迪斯拉发VS斯图加特_肖天宇.png" group-title="欧冠",2025-01-22 03:55_欧冠_布拉迪斯拉发vs斯图加特_肖天宇
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG5hzAm--rO8bxSsjuvWZsRk/m3u8
+#EXTINF:-1,tvg-id="2025-01-22 03:55_欧冠_布拉迪斯拉发vs斯图加特_English Commentary" tvg-name="2025-01-22 03:55_欧冠_布拉迪斯拉发vs斯图加特_English Commentary" tvg-logo="https://epg.112114.xyz/logo/012203:55_欧冠_布拉迪斯拉发VS斯图加特_ENGLISHCOMMENTARY.png" group-title="欧冠",2025-01-22 03:55_欧冠_布拉迪斯拉发vs斯图加特_English Commentary
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG0vHQKy_LsGCh4CYn8UD7MM/m3u8
