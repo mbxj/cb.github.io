@@ -1,1 +1,5 @@
-11
+#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://epg.v1.mk/logo/CCTV1综合.png" group-title="🐉央视卫视-①💥",cctv1综合
+https://wyzy.online:55734/allinone/migu/608807420.m3u8?migutoken=3f3fe888074ad7042b139cb104da3fdf59eb80e32031332c2448f9a923db13d036f731e40bb8ece452a3fdf3314f7b64cb4bae1ab618cd2165667483ef27e37909fbd05b60d751a3ebaa9dd31e
+#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://epg.v1.mk/logo/CCTV2财经.png" group-title="🐉央视卫视-①💥",cctv2财经
+https://wyzy.online:55734/allinone/migu/631780532.m3u8?migutoken=a3c7843dad3fb84abd7db904fad4299f0cdd6ddc53f3fe4b89e40767bd480e3249ea86b1baefb98c761fe3f6832305a65f2da89165522b9c75f003adb8e379817c967e97f7f6d98a5ad0b5e561
+#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://epg.v1.mk/logo/CCTV3综艺.png" group-title="🐉央视卫视-①💥",cctv3综艺
