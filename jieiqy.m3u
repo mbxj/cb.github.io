@@ -1,14 +1,5 @@
 
 
-
-#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 02/16 23:05_西甲联赛_巴拉多利德 vs 塞维利亚_李霄
-http://live.20191209.xyz:5888/migu/948488449.m3u8?migutoken=fcddb4da1718ba3aeb51e72db87c6fb2952357e4171a9b138b954152af0cbbf51402cc5f78f3c8b7f7301b391b4abd5c21c7aa78be0c708986274c1c706daee7533b7c46538bb524bd9911ca
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-02-16 23:10_西甲_巴拉多利德vs塞维利亚_梁森童 
-https://wyzy.online:55734/allinone/iqiyi/4140393/6388147999244423.m3u8?iqytoken=cda8c8cb47c33a8b749f067c320a6380e5693d8cd5cf969e6fb1da608e6ad02b6e7b10c983e927d63e8de8ed2469c14a226a7086b7395fb5e96185e3a0c846250fe3d005c21bfef8e1e4bb16373cd73420079658ce6bbe767d3fd234e1334098f3857ebc74c4822e2b4a4e805e861aaaa72c0e5a7206e4a64ced523adace9b7998f633a2b3b7931f0aedd28940e0d1d89a4e1bad95cd17d41c06193ddc233193d7f6f66aa52bd60dc578241d61
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-02-16 23:10_西甲_巴拉多利德vs塞维利亚_English Commentary 
-https://wyzy.online:55734/allinone/iqiyi/4140393/7272134763402823.m3u8?iqytoken=b45fd8c1cd5508db7eef4a09e918725de03ba8cee7c1bfd877749d95a58548a53176579e80d5e3359282c86bf389d2218293a520bbbf49faeb5f079743022f44c5a65cddd8cdce1a0aba5fda2b0e16a1ce54e621b4db9838cae5e3fce03a5bda85bfe78cc6f3665172a2cf05a08539213041be68f05a4a2d4f10a3761c6f4f1e452508ad36627f559fc6b4a3f5d060d151a542f2e8c43ba1285691370b74c792a259cf424c4307b0c04c31f9d5
-
-
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 02/17 00:15_英超联赛_托特纳姆热刺 vs 曼联_詹俊 张路 林梦鸽
 http://live.20191209.xyz:5888/migu/948490787.m3u8?migutoken=65e9a050363d577a7e467cee279d897ba013cd64303f159271349194fa3ff9c93de5ad7d6db672922fd440c3f1618ac26fbae331b7c96e50ae992d55fc10fc1ecdf8c7857b68f4be552e81e9
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 02/17 00:20_英超联赛_托特纳姆热刺 vs 曼联_江忠德
@@ -26,7 +17,8 @@ https://wyzy.online:55734/allinone/iqiyi/4139835/8793843376483123.m3u8?iqytoken=
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 02/17 01:20_西甲联赛_马略卡 vs 拉斯帕尔马斯_孙雨轩
 http://live.20191209.xyz:5888/migu/948488489.m3u8?migutoken=acd5957d2975054ae2506c7d9ae44c18c3ffdfd9ab1adb26f50bda279e45925d41cd449e2aca7e66a4ae2f3ad0d7a01bd4a6434c36ac86e376904238599bfe2c48e7207d84ab8e33fc0eddca
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-02-17 01:25_西甲_马略卡vs拉斯帕尔马斯_秦晋 
-https://wyzy.online:55734/allinone/iqiyi/4140391/6753935625790823.m3u8?iqytoken=b24d2ab4f18b0ce5b7bae6bf894a9bc42ed51ea7231db06654d9c7d1db87baa17682a650ddf47d538e7454c92304ba9f65e238c97b890814796237493e37b3c4c5310231a9e53fd15d8d08425d03f248a1144bfa8ebf816bd806279c34794d5e20f09375a89a78a5014363e6e8b027d10a03a03effdf8aad4559d6a2d2af5c922725c0d021f962bdffbacf51360b470b1cd79ec4a49cb7b0b578875103231f53f07d072fa3aaad79cf111334a7
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG2CyPH6e0D4luIaa5qb06TQ/m3u8
+
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-02-17 01:25_西甲_马略卡vs拉斯帕尔马斯_English Commentary 
 https://wyzy.online:55734/allinone/iqiyi/4140391/4061064875061423.m3u8?iqytoken=a04f3db3bbc56bce5f595a960669708ebe797fdd08b771ad21558d78d7c6763d9bd89e764ef27c10970e3cc9310126439a4c743f88061ae679a91b7fa463433db79b53fdc5ed95a82925646b03fa4d75690605b2c7e9589417d447e7545d313e3322e86f777f9c42de01ad5ad9b2a54366e662bdd6f3fc9c2aeb5b70b70ca52e942641e9eb8cd78f646ea39133c384643966f441fd543af4dd8c41af830658c47d02bed56346e922165d9e303e
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/赛车.png" group-title="赛车", 2025-02-17 01:30_赛车_2025纳斯卡赛车系列赛-戴通纳500赛_现场原声 
@@ -36,7 +28,8 @@ https://wyzy.online:55734/allinone/iqiyi/1900002430/1179685150120623.m3u8?iqytok
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="西甲", 02/17 03:50_西甲联赛_皇家贝蒂斯 vs 皇家社会_兰子非
 http://live.20191209.xyz:5888/migu/948488569.m3u8?migutoken=47f014cb2c15e526b3320358bd44a1d07371c25916c4187b4c10418e0cd230a042b8c5dd5f36eee0b4a5754486c7e7279dbde5363c0f753b3a10190489aac0d6a7086feea7a6570e7454699d
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-02-17 03:55_西甲_贝蒂斯vs皇家社会_侯嘉晨 
-https://wyzy.online:55734/allinone/iqiyi/4140388/5295598114670423.m3u8?iqytoken=18666c1cd6c077cb8c31f0191646668bda83f62bce22bc8e438fa1c230e7b79be02d3a13b9d5f0266f1a2206ea54b68d6aefc377493ef7008ba56bce338883575936aa40f55fb3e1b1e3fd9d6ca10be8d27dc19d24ddc9169f4a2defaa61f11cf5df1b3b17ea62f4ef3d20828cc07513919f4fe7f3d98101cf01eb344665c2dce1a3b9eac16ee0919fcc06a8f38d832eece2f36bd34310264d578480c6013abe5bc8a59c41625a9b7119777f2b
+https://newtvsuper.com:443/play/ZqgjQTBcWx0hOYzVweGeG67rUtES_onThlT-n_J9LCc/m3u8
+
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/西甲.png" group-title="西甲", 2025-02-17 03:55_西甲_贝蒂斯vs皇家社会_English Commentary 
 https://wyzy.online:55734/allinone/iqiyi/4140388/5359771382487623.m3u8?iqytoken=88b28e24d59b0c529058b7541c8a78c8f0e44765e8cf9916ecb7b0a4d72ec26b5cad8e5085b002b37c96c9bb4407b124536f709357f2cc68689337fbd73368088c2d822128116bbdfc6d6affc629c1f93f8fb8d5298ad09c497e4d1b002cb9ca597e7d2a420dc3dda2eaed5f0f6da6cf676cf636fde87460032b9302ea98001bf2b3eb90d9f47c04935abdc782cb7309c7662b3ce930a0db6efab91eb97fe8f5fd8d1737129472072c24abad36
 
