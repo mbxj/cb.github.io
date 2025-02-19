@@ -7,17 +7,6 @@ https://cccimg.com/view.php/01e60583132f6da13a5d1cebb2124c04.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 01:30_欧冠_多特蒙德vs葡萄牙体育_刘勇 董方卓 
-https://pull9.haipengzuche.com/live/70105434fa69848a.m3u8?txSecret=5ea82691b44b8da4e5926496addbb666&txTime=67B6189E
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 01:30_欧冠_多特蒙德vs葡萄牙体育_English Commentary 
-https://live.jiatianxiazhuangshi.com/live/57684925_44d8f6c65bc001d849462f5ebcb7ddcf_nsd.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/亚冠二级.png" group-title="亚冠二级", 2025-02-20 02:00_亚冠二级_布赖代合作vs威柯拉_English commentary 
-http://dx.hebiu.cn/iqiyi/4251403/3059159731289123.m3u8?iqytoken=68d0fb3ec4dcf683c61f9ad9ba2855db73569f692ded6802963d26c67b27a145d26de65e2a00e176d126f9df173eb8695d0d8fddf38e379e72eedd4645986c8670a7e355d284d302275e71ad1188ee1b121a97c7285dfe4e0ef7b0d6ff0ba0168b4705602984a51471fff661aff48709622d8cafd7ce97c75be492e6704d747c134e8d25412df0c687a83f3ada3eb4b68de3f16f016ccd78ec0b44cdeec76947e8b91aa6b101376170
-
-
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超", 02/20 03:15_英超联赛_阿斯顿维拉 vs 利物浦_詹俊 张路
 http://dx.hebiu.cn/migu/948490603.m3u8?migutoken=be9e5f528e97ff74980201c6aa404b07688d652795c3b58324e8aea345f08efcb1a5862d0e4cede2db674bc4e9cc991d6058e2b7b00769d8d2c7344e9b46ab4508c77b784879af2f1cfdcaf9
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/英超.png" group-title="英超", 2025-02-20 03:15_英超_阿斯顿维拉vs利物浦_金相凯 蔡惠强 
@@ -26,11 +15,15 @@ http://dx.hebiu.cn/iqiyi/4139953/3203549583867823.m3u8?iqytoken=6ef81de70ee56389
 http://dx.hebiu.cn/iqiyi/4139953/6118620274407623.m3u8?iqytoken=9eb679c905129f5a3c1c97cae320a38a5a052591ad172d6e7bbd9bd6bf120829fe0e7bfba8f3104478e1a22a87871dce06811e7262e178b64785e8aa84b7f12f8e633951173dd5d6c9155456ccc76e55d5dabf8105bd28ce2092131e2141e74519a705c562725ed3c860ee9706507f8180bb2eb3398d59ec60a661516aeb80c5f051c7e6e41306dd8005f36e85223e69103a500aa8d55b9b7e9867796be517ff0aa18c6602aa606596
 
 
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 03:40_欧冠_皇马vs曼城_黄健翔 刘建宏 朱迟蕊 源1
+https://pullkgq.15qctz.com/sport/202_3439349_1.m3u8?auth_key=1739995389-0-0-a02d80a51fca359ffb6b1c3a26cf6311
+#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 03:40_欧冠_皇马vs曼城_黄健翔 刘建宏 朱迟蕊 源2
+https://pullhw.zhaoyangyang.cn/live/8766048.flv?auth_info=CwEH1l5%2FxD5u%2F4f7u2KYjaEMXDGlwcIA52QLF6YyDvo%3D.6c696f6a783854524e53726a48353965
 
-#EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 03:40_欧冠_皇马vs曼城_黄健翔 刘建宏 朱迟蕊 
-http://dx.hebiu.cn/iqiyi/4281873/2723854406950323.m3u8?iqytoken=dd1959fa482763775c6da334e435b54e28d53dd50914eb9e59f29b139e89aafd33ce549f3ff484c93f5d3b03860da422717fd602cc83c4f72669d9b18635f0a79bd45a113c0b1232ca9e15107990466b11e47ed6663a0733d4cab2fd8805390d7057856d9ba7e15e1b8b0f79ba5b00a77aab9b32b3c798d0beb27a001012b8aa5c2019ea3c0deb3a85e1ee5eb9f192ef354449906361f10cc40f51a092e5585a907e4ab81c3ffec5a2
+
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 03:40_欧冠_皇马vs曼城_陈文森 
-http://dx.hebiu.cn/iqiyi/4281873/6551789832159423.m3u8?iqytoken=8be1e47fa3b4a3135f10ba9454a3e2ac15771061bcba55be66eb2eb19457eb97a61cea4c2fc5695de4922b6e094aa1639154b5cd9a21e46a42431c249b4e1ce1ebf9a82b963ef516f9d21a6d518e1f40d32540e7791a1e1ee09a1a5134b4d9db52911ca6107512946b2cecbb989b85f8f56351d4b11194076d7208a9ca11169d9154e2a81494ad1167a9585514756f27193bee6d960bd67536fb412b57351c16e4347c25fdf82372a3
+https://pullkgq.15qctz.com/sport/202_3439349_3.m3u8?auth_key=1739995389-0-0-216e57f234d0d1c590d28a24f7856252
+
 #EXTINF:-1 tvg-logo="https://imgtool.v1.mk/static/欧冠.png" group-title="欧冠", 2025-02-20 03:40_欧冠_皇马vs曼城_English Commentary 
 http://dx.hebiu.cn/iqiyi/4281873/5866740198239723.m3u8?iqytoken=ef1ddef772c9900d5eacdb578c69a4b027600564af705e3f9dbd90442f939d69b0ad406aa97961ca8f721d5db540f116e127f318ca2173448a3ca9f76ff6cdac4b7c37c7cec2fbb1039e15ec8573593a8dd60651c4844071b4553342de0b20ef0c12452643abc2a14d84c18a1780d07e708f58fde2ee71e573752a819a24ed0467ce86a35ba849d4dfb530fa7004922724634888105f51cbe99f6e44513190fa3bed1b1d38962f4d8a
 
